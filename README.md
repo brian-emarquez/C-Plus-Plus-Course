@@ -1,7 +1,7 @@
 
 <h2 align="center">Curso de C++&nbsp;🕹️&nbsp;</h2>
 
-![python](./Images/python3.png)
+![python](./images/c++1.png)
 
 ## C+++ 💻
 
