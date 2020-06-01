@@ -48,23 +48,9 @@ C++ tiene los siguientes tipos fundamentales:
 El modificador `unsigned` se puede aplicar a enteros para obtener números sin signo (por omisión los enteros contienen signo), con lo que se consigue un rango mayor de números naturales.
 
 
-### Instalacion Visual Studio Code
+### Instalacion en Visual Studio Code
 
 
-
-## Versión 🧑‍💻
-
-_Verifica la versión de Python_
-
-```
-python --version
-```
-
-_Actualiza el  PIP de Python_
-
-```
-python -m pip install --upgrade pip
-```
 
 
 
@@ -76,17 +62,9 @@ python -m pip install --upgrade pip
 [BLOG](https://www.anaconda.com/blog).<br>
 
 
-| Caracteristicas            | Visual Code |   Anaconda   |   
-|----------------------------|:-----------:|:------------:|
-| Codigo Abierto             |      ❌     |      ✔️     |      
-| Multiplataforma            |      ✔️     |      ✔️     |     
-| Soporte                    |      ✔️     |      ✔️     |      
-| Ciencia de datos           |      ❌     |      ✔️     |  
-| Rapidez                    |      ✔️     |      ✔️     |      
-
-## Notas 📋
-
-- Puedes utilizar otro editor de codigo pero no tendras soporte. se recomienda usar los editores mensionados. 
+    
+### Intalacion en Visual Studio
+ 
 
 ## Ramas 👾
 
@@ -95,10 +73,3 @@ Ver todas las Ramas [Ramas](https://github.com/BrianMarquez3/Python-Course/setti
 ## Autores ✒️
 
 * **Brian Marquez** - *Documentación* - [Brian Marquez]()
-
-## Spotify
-Music Python [List on Spotify](https://open.spotify.com/playlist/11AwbhmXyh2jKlsHmaxcP9)
-
-
-
-
