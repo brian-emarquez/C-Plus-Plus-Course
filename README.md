@@ -5,6 +5,33 @@
 
 Es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La intención de su creación fue extender al lenguaje de programación C mecanismos que permiten la manipulación de objetos. En ese sentido, desde el punto de vista de los lenguajes orientados a objetos, el C++ es un lenguaje híbrido.
 
+
+
+| Características de C++                | 
+| ------------------------------------- | 
+| Su sintaxis es heredada del lenguaje C | 
+| Programa orientado a objetos (POO) | 
+| Permite la agrupación de instrucciones | 
+| Lenguaje muy didáctico, con este lenguaje puedes aprender muchos otros lenguajes con gran facilidad. | 
+| Es portátil y tiene un gran número de compiladores en diferentes plataformas y sistemas operativos. |
+| Permite la separación de un programa en módulos que admiten compilación independiente | 
+| Es un lenguaje de alto nivel | 
+
+### Ejemplo
+A continuación se cita un programa de ejemplo Hola mundo escrito en C++:
+
+```
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    cout << "Hola mundo" << endl;
+    return 0;
+}
+```
+
 ### Tipo de datos
 
 C++ tiene los siguientes tipos fundamentales:
