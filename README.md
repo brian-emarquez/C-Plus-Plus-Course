@@ -1,13 +1,25 @@
 
 ## C++ Course
 
-### C++ 💻
+### C++ 
 
 Es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La intención de su creación fue extender al lenguaje de programación C mecanismos que permiten la manipulación de objetos. En ese sentido, desde el punto de vista de los lenguajes orientados a objetos, el C++ es un lenguaje híbrido.
 
+### Tipo de datos
 
-- `C:\Python27\python.exe`: Ejecutar Aplicaciones en Windows.
-- `usr/bin/python`: Ejecutar Aplicaciones en Linux
+C++ tiene los siguientes tipos fundamentales:
+
+
+| Types                               | Description                                                                                                                                                    |
+| ------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `char`          | Caracteres.                                                                                                |
+| `short`, `int`, `long`, `long long`                 | Enteros.                                                                       |
+| `float`, `double`, `long double` | Números en coma flotante.
+| `bool`               | Booleanos.                                                                                                       |
+| `void`                     | Vacío.
+
+El modificador `unsigned` se puede aplicar a enteros para obtener números sin signo (por omisión los enteros contienen signo), con lo que se consigue un rango mayor de números naturales.
+
 
 ### Instalacion Visual Studio Code
 ```
