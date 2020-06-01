@@ -49,10 +49,21 @@ El modificador `unsigned` se puede aplicar a enteros para obtener números sin s
 
 
 ### Instalacion en Visual Studio Code
+Descargar los siguintes archivos:<br>
+📦 [Install Mingw-w64](https://www.python.org/) Instalador del mingw-w64.<br>
 
+```
+c++ --version
+```
 
+```
+g++ --version
+```
+📦 [Install VS Code](https://code.visualstudio.com/) Instalador de Visual Studio Code.<br>
 
-
+```
+code --version
+```
 
 [WIKIPEDIA](https://es.wikipedia.org/wiki/Python).<br>
 
