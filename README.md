@@ -18,7 +18,7 @@ Es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La inte
 | Es un lenguaje de alto nivel | 
 
 ### Ejemplo
-A continuación se cita un programa de ejemplo [hola mundo(https://es.wikipedia.org/wiki/Hola_mundo)  escrito en C++:
+A continuación se cita un programa de ejemplo [hola mundo](https://es.wikipedia.org/wiki/Hola_mundo)  escrito en C++:
 
 ```
 #include <iostream>
