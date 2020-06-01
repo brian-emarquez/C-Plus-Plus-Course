@@ -1,17 +1,15 @@
 
-<h2 align="center">Curso de C++&nbsp;🕹️&nbsp;</h2>
+## C++ Course
 
-![python](./images/c++1.png)
-
-## C++ 💻
+### C++ 💻
 
 Es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La intención de su creación fue extender al lenguaje de programación C mecanismos que permiten la manipulación de objetos. En ese sentido, desde el punto de vista de los lenguajes orientados a objetos, el C++ es un lenguaje híbrido.
 
-Posteriormente se añadieron facilidades de programación genérica, que se sumaron a los paradigmas de programación estructurada y programación orientada a objetos. Por esto se suele decir que el C++ es un lenguaje de programación multiparadigma.
+
 - `C:\Python27\python.exe`: Ejecutar Aplicaciones en Windows.
 - `usr/bin/python`: Ejecutar Aplicaciones en Linux
 
-### Ejemplos
+### Instalacion Visual Studio Code
 ```
 >>> 2 + 3
 5
