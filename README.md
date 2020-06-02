@@ -15,13 +15,15 @@ Es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La inte
   <a href="https://github.com/BrianMarquez3/C-Plus-Plus-Course/network">
     <img src="https://img.shields.io/github/forks/BrianMarquez3/C-Plus-Plus-Course.svg?style=flat" alt="Forks">
   </a>
-  <a href="https://david-dm.org/StylishThemes/GitHub-Dark?type=dev">
+  
+  <!--<a href="https://david-dm.org/StylishThemes/GitHub-Dark?type=dev">
     <img src="https://img.shields.io/david/dev/StylishThemes/GitHub-Dark.svg?label=devDependencies&style=flat" alt="devDependencies">
   </a>
   <a href="https://gitter.im/StylishThemes/GitHub-Dark">
     <img src="https://img.shields.io/gitter/room/StylishThemes/Github-Dark.js.svg?maxAge=2592000&style=flat" alt="Gitter">
-  </a>
+  </a>-->
 </p>
+
 <img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/demo1.gif>
 
 
