@@ -3,10 +3,11 @@
 ### C++ 
 
 Es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La intención de su creación fue extender al lenguaje de programación C mecanismos que permiten la manipulación de objetos. En ese sentido, desde el punto de vista de los lenguajes orientados a objetos, el C++ es un lenguaje híbrido.
+
 <p align="center">
-  <br>
-  <a href="https://github.com/StylishThemes/GitHub-Dark/tags">
-    <img src="https://img.shields.io/github/tag/StylishThemes/GitHub-Dark.svg?label=version&style=flat" alt="Version">
+  
+  <a href="https://github.com/BrianMarquez3/C-Plus-Plus-Course/tags">
+    <img src="https://img.shields.io/github/tag/BrianMarquez3/C-Plus-Plus-Course.svg?label=version&style=flat" alt="Version">
   </a>
   <a href="https://github.com/StylishThemes/GitHub-Dark/stargazers">
     <img src="https://img.shields.io/github/stars/StylishThemes/GitHub-Dark.svg?style=flat" alt="Stars">
