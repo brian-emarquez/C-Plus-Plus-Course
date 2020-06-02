@@ -59,11 +59,28 @@ c++ --version
 ```
 g++ --version
 ```
+<!-- use less words -->
+
+-   Seleccion la imagen para hacer acercamiento
+
+<img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/cmd.PNG width=750 height=150>
+
 📦 [Install VS Code](https://code.visualstudio.com/) Instalador de Visual Studio Code.<br>
 
 ```
 code --version
 ```
+-   Seleccion la imagen para hacer acercamiento
+
+<img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/code.PNG width=800 height=80>
+
+⚙ Configurar
+
+-   Instala
+
+<img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/Instalar_c++.gif>
+
+
 
 [WIKIPEDIA](https://es.wikipedia.org/wiki/Python).<br>
 
