@@ -76,20 +76,20 @@ code --version
 
 ⚙ Configuración
 
--   📦 Instala la Extencion de Visual Studio code: C/C++
+-   📦 Instalacion de la Extencion de Visual Studio code: C/C++
 
 <img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/Instalar_c++.gif>
 
--   📦 Instala la Extencion Code Runner (C, C++, Java, JavaScript, PHP, Python...)
+-   📦 Instalacion de la Extencion Code Runner (C, C++, Java, JavaScript, PHP, Python...)
 
 <img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/code_runner.gif>
 
 
--   📦 Instala la Extencion C++ Intelisense (C/C++ Intellisense with the help of GNU Global tags)
+-   📦 Instalacion de la Extencion C++ Intelisense (C/C++ Intellisense with the help of GNU Global tags)
 
 <img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/c++intellisense.gif>
 
--   Configurar de Code Runner
+-   Configuracion de Code Runner
 
 <img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/configuracion.gif>
 
