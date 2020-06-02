@@ -50,3 +50,35 @@ int main() {
 
     return 0;
 }
+
+/*
+Signo	Operación
++	Suma
+-	Resta
+*	Multiplicación
+/	División
+^	Potencia
+*/
+
+/*La multiplicación también puede ser indicada con una x minúscula.
+
+A continuación, se debe ingresar los dos operandos. Finalmente, el programa muestra el resultado de la operación.
+
+Escriba, compile y ejecute este programa.
+
+En este programa puede ver que es posible asignar un valor inicial a una variable al momento de declararla:
+*/
+
+/*Sentencias Switch*/
+
+//switch (expresion) {
+    //case 1:
+        /* que hacer cuando expresion == 1 */
+
+    //case 2:
+        /* que hacer cuando expresion == 2 */
+
+    //default:
+        /* que hacer cuando la expresion no es igual
+         * a ninguno de los casos anteriores */
+//}
