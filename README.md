@@ -16,6 +16,7 @@ Es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La inte
     <img src="https://img.shields.io/github/forks/BrianMarquez3/C-Plus-Plus-Course.svg?style=flat" alt="Forks">
   </a>
   
+  <!--programa modificacion-->
   <!--<a href="https://david-dm.org/StylishThemes/GitHub-Dark?type=dev">
     <img src="https://img.shields.io/david/dev/StylishThemes/GitHub-Dark.svg?label=devDependencies&style=flat" alt="devDependencies">
   </a>
