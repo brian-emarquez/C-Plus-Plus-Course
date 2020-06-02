@@ -1,3 +1,4 @@
+/*calculadora simple*/
 #include <stdio.h>
 
 float potencia(float base, int exponente) {
@@ -81,4 +82,5 @@ En este programa puede ver que es posible asignar un valor inicial a una variabl
     //default:
         /* que hacer cuando la expresion no es igual
          * a ninguno de los casos anteriores */
-//}
+
+// }
