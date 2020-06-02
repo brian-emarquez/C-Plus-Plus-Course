@@ -76,31 +76,27 @@ code --version
 
 ⚙ Configuración
 
--   📦 Instala la Extencion C/C++
+-   📦 Instala la Extencion de Visual Studio code: C/C++
 
 <img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/Instalar_c++.gif>
 
--   📦 Instala la Extencion Code Runner (C, C++, Java, JavaScript, PHP, Python, Perl, Perl 6, Ruby, Go, Lua, Groovy, PowerShell, BAT/CMD, BASH/SH, F# Script, F# (.NET Core), C# Script, C# (.NET Core), VBScript, TypeScript, CoffeeScript, Scala, Swift, Julia, Crystal, OCaml Script, R, AppleScript, Elixir, Visual Basic .NET, Clojure, Haxe, Objective-C, Rust, Racket, Scheme, AutoHotkey, AutoIt, Kotlin, Dart, Free Pascal, Haskell, Nim, D, Lisp, Kit, V, SCSS, Sass, CUDA, and custom command)
+-   📦 Instala la Extencion Code Runner (C, C++, Java, JavaScript, PHP, Python...)
 
 <img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/code_runner.gif>
 
 
--   📦 Instala la Extencion C++ Intellisense (C/C++ Intellisense with the help of GNU Global tags)
+-   📦 Instala la Extencion C++ Intelisense (C/C++ Intellisense with the help of GNU Global tags)
 
 <img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/c++intellisense.gif>
 
+-   Configurar de Code Runner
+
+<img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/configuracion.gif>
 
 
-
-📦 [Install Python](https://www.python.org/) Instalador de Python.<br>
-📦 [Install Anaconda](https://www.anaconda.com/) Intalador de Anaconda.<br>
-📦 [Install Visual studio Code](https://code.visualstudio.com/) Intalador de Visual Studio Code
-[BLOG](https://www.anaconda.com/blog).<br>
-
-
-    
 ### Intalacion en Visual Studio
  
+📦 [Install Visual Studio](https://visualstudio.microsoft.com/es/) Instalador de Visual Studio IDE.<br>
 
 ## Ramas 👾
 
@@ -109,3 +105,7 @@ Ver todas las Ramas [Ramas](https://github.com/BrianMarquez3/Python-Course/setti
 ## Autores ✒️
 
 * **Brian Marquez** - *Documentación* - [Brian Marquez]()
+
+-   Ejecucion
+
+<img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/run.gif>
