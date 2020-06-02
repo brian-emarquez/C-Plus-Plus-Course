@@ -70,16 +70,19 @@ g++ --version
 ```
 code --version
 ```
--   Seleccion la imagen para hacer acercamiento
+-   Seleccion la imagen para hacer acercamiento (IntelliSense, debugging, and code browsing.)
 
 <img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/code.PNG width=800 height=80>
 
-⚙ Configurar
+⚙ Configuración
 
--   Instala
+-   Instala la Extencion de Visual Studio code: C/C++
 
 <img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/Instalar_c++.gif>
 
+-   Instala la Extencion Code Runner (C, C++, Java, JavaScript, PHP, Python, Perl, Perl 6, Ruby, Go, Lua, Groovy, PowerShell, BAT/CMD, BASH/SH, F# Script, F# (.NET Core), C# Script, C# (.NET Core), VBScript, TypeScript, CoffeeScript, Scala, Swift, Julia, Crystal, OCaml Script, R, AppleScript, Elixir, Visual Basic .NET, Clojure, Haxe, Objective-C, Rust, Racket, Scheme, AutoHotkey, AutoIt, Kotlin, Dart, Free Pascal, Haskell, Nim, D, Lisp, Kit, V, SCSS, Sass, CUDA, and custom command)
+
+<img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/code_runner.gif>
 
 
 [WIKIPEDIA](https://es.wikipedia.org/wiki/Python).<br>
