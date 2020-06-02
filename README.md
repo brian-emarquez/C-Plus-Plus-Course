@@ -58,13 +58,13 @@ int main()
 C++ tiene los siguientes tipos fundamentales:
 
 
-| Types                               | Description                                                                                                                                                    |
-| ------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `char`          | Caracteres.                                                                                                |
-| `short`, `int`, `long`, `long long`                 | Enteros.                                                                       |
-| `float`, `double`, `long double` | Números en coma flotante.
-| `bool`               | Booleanos.                                                                                                       |
-| `void`                     | Vacío.
+| Types                               | Description          |
+| ----------------------------------- | -------------------- |
+| `char`          | Caracteres.                                      |
+| `short`, `int`, `long`, `long long`   | Enteros.                   |
+| `float`, `double`, `long double`      | Números en coma flotante.  |
+| `bool`                                | Booleanos.                 |
+| `void`                                | Vacío.                     |
 
 El modificador `unsigned` se puede aplicar a enteros para obtener números sin signo (por omisión los enteros contienen signo), con lo que se consigue un rango mayor de números naturales.
 
