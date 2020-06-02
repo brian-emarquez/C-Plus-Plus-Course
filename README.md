@@ -90,22 +90,22 @@ g++ --version
 ```
 code --version
 ```
--   📦 Seleccion la imagen para hacer acercamiento (IntelliSense, debugging, and code browsing.)
+-   ✔ Seleccion la imagen para hacer acercamiento (IntelliSense, debugging, and code browsing.)
 
 <img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/code.PNG width=800 height=80>
 
 ⚙ Configuración
 
--   📦 Instalacion de la Extencion de Visual Studio code: C/C++
+-   ✔ Instalacion de la Extencion de Visual Studio code: C/C++
 
 <img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/Instalar_c++.gif>
 
--   📦 Instalacion de la Extencion Code Runner (C, C++, Java, JavaScript, PHP, Python...)
+-   ✔ Instalacion de la Extencion Code Runner (C, C++, Java, JavaScript, PHP, Python...)
 
 <img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/code_runner.gif>
 
 
--   📦 Instalacion de la Extencion C++ Intelisense (C/C++ Intellisense with the help of GNU Global tags)
+-   ✔ Instalacion de la Extencion C++ Intelisense (C/C++ Intellisense with the help of GNU Global tags)
 
 <img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/c++intellisense.gif>
 
