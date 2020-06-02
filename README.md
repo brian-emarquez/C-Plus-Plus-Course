@@ -80,7 +80,7 @@ g++ --version
 
 -   Seleccion la imagen para hacer acercamiento
 
-<img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/cmd.PNG width=750 height=150>
+<img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/cmd.PNG width=700 height=150>
 
 📦 [Install VS Code](https://code.visualstudio.com/) Instalador de Visual Studio Code.<br>
 
