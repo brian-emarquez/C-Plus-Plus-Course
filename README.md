@@ -1,7 +1,24 @@
 
 ## C++ Course
 ### C++ 
-
+<p align="center">
+  <br>
+  <a href="https://github.com/StylishThemes/GitHub-Dark/tags">
+    <img src="https://img.shields.io/github/tag/StylishThemes/GitHub-Dark.svg?label=version&style=flat" alt="Version">
+  </a>
+  <a href="https://github.com/StylishThemes/GitHub-Dark/stargazers">
+    <img src="https://img.shields.io/github/stars/StylishThemes/GitHub-Dark.svg?style=flat" alt="Stars">
+  </a>
+  <a href="https://github.com/StylishThemes/GitHub-Dark/network">
+    <img src="https://img.shields.io/github/forks/StylishThemes/GitHub-Dark.svg?style=flat" alt="Forks">
+  </a>
+  <a href="https://david-dm.org/StylishThemes/GitHub-Dark?type=dev">
+    <img src="https://img.shields.io/david/dev/StylishThemes/GitHub-Dark.svg?label=devDependencies&style=flat" alt="devDependencies">
+  </a>
+  <a href="https://gitter.im/StylishThemes/GitHub-Dark">
+    <img src="https://img.shields.io/gitter/room/StylishThemes/Github-Dark.js.svg?maxAge=2592000&style=flat" alt="Gitter">
+  </a>
+</p>
 Es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La intención de su creación fue extender al lenguaje de programación C mecanismos que permiten la manipulación de objetos. En ese sentido, desde el punto de vista de los lenguajes orientados a objetos, el C++ es un lenguaje híbrido.
 
 <img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/demo.gif>
