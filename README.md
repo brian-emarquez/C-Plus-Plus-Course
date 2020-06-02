@@ -118,10 +118,6 @@ code --version
  
 📦 [Install Visual Studio](https://visualstudio.microsoft.com/es/) Instalador de Visual Studio IDE.<br>
 
-## Ramas 👾
-
-Ver todas las Ramas [Ramas](https://github.com/BrianMarquez3/Python-Course/settings/branches)
-
 ## Autores ✒️
 
 * **Brian Marquez** - *Documentación* - [Brian Marquez]()
