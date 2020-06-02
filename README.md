@@ -21,7 +21,7 @@ Es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La inte
     <img src="https://img.shields.io/gitter/room/StylishThemes/Github-Dark.js.svg?maxAge=2592000&style=flat" alt="Gitter">
   </a>
 </p>
-<img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/demo0.gif>
+<img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/demo1.gif>
 
 
 | Características de C++                | 
