@@ -1,3 +1,4 @@
+/*Calculadora Basica*/
 #include <stdio.h>
 
 float potencia(float base, int exponente) {
