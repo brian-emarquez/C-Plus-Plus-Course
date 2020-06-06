@@ -71,7 +71,7 @@ El modificador `unsigned` se puede aplicar a enteros para obtener números sin s
 
 ### Instalacion en Visual Studio Code
 Descargar los siguintes archivos:<br>
-📦 [Install Mingw-w64](https://www.python.org/) Instalador del mingw-w64.<br>
+📦 [Install Mingw-w64](http://mingw-w64.org/doku.php) Instalador del mingw-w64.<br>
 
 ```
 c++ --version
