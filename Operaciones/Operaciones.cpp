@@ -1,30 +1,44 @@
 /* Operaciones Matematicas Basicas*/
 
-#include <iostream>
-
+#include<iostream>
 using namespace std;
 
 int main(){
-    int n1;
-    int n2;
-    int suma = 0;
-    int resta = 0;
-    int multiplicacion = 0;
-    int division = 0;
 
-    cout<<"Digite un numero: "; cin>>n1;
-    cout<<"Digite otro numero: "; cin>>n2;
+    /*int n1 = 0;
+    int n2 = 0;
+    int suma;
+    int resta;
+    int multiplicacion;
+    int division;
+    float potencia;*/
+
+    int n1, n2, suma, resta, multiplicacion, division, potencia = 0;
+    
+    cout<<"Operaciones Materimaticas\n";
+
+    cout<<"Ingrese un numero: ";cin>>n1;
+    cout<<"Ingrese un numero: ";cin>>n2;
 
     suma = n1+n2;
     resta = n1-n2;
     multiplicacion = n1*n2;
     division = n1/n2;
-    
-    cout<<"La suma es: "<<suma<<endl;
-    cout<<"La resta es: "<<resta<<endl;
-    cout<<"La multiplicacion es: "<<multiplicacion<<endl;
-    cout<<"La division es: "<<division<<endl;
+    potencia = n1^n2;
+
+    cout<<"\nla Suma es: "<<suma<<endl;
+    cout<<"la Resta es: "<<resta<<endl;
+    cout<<"la multiplicacion es: "<<multiplicacion<<endl;
+    cout<<"la Division es: "<<division<<endl;
+    cout<<"la Potencia es: "<<potencia<<endl;
 
     return 0;
 }
+
+
+
+
+
+
+
 
