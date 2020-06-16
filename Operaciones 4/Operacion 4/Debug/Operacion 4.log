@@ -1,0 +1,5 @@
+﻿  Operacion 4.cpp
+C:\Users\brian\source\repos\BrianMarquez3\C-Plus-Plus-Course\Operaciones 4\Operacion 4\Operacion 4.cpp(17,17): warning C4305: '*=': truncamiento de 'double' a 'float'
+C:\Users\brian\source\repos\BrianMarquez3\C-Plus-Plus-Course\Operaciones 4\Operacion 4\Operacion 4.cpp(18,17): warning C4305: '*=': truncamiento de 'double' a 'float'
+C:\Users\brian\source\repos\BrianMarquez3\C-Plus-Plus-Course\Operaciones 4\Operacion 4\Operacion 4.cpp(19,23): warning C4305: '*=': truncamiento de 'double' a 'float'
+  Operacion 4.vcxproj -> C:\Users\brian\Source\Repos\BrianMarquez3\C-Plus-Plus-Course\Operaciones 4\Debug\Operacion 4.exe
