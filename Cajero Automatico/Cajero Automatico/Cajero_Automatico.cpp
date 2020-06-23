@@ -1,9 +1,8 @@
-/*Simuladores de Cajero Automatico*/
+/*Simulador de Cajero Automatico*/
 /*Hacer un programa que simule un cajero automatoc con un saldo inicial de 1000 Dolores*/
 
 
 #include<iostream>
-#include<cstdlib>
 
 using namespace std;
 
