@@ -114,17 +114,18 @@ code --version
 
 <img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/configuracion.gif>
 
+-   Ejecucion
+
+<img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/run.gif>
+
 
 ### Instalacion en Visual Studio - C++/CLR
  
 📦 [Install Visual Studio](https://visualstudio.microsoft.com/es/) Instalador de Visual Studio IDE.<br>
--Creacion de Proyectos en C++, implentacion de Interfas Grafica y creacion de Intalador.
+-   Creacion de Proyectos en C++, implentacion de Interfas Grafica y creacion de Intalador
 <img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/vs.png>
 
 ## Autores ✒️
 
 * **Brian Marquez** - *Documentación* - [Brian Marquez]()
 
--   Ejecucion
-
-<img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/run.gif>
