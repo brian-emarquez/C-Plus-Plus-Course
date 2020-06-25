@@ -125,7 +125,4 @@ code --version
 -   Creación de Proyectos en c++, implantación de Interfaz Grafica y Deploy.
 <img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/vs.png>
 
-## Autores ✒️
-
-* **Brian Marquez** - *Documentación* - [Brian Marquez]()
 
