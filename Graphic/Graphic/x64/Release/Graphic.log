@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: El directorio intermedio (x64\Release\) contiene archivos compartidos de otro proyecto (Graphic.vcxproj). Esto puede dar lugar a un comportamiento incorrecto de limpieza y recompilación.
+  MyForm.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generando código...
+  MyForm.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Graphic.vcxproj -> C:\Users\brian\source\repos\BrianMarquez3\C-Plus-Plus-Course\Graphic\x64\Release\Graphic NumberRandom.exe
