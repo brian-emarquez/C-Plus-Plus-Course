@@ -119,7 +119,7 @@ code --version
  
 📦 [Install Visual Studio](https://visualstudio.microsoft.com/es/) Instalador de Visual Studio IDE.<br>
 
-<img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/vs.PNG>
+<img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/vs.png>
 
 ## Autores ✒️
 
