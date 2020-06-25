@@ -70,7 +70,7 @@ El modificador `unsigned` se puede aplicar a enteros para obtener números sin s
 
 
 ### Instalacion en Visual Studio Code
-Descargar los siguintes archivos:<br>
+Descargar los siguientes archivos:<br>
 📦 [Install Mingw-w64](http://mingw-w64.org/doku.php) Instalador del mingw-w64.<br>
 
 ```
@@ -114,17 +114,18 @@ code --version
 
 <img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/configuracion.gif>
 
+-   Ejecucion
 
-### Intalacion en Visual Studio
+<img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/run.gif>
+
+
+## Instalacion en Visual Studio - C++/CLR
  
 📦 [Install Visual Studio](https://visualstudio.microsoft.com/es/) Instalador de Visual Studio IDE.<br>
-
-<img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/vs.PNG>
+-   Creación de Proyectos en c++, implantación de Interfaz Grafica y creación de Instalador.
+<img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/vs.png>
 
 ## Autores ✒️
 
 * **Brian Marquez** - *Documentación* - [Brian Marquez]()
 
--   Ejecucion
-
-<img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/run.gif>
