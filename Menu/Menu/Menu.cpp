@@ -11,18 +11,6 @@
 
 using namespace std;
 
-int getch(void)
-{
-   int car;
-   DWORD leidos, modo;
-
-   GetConsoleMode(GetStdHandle(STD_INPUT_HANDLE), &modo);
-   SetConsoleMode(GetStdHandle(STD_INPUT_HANDLE), modo & !ENABLE_ECHO_INPUT & !ENABLE_PROCESSED_INPUT);
-   ReadConsole(GetStdHandle(STD_INPUT_HANDLE), &car, 1, &leidos, NULL);
-   SetConsoleMode(GetStdHandle(STD_INPUT_HANDLE), modo);
-   return car;
-}
-
 int gotoxy(USHORT x, USHORT y) {
     COORD cp = { x,y };
     SetConsoleCursorPosition(GetStdHandle(STD_OUTPUT_HANDLE), cp);
@@ -75,9 +63,9 @@ void menu_principal()
             break;
 
         case 5:
-            cout << "\nEl programa se cerrara!! ADIOS" << endl;
+            cout << "\nPrograma Cerrado" << endl;
             repite = false;
-            system("pause>nul");
+            system("pause");
             break;
         }
 
