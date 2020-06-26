@@ -1,0 +1,5 @@
+﻿  Menu.cpp
+C:\Users\brian\source\Repos\BrianMarquez3\C-Plus-Plus-Course\Menu\Menu\Menu.cpp(70,18): warning C4838: la conversión de 'USHORT' en 'SHORT' requiere una conversión de restricción
+C:\Users\brian\source\Repos\BrianMarquez3\C-Plus-Plus-Course\Menu\Menu\Menu.cpp(70,20): warning C4838: la conversión de 'USHORT' en 'SHORT' requiere una conversión de restricción
+C:\Users\brian\source\Repos\BrianMarquez3\C-Plus-Plus-Course\Menu\Menu\Menu.cpp(43): error C4700: se utilizó la variable local 'modo' sin inicializar
+C:\Users\brian\source\Repos\BrianMarquez3\C-Plus-Plus-Course\Menu\Menu\Menu.cpp(72): error C4716: 'gotoxy': debe devolver un valor
