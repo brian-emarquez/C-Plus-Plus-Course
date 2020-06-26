@@ -145,7 +145,7 @@ puede usar un control de Windows, por ejemplo, un cuadro de texto
 textBox1->AppendText("Hello World");
 ```
 
-<img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/run.png>
+<img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/run1.png>
 
 ###Deploy
 
