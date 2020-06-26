@@ -147,6 +147,22 @@ textBox1->AppendText("Hello World");
 
 <img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/run1.png>
 
-###Deploy
+
+### Deploy
+
+- Paquete
+<img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/deploy.png>
+
+- Setup 
+<img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/setup.png>
+<img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/setup1.png>
+<img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/setup4.png>
+
+
+
+ -  Instador
+<img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/final.png>
+
+
 
 
