@@ -477,6 +477,10 @@ private: System::Void btnSpace_Click(System::Object^ sender, System::EventArgs^ 
 	{
 		txtDisplay->Text = txtDisplay->Text->Remove(txtDisplay->Text->Length - 1,1);
 	}
+	if (txtDisplay->Text=="")
+	{
+		txtDisplay->Text = "0";
+	}
 }
 };
 }
