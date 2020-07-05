@@ -152,7 +152,7 @@ textBox1->AppendText("Hello World");
 
 - Link de Descarga
 
-📦 [Install the usercss](https://raw.githubusercontent.com/C-Plus-Plus-Course/master/Instalador.msi) which supports automatic updates and customization.<br>
+📦 [Install .EXE ](https://raw.githubusercontent.com/C-Plus-Plus-Course/Instalador/master/Instalador.msi) Graphic Basic Calculator.<br>
 
 ### Deploy
 
