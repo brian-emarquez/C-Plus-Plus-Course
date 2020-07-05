@@ -1,0 +1,3 @@
+﻿  NumeroMagico.cpp
+C:\Users\brian\source\Repos\BrianMarquez3\C-Plus-Plus-Course\Numero Magico\Numero Magico\NumeroMagico.cpp(12,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Numero Magico.vcxproj -> C:\Users\brian\source\Repos\BrianMarquez3\C-Plus-Plus-Course\Numero Magico\Debug\Numero Magico.exe
