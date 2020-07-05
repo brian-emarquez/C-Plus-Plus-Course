@@ -132,10 +132,6 @@ Los proyectos de C ++ Windows Forms son excelentes para aprender C ++. Visual C 
 
 <img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/vs.png>
 
-### Calculadora
-
-<img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/calculator.PNG>
-
 ## CLR
 
 
@@ -150,6 +146,13 @@ textBox1->AppendText("Hello World");
 
 <img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/run1.png>
 
+### Calculadora
+
+<img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/calculator.PNG>
+
+- Link de Descarga
+
+📦 [Install the usercss](https://raw.githubusercontent.com//tree/master/Instalador/Instalador.msi) which supports automatic updates and customization.<br>
 
 ### Deploy
 
