@@ -134,7 +134,7 @@ Los proyectos de C ++ Windows Forms son excelentes para aprender C ++. Visual C 
 
 ### Calculadora
 
-<img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/calculator.png>
+<img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/calculator.PNG>
 
 ## CLR
 
