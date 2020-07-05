@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30225.117
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Graphic Simple Calculator", "Graphic Simple Calcuator\Graphic Simple Calcuator.vcxproj", "{D2BAA72C-55BD-409E-B84B-61F7CDBCF8F9}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Instalador", "Instalador\Instalador.vdproj", "{F4F8D7E9-7260-4927-ABBD-9343FC437CF0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,10 @@ Global
 		{D2BAA72C-55BD-409E-B84B-61F7CDBCF8F9}.Release|x64.Build.0 = Release|x64
 		{D2BAA72C-55BD-409E-B84B-61F7CDBCF8F9}.Release|x86.ActiveCfg = Release|Win32
 		{D2BAA72C-55BD-409E-B84B-61F7CDBCF8F9}.Release|x86.Build.0 = Release|Win32
+		{F4F8D7E9-7260-4927-ABBD-9343FC437CF0}.Debug|x64.ActiveCfg = Debug
+		{F4F8D7E9-7260-4927-ABBD-9343FC437CF0}.Debug|x86.ActiveCfg = Debug
+		{F4F8D7E9-7260-4927-ABBD-9343FC437CF0}.Release|x64.ActiveCfg = Release
+		{F4F8D7E9-7260-4927-ABBD-9343FC437CF0}.Release|x86.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

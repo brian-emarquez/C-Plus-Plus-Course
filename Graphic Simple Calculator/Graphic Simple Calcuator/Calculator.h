@@ -85,6 +85,7 @@ namespace GraphicSimpleCalcuator {
 		/// </summary>
 		void InitializeComponent(void)
 		{
+			System::ComponentModel::ComponentResourceManager^ resources = (gcnew System::ComponentModel::ComponentResourceManager(Calculator::typeid));
 			this->txtDisplay = (gcnew System::Windows::Forms::TextBox());
 			this->btnSpace = (gcnew System::Windows::Forms::Button());
 			this->btnClear = (gcnew System::Windows::Forms::Button());
@@ -386,6 +387,7 @@ namespace GraphicSimpleCalcuator {
 			this->Controls->Add(this->btnClear);
 			this->Controls->Add(this->btnSpace);
 			this->Controls->Add(this->txtDisplay);
+			this->Icon = (cli::safe_cast<System::Drawing::Icon^>(resources->GetObject(L"$this.Icon")));
 			this->Name = L"Calculator";
 			this->Text = L"Calculator";
 			this->Load += gcnew System::EventHandler(this, &Calculator::Calculator_Load);
