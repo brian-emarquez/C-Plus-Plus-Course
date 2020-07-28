@@ -13,7 +13,7 @@ int main()
 	int numero[] = { 1,2,3,4,5 };
 	int suma = 0;
 	
-	for (int i = 0; i < 5; i++){
+	for (int i = 0; i < 5; i++) {
 		suma = suma + numero[i];
 	}
 
