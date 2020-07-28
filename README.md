@@ -70,7 +70,7 @@ El modificador `unsigned` se puede aplicar a enteros para obtener números sin s
 
 
 ### Instalacion en Visual Studio Code
-Descargar los siguintes archivos:<br>
+Descargar los siguientes archivos:<br>
 📦 [Install Mingw-w64](http://mingw-w64.org/doku.php) Instalador del mingw-w64.<br>
 
 ```
@@ -114,15 +114,64 @@ code --version
 
 <img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/configuracion.gif>
 
-
-### Intalacion en Visual Studio
- 
-📦 [Install Visual Studio](https://visualstudio.microsoft.com/es/) Instalador de Visual Studio IDE.<br>
-
-## Autores ✒️
-
-* **Brian Marquez** - *Documentación* - [Brian Marquez]()
-
 -   Ejecucion
 
 <img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/run.gif>
+
+
+## Instalacion en Visual Studio - C++/CLR
+ 
+📦 [Install Visual Studio](https://visualstudio.microsoft.com/es/) Instalador de Visual Studio IDE.<br>
+-   Creación de Proyectos en c++, implantación de Interfaz Grafica y Deploy.
+
+Esta extensión extiende los proyectos de Visual Studio por C ++ Windows Forms . Las aplicaciones creadas por tales proyectos tienen una interfaz gráfica de usuario.
+Para más detalles, ver aquí .
+Los proyectos de formularios C ++ de Windows son una manera fácil de crear programas con una interfaz gráfica de usuario en C ++.
+El lenguaje de programación es C ++ para la lógica de negocios y C ++ / CLI (un dialecto C ++) para la interfaz gráfica de usuario.
+Los proyectos de C ++ Windows Forms son excelentes para aprender C ++. Visual C ++ para Windows Forms tiene casi todas las características estándar del lenguaje C ++ (C ++ 11 / C ++ 14 / C ++ 17). Como los programas no están restringidos a una consola simple para la interacción del usuario, son más atractivos, más flexibles y mucho más fáciles de usar.
+
+<img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/vs.png>
+
+## CLR
+
+
+```
+cout << "Hello world" << endl;
+```
+puede usar un control de Windows, por ejemplo, un cuadro de texto
+
+```
+textBox1->AppendText("Hello World");
+```
+
+<img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/run1.png>
+
+### Calculadora
+
+<img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/calculator.PNG>
+
+- Link de Descarga
+
+📦 [Install .EXE ](https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/Instalador/GraphicBasicCalculadora.rar) Graphic Basic Calculator.<br>
+
+### Deploy
+
+- Paquete
+
+<img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/deploy.png>
+
+- Setup 
+<img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/setup.png>
+
+<img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/setup1.png>
+
+<img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/setup4.png>
+
+
+
+ -  Instalador
+<img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/final.png>
+
+
+
+
