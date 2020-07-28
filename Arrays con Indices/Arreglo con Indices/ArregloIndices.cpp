@@ -10,9 +10,9 @@ int main() {
 
 	int numeros[100];
 	int n = 0;
-	cout << "Digite el numero de elementos que va a tener el arreglo"; cin >> n;
+	cout << "Digite el numero de elementos que va a tener el arreglo: "; cin >> n;
 
-	for(int i = 0; n < 100; i++) {
+	for(int i = 0; i<n; i++) {
 		cout << "Digite un numero: "; cin>>numeros[i];
 	}
 
