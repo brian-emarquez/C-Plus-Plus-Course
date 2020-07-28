@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Array Mayor elemento", "Array Mayor elemento\Array Mayor elemento.vcxproj", "{C2A5BAC2-C057-4E02-902B-F34092EBB746}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2A5BAC2-C057-4E02-902B-F34092EBB746}.Debug|x64.ActiveCfg = Debug|x64
+		{C2A5BAC2-C057-4E02-902B-F34092EBB746}.Debug|x64.Build.0 = Debug|x64
+		{C2A5BAC2-C057-4E02-902B-F34092EBB746}.Debug|x86.ActiveCfg = Debug|Win32
+		{C2A5BAC2-C057-4E02-902B-F34092EBB746}.Debug|x86.Build.0 = Debug|Win32
+		{C2A5BAC2-C057-4E02-902B-F34092EBB746}.Release|x64.ActiveCfg = Release|x64
+		{C2A5BAC2-C057-4E02-902B-F34092EBB746}.Release|x64.Build.0 = Release|x64
+		{C2A5BAC2-C057-4E02-902B-F34092EBB746}.Release|x86.ActiveCfg = Release|Win32
+		{C2A5BAC2-C057-4E02-902B-F34092EBB746}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2BD266D-D6A5-4216-908E-425EF64FF49B}
+	EndGlobalSection
+EndGlobal
