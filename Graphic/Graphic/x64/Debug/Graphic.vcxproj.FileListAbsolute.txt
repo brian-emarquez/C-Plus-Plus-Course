@@ -1,3 +1,0 @@
-C:\Users\brian\source\repos\BrianMarquez3\C-Plus-Plus-Course\Graphic\Graphic\x64\Debug\Graphic.vcxprojAssemblyReference.cache
-C:\Users\brian\source\repos\BrianMarquez3\C-Plus-Plus-Course\Graphic\Graphic\x64\Debug\Graphic.MyForm.resources
-C:\Users\brian\source\repos\BrianMarquez3\C-Plus-Plus-Course\Graphic\Graphic\x64\Debug\Graphic.vcxproj.GenerateResource.cache

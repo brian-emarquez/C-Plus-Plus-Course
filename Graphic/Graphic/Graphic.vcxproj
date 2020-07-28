@@ -25,7 +25,6 @@
     <Keyword>ManagedCProj</Keyword>
     <RootNamespace>Graphic</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>Graphic</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -93,8 +92,6 @@
     </ClCompile>
     <Link>
       <AdditionalDependencies />
-      <SubSystem>Windows</SubSystem>
-      <EntryPointSymbol>main</EntryPointSymbol>
     </Link>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
@@ -113,8 +110,6 @@
     </ClCompile>
     <Link>
       <AdditionalDependencies />
-      <SubSystem>Windows</SubSystem>
-      <EntryPointSymbol>main</EntryPointSymbol>
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>

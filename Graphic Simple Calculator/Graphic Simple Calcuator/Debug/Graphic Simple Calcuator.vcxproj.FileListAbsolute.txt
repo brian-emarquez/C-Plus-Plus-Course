@@ -1,5 +1,0 @@
-C:\Users\brian\source\Repos\BrianMarquez3\C-Plus-Plus-Course\Graphic Simple Calcuator\Graphic Simple Calcuator\Debug\Graphic Simple Calcuator.vcxprojAssemblyReference.cache
-C:\Users\brian\source\Repos\BrianMarquez3\C-Plus-Plus-Course\Graphic Simple Calcuator\Graphic Simple Calcuator\Debug\GraphicSimpleCalcuator.Calculator.resources
-C:\Users\brian\source\Repos\BrianMarquez3\C-Plus-Plus-Course\Graphic Simple Calcuator\Graphic Simple Calcuator\Debug\Graphic Simple Calcuator.vcxproj.GenerateResource.cache
-C:\Users\brian\source\Repos\BrianMarquez3\C-Plus-Plus-Course\Graphic Simple Calculator\Graphic Simple Calcuator\Debug\GraphicSimpleCalcuator.Calculator.resources
-C:\Users\brian\source\Repos\BrianMarquez3\C-Plus-Plus-Course\Graphic Simple Calculator\Graphic Simple Calcuator\Debug\Graphic Simple Calcuator.vcxproj.GenerateResource.cache

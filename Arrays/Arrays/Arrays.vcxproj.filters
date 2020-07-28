@@ -13,9 +13,6 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="images">
-      <UniqueIdentifier>{24d2fb3b-e69d-46c6-98c2-ac6d433fee4e}</UniqueIdentifier>
-    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Arrays.cpp">
@@ -24,13 +21,13 @@
   </ItemGroup>
   <ItemGroup>
     <Image Include="..\..\..\..\..\..\Downloads\array3.PNG">
-      <Filter>images</Filter>
+      <Filter>Archivos de recursos</Filter>
     </Image>
     <Image Include="..\..\..\..\..\..\Downloads\array2.PNG">
-      <Filter>images</Filter>
+      <Filter>Archivos de recursos</Filter>
     </Image>
     <Image Include="..\..\..\..\..\..\Downloads\array.PNG">
-      <Filter>images</Filter>
+      <Filter>Archivos de recursos</Filter>
     </Image>
   </ItemGroup>
 </Project>

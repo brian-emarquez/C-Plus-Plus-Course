@@ -1,5 +1,0 @@
-﻿  Calculator.cpp
-  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
-  Generando código...
-  Calculator.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
-LINK : fatal error LNK1561: se debe definir el punto de entrada

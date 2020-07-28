@@ -1,3 +1,0 @@
-C:\Users\brian\source\Repos\BrianMarquez3\C-Plus-Plus-Course\GraphicCalculador\GraphicCalculador\Debug\GraphicCalculador.vcxprojAssemblyReference.cache
-C:\Users\brian\source\Repos\BrianMarquez3\C-Plus-Plus-Course\GraphicCalculador\GraphicCalculador\Debug\GraphicCalculador.Calculator.resources
-C:\Users\brian\source\Repos\BrianMarquez3\C-Plus-Plus-Course\GraphicCalculador\GraphicCalculador\Debug\GraphicCalculador.vcxproj.GenerateResource.cache
