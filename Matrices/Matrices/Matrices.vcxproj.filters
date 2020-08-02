@@ -19,4 +19,12 @@
       <Filter>Archivos de origen</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\..\..\..\..\..\Downloads\matriz.PNG">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\..\Downloads\matriz2.PNG">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+  </ItemGroup>
 </Project>

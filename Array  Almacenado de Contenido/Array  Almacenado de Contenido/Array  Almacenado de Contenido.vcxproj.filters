@@ -13,9 +13,6 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="Imagenes">
-      <UniqueIdentifier>{e90ada93-9455-4410-932b-e72dadf610f5}</UniqueIdentifier>
-    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="AlmacenadoDeContenido2Arreglos.cpp">
@@ -23,14 +20,14 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
+    <Image Include="..\..\..\..\..\..\Downloads\array3.PNG">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
     <Image Include="..\..\..\..\..\..\Downloads\array.PNG">
-      <Filter>Imagenes</Filter>
+      <Filter>Archivos de recursos</Filter>
     </Image>
     <Image Include="..\..\..\..\..\..\Downloads\array2.PNG">
-      <Filter>Imagenes</Filter>
-    </Image>
-    <Image Include="..\..\..\..\..\..\Downloads\array3.PNG">
-      <Filter>Imagenes</Filter>
+      <Filter>Archivos de recursos</Filter>
     </Image>
   </ItemGroup>
 </Project>
