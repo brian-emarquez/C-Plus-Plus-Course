@@ -1,5 +1,27 @@
 
-## C++ Course
+<h2 align="center">Learn C++ &nbsp;:heart:&nbsp;</h2>
+
+
+<p align="center">
+  
+  <a href="https://github.com/BrianMarquez3/C-Plus-Plus-Course/tags">
+    <img src="https://img.shields.io/github/tag/BrianMarquez3/C-Plus-Plus-Course.svg?label=version&style=flat" alt="Version">
+  </a>
+  <a href="https://github.com/BrianMarquez3/C-Plus-Plus-Course/stargazers">
+    <img src="https://img.shields.io/github/stars/BrianMarquez3/C-Plus-Plus-Course.svg?style=flat" alt="Stars">
+  </a>
+  <a href="https://github.com/BrianMarquez3/C-Plus-Plus-Course/network">
+    <img src="https://img.shields.io/github/forks/BrianMarquez3/C-Plus-Plus-Course.svg?style=flat" alt="Forks">
+  </a>
+  
+  <!--programa modificacion-->
+  <!--<a href="https://david-dm.org/StylishThemes/GitHub-Dark?type=dev">
+    <img src="https://img.shields.io/david/dev/StylishThemes/GitHub-Dark.svg?label=devDependencies&style=flat" alt="devDependencies">
+  </a>
+  <a href="https://gitter.im/StylishThemes/GitHub-Dark">
+    <img src="https://img.shields.io/gitter/room/StylishThemes/Github-Dark.js.svg?maxAge=2592000&style=flat" alt="Gitter">
+  </a>-->
+</p>
 
 <img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/c++.png>
 
