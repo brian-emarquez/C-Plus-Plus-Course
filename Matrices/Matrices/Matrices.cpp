@@ -8,10 +8,10 @@ de declarar una matriz es c++ es similar a un vector
 */
 
 /*Rellenando una Matriz pidiendo al usuario numero de filas y columnas
-y posteriormente mostrar en lantalla*/
+y posteriormente mostrar en Pantalla*/
 
 #include<iostream>
-#include<conio.h>
+#include<stdlib.h>
 
 using namespace std;
 
@@ -23,16 +23,14 @@ int main() {
 	cout << "Digie un numero de columnas: "; cin >> columnas;
 
 	//Almacenando elentos en la matriz
-	for (int i = 0; i < filas; i++) {
-		for (int j = 0; j < columnas; j++)
+	for (int i = 0; i < filas; i++) { //Filas
+		for (int j = 0; j < columnas; j++) //columnas
 		{
 			cout << "Digite un numero [" << i << "][" << j << "]: ";
 			cin >> numeros[i][j];
-
-
 		}
 	}
-	//Mostrnado elentos de a matriz
+	//Mostrando elementos de a matriz
 
 	for (int i = 0; i < filas; i++) {
 		for (int j = 0; j < columnas; j++) {
@@ -41,8 +39,7 @@ int main() {
 		cout << "\n";
 	}
 
-
-	_getch();
+	system("pause");
 	return 0;
 }
 
