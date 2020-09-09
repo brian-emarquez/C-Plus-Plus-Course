@@ -129,3 +129,9 @@ code --version
 -   Ejecucion
 
 <img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/run.gif>
+
+## Instalacion en Visual Studio - C++/CLR
+
+📦 [Install C++/CLR](https://marketplace.visualstudio.com/items?itemName=RichardKaiser.CppWinformsVS2019VSIX001) Instalador de C++/CLR Visual Studio 
+
+
