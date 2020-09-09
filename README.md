@@ -142,7 +142,20 @@ Esta extensión extiende los proyectos de Visual Studio por C ++ Windows Forms .
 ```
 textBox1->AppendText("Hello World");
 ```
-## Calculadora
+## Example
+Utilizando Interdas Grafica
+
+- Configuracion de Interfas: Sistema
+
+<img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/configuracion/configure1.png>
+
+- Configuracion de Interfas: Avanzado
+<img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/configuracion/configure2.png>
+
+<img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/graphics.png>
+
+## Descarga
+
 _Link de Descarga_
 
 
