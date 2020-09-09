@@ -157,7 +157,7 @@ Utilizando Interdas Grafica
 
 
 ## Spotify
-Music C++ [List on Spotify](spotify:playlist:5WeJBsezZBzGxr3bI0k68e)
+Music C++ [List on Spotify](https://open.spotify.com/playlist/5WeJBsezZBzGxr3bI0k68e?si=-ZU7O8zrSp-7hQolKhZF4A)
 
 <!--## Setup
 _Link de Descarga_
