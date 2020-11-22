@@ -192,6 +192,10 @@ Utilizando Interdas Grafica
 ## Spotify
 Music C++ [List on Spotify](https://open.spotify.com/playlist/5WeJBsezZBzGxr3bI0k68e?si=-ZU7O8zrSp-7hQolKhZF4A)
 
+# Externo
+C++ [learn.awesometuts.com](https://learn.awesometuts.com/p/create-a-monster-game-with-c-and-unreal-engine-4)
+
+
 <!--## Setup
 _Link de Descarga_
 <!--📦 [Install .EXE ](https://raw.githubusercontent.com/C-Plus-Plus-Course/Instalador/master/Instalador.msi) Graphic Basic Calculator.<br>
