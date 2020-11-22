@@ -1,0 +1,3 @@
+﻿  LongitudCadenas.cpp
+C:\Users\brian\source\repos\Logitud de Cadena\LongitudCadenas.cpp(13,2): error C2065: 'longitud': identificador no declarado
+C:\Users\brian\source\repos\Logitud de Cadena\LongitudCadenas.cpp(15,51): error C2065: 'longitud': identificador no declarado
