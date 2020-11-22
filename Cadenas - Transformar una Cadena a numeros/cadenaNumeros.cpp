@@ -1,21 +1,26 @@
 /*************************************************/
 //Cadenas Transformar una cadena a números - Función atoi() y atof()
+
+//"123.45" ->123.45
+
 /*************************************************/
 
 #include<iostream>
 #include<conio.h>
-#include<string.h>
+#include<stdlib.h> // trae consigo las libreria atoi() y atof()
 
 using namespace std;
 
 
 int main() // Funcion Principal
 {
-	char palabra[] = "BRIAN";
+	char cad[] = "123.34";
+	int numero;
 
-	_strlwr_s(palabra); //cambio a mayusculas
+	numero = atoi(cad); //numero entero
+	numero = atof(cad); //numero flotante
 
-	cout << palabra << endl;
+	cout << numero << endl;
 
 	_getch();
 	return 0;

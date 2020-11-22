@@ -1,0 +1,2 @@
+C:\Users\brian\source\repos\BrianMarquez3\C-Plus-Plus-Course\Cadenas - Transformar una Cadena a numeros\Debug\Cadenas - Transformar una Cadena a numeros.exe
+C:\Users\brian\source\repos\BrianMarquez3\C-Plus-Plus-Course\Cadenas - Transformar una Cadena a numeros\Debug\Cadenas - Transformar una Cadena a numeros.pdb
