@@ -23,32 +23,32 @@ int main() {
 	cout << "Digite el nuero de Columnas: "; cin >> columnas;
 
 	for (int i=0; i<filas; i++) {
-		for (int j=0; j<filas; j++){
-			cout << "Digite un numero [" << i << "][" << j << "]:";
+		for (int j=0; j<columnas; j++){
+			cout << "Digite un numero [" <<i<< "][" <<j<< "]:";
 			cin >> numero[i][j];
 
 		}
 	}
 
-	// comprbaer si es simetrica numero de filas igual el numero de columnas
+	// comprobar si es simetrica numero de filas igual el numero de columnas
 	if (filas == columnas) {
 		for (int i = 0; i < filas; i++) {
-			for (int j = 0; j < filas; j++) {
+			for (int j = 0; j < columnas; j++) {
 				if (numero[i][j] == numero[j][i]) {
 					bandera = 'V';
 				}
 			}
 		}
-
-		// Bandera
-		if (bandera == 'V') {
-			cout << "La Matriz es simetrica";
-		}
-		else {
-			cout << "UPTS!! La Matriz no es simetrica";
-		}
 	}
-	_getch();
 
+// Bandera
+	if (bandera == 'V') {
+		cout << "La Matriz es simetrica";
+	}
+	else {
+		cout << "UPTS!! La Matriz no es simetrica";
+	}
+	
+	_getch();
 	return 0;
 }
