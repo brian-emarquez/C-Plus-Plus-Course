@@ -41,6 +41,16 @@ Es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La inte
 | Permite la separación de un programa en módulos que admiten compilación independiente | 
 | Es un lenguaje de alto nivel | 
 
+# Temas
+
+
+| Numeracion                               | Temas          |
+| ----------------------------------- | -------------------- |
+| 1     | Introduccion y Entrada-Salidaa          |
+| 2     | Espresiones y Operadores          |
+| 3     | Condicionales          |
+| 4     | Bucles o Ciclos          |
+
 ### Ejemplo
 A continuación se cita un programa de ejemplo [hola mundo](https://es.wikipedia.org/wiki/Hola_mundo)  escrito en C++:
 
