@@ -1,0 +1,2 @@
+C:\Users\brian\source\repos\BrianMarquez3\C-Plus-Plus-Course\Cadenas - Comparar cadenas\x64\Debug\Cadenas - Comparar cadenas.exe
+C:\Users\brian\source\repos\BrianMarquez3\C-Plus-Plus-Course\Cadenas - Comparar cadenas\x64\Debug\Cadenas - Comparar cadenas.pdb
