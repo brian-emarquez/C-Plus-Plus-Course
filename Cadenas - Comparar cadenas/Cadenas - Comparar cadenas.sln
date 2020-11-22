@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30717.126
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Cadenas - Comparar cadenas", "Cadenas - Comparar cadenas.vcxproj", "{E50AE035-EB2C-49B3-A377-371597B5A699}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "test", "..\test\test.vcxproj", "{B4236B5E-2A25-4141-B0AE-E83BE763E674}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{E50AE035-EB2C-49B3-A377-371597B5A699}.Release|x64.Build.0 = Release|x64
 		{E50AE035-EB2C-49B3-A377-371597B5A699}.Release|x86.ActiveCfg = Release|Win32
 		{E50AE035-EB2C-49B3-A377-371597B5A699}.Release|x86.Build.0 = Release|Win32
+		{B4236B5E-2A25-4141-B0AE-E83BE763E674}.Debug|x64.ActiveCfg = Debug|x64
+		{B4236B5E-2A25-4141-B0AE-E83BE763E674}.Debug|x64.Build.0 = Debug|x64
+		{B4236B5E-2A25-4141-B0AE-E83BE763E674}.Debug|x86.ActiveCfg = Debug|Win32
+		{B4236B5E-2A25-4141-B0AE-E83BE763E674}.Debug|x86.Build.0 = Debug|Win32
+		{B4236B5E-2A25-4141-B0AE-E83BE763E674}.Release|x64.ActiveCfg = Release|x64
+		{B4236B5E-2A25-4141-B0AE-E83BE763E674}.Release|x64.Build.0 = Release|x64
+		{B4236B5E-2A25-4141-B0AE-E83BE763E674}.Release|x86.ActiveCfg = Release|Win32
+		{B4236B5E-2A25-4141-B0AE-E83BE763E674}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
