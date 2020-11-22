@@ -1,8 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Cadenas - Concatenar una cadena con otra - Función strcat()"
+    "\\Cadenas - Invertir una cadena"
   ],
-  "SelectedNode": "\\Cadenas - Concatenar una cadena con otra - Función strcat()\\concatenarCadenas.cpp",
+  "SelectedNode": "\\Cadenas - Invertir una cadena\\InvertirCadena.cpp",
   "PreviewInSolutionExplorer": false
 }
