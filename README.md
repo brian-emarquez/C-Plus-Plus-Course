@@ -50,6 +50,30 @@ Es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La inte
 | 2     | Espresiones y Operadores          |
 | 3     | Condicionales          |
 | 4     | Bucles o Ciclos          |
+| 5     | Arreglos          |
+| 6     | Matrices o Tablas          |
+| 7     | Cadenas          |
+| 8     | Metodos de Ordenamiento          |
+| 9     | Busqueda          |
+| 10    | Estructuras          |
+| 11    | Funciones          |
+| 12    | Punteros         |
+| 13    | Pilas         |
+| 14    | Colas         |
+| 15    | Listas         |
+| 16    | Arboles         |
+| 17    | Archivos         |
+| 18    | POO: Clases y Objetos         |
+| 19    | POO: Clases derivadas - Herencia y POlimorfismo       |
+| 20    | Genericidad        |
+| 21    | Genericidad - Plantillas       |
+| 22    | Analisis e Eficiencia de Algoritmos        |
+| 23    | Algoritmo Recursivo        |
+| 24    | Bibliotecas Estas de Plantillas (STL)        |
+| 25    | Embebidos        |
+| 26    | Interfas Grafica        |
+| 26    | Juegos        |
+
 
 ### Ejemplo
 A continuación se cita un programa de ejemplo [hola mundo](https://es.wikipedia.org/wiki/Hola_mundo)  escrito en C++:
