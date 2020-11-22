@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Cadenas - Concatenar una cadena con otra - Función strcat()"
   ],
-  "SelectedNode": "\\Tipos de datos",
+  "SelectedNode": "\\Cadenas - Concatenar una cadena con otra - Función strcat()\\concatenarCadenas.cpp",
   "PreviewInSolutionExplorer": false
 }

@@ -1,0 +1,2 @@
+C:\Users\brian\source\repos\BrianMarquez3\C-Plus-Plus-Course\Cadenas - Invertir una cadena\Debug\Cadenas - Invertir una cadena.exe
+C:\Users\brian\source\repos\BrianMarquez3\C-Plus-Plus-Course\Cadenas - Invertir una cadena\Debug\Cadenas - Invertir una cadena.pdb
