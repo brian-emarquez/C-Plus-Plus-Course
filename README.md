@@ -155,7 +155,6 @@ Utilizando Interdas Grafica
 - Ejemplo
 <img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/graphics.png>
 
-
 ## Spotify
 Music C++ [List on Spotify](https://open.spotify.com/playlist/5WeJBsezZBzGxr3bI0k68e?si=-ZU7O8zrSp-7hQolKhZF4A)
 
