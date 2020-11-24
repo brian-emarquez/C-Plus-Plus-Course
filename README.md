@@ -23,7 +23,7 @@
   </a>-->
 </p>
 
-<img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/c++.png>
+![python](./images/c++.png)
 
 Es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La intención de su creación fue extender al lenguaje de programación C mecanismos que permiten la manipulación de objetos. En ese sentido, desde el punto de vista de los lenguajes orientados a objetos, el C++ es un lenguaje híbrido.  [Wikipedia](https://https://es.wikipedia.org/wiki/C%2B%2B)
 
@@ -40,6 +40,40 @@ Es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La inte
 | Es portátil y tiene un gran número de compiladores en diferentes plataformas y sistemas operativos. |
 | Permite la separación de un programa en módulos que admiten compilación independiente | 
 | Es un lenguaje de alto nivel | 
+
+# Temas
+
+
+| Numeracion                               | Temas          |
+| ----------------------------------- | -------------------- |
+| 1     | Introduccion y Entrada-Salidaa          |
+| 2     | Espresiones y Operadores          |
+| 3     | Condicionales          |
+| 4     | Bucles o Ciclos          |
+| 5     | Arreglos          |
+| 6     | Matrices o Tablas          |
+| 7     | Cadenas          |
+| 8     | Metodos de Ordenamiento          |
+| 9     | Busqueda          |
+| 10    | Estructuras          |
+| 11    | Funciones          |
+| 12    | Punteros         |
+| 13    | Pilas         |
+| 14    | Colas         |
+| 15    | Listas         |
+| 16    | Arboles         |
+| 17    | Archivos         |
+| 18    | POO: Clases y Objetos         |
+| 19    | POO: Clases derivadas - Herencia y POlimorfismo       |
+| 20    | Genericidad        |
+| 21    | Genericidad - Plantillas       |
+| 22    | Analisis e Eficiencia de Algoritmos        |
+| 23    | Algoritmo Recursivo        |
+| 24    | Bibliotecas Estas de Plantillas (STL)        |
+| 25    | Embebidos        |
+| 26    | Interfas Grafica        |
+| 26    | Juegos        |
+
 
 ### Ejemplo
 A continuación se cita un programa de ejemplo [hola mundo](https://es.wikipedia.org/wiki/Hola_mundo)  escrito en C++:
@@ -157,6 +191,10 @@ Utilizando Interdas Grafica
 
 ## Spotify
 Music C++ [List on Spotify](https://open.spotify.com/playlist/5WeJBsezZBzGxr3bI0k68e?si=-ZU7O8zrSp-7hQolKhZF4A)
+
+# Externo
+C++ [learn.awesometuts.com](https://learn.awesometuts.com/p/create-a-monster-game-with-c-and-unreal-engine-4)
+
 
 <!--## Setup
 _Link de Descarga_
