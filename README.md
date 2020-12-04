@@ -30,6 +30,7 @@ Es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La inte
 ## Bjarne Stroustrup
 
 <div align="center"><img src="./images/stroustrup1.jpg"></div>
+<br>
 
 | Características de C++                | 
 | ------------------------------------- | 
