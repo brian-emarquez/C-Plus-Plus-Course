@@ -27,7 +27,6 @@
 
 Es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La intención de su creación fue extender al lenguaje de programación C mecanismos que permiten la manipulación de objetos. En ese sentido, desde el punto de vista de los lenguajes orientados a objetos, el C++ es un lenguaje híbrido.  [Wikipedia](https://https://es.wikipedia.org/wiki/C%2B%2B)
 
-![python](./images/demo1.gif)
 
 | Características de C++                | 
 | ------------------------------------- | 
@@ -72,6 +71,7 @@ Es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La inte
 | 26    | Interfaz Grafica        |
 | 26    | Juegos        |
 
+![python](./images/demo1.gif)
 
 ### Ejemplo
 A continuación se cita un programa de ejemplo [hola mundo](https://es.wikipedia.org/wiki/Hola_mundo)  escrito en C++:
