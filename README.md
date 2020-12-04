@@ -64,7 +64,7 @@ Es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La inte
 | 16    | Arboles         |
 | 17    | Archivos         |
 | 18    | POO: Clases y Objetos         |
-| 19    | POO: Clases derivadas - Herencia y POlimorfismo       |
+| 19    | POO: Clases derivadas - Herencia y Polimorfismo       |
 | 20    | Genericidad        |
 | 21    | Genericidad - Plantillas       |
 | 22    | Analisis e Eficiencia de Algoritmos        |
