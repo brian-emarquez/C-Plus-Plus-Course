@@ -46,7 +46,7 @@ Es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La inte
 
 | Numeracion                               | Temas          |
 | ----------------------------------- | -------------------- |
-| 1     | Introduccion y Entrada-Salidaa          |
+| 1     |✔️  Introduccion y Entrada-Salidaa          |
 | 2     | Espresiones y Operadores          |
 | 3     | Condicionales          |
 | 4     | Bucles o Ciclos          |
