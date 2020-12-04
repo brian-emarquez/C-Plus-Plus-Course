@@ -177,7 +177,7 @@ Esta extensión extiende los proyectos de Visual Studio por C ++ Windows Forms .
 textBox1->AppendText("Hello World");
 ```
 ## Requerimientos
-Utilizando Interdas Grafica
+Utilizando Interfas Grafica
 
 - Configuracion de Interfaz: Sistema
 
