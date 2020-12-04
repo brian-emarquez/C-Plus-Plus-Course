@@ -30,6 +30,8 @@ Es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La inte
 ## Bjarne Stroustrup
 
 <div align="center"><img src="./images/stroustrup1.jpg"></div>
+
+<p> Stroustrup escribió también el considerado por muchos como el texto introductorio de referencia para el lenguaje, su título original es The C++ Programming Language, el cual alcanza actualmente su cuarta edición. Existe una versión especial editada en 2000, aunque no figuran en ella cambios significativos respecto al original. Este último texto ha sido revisado tanto para reflejar la evolución del lenguaje, como el trabajo del comité de estándares de C++. </p>
 <br>
 
 | Características de C++                | 
