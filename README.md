@@ -1,5 +1,5 @@
 
-<h2 align="center">Learn C++ Object Oriented Programming - 0 - Hero 🦸‍♂️</h2>
+<h2 align="center">Learn C++ Object Oriented Programming - 0 to Hero 🦸‍♂️</h2>
 
 
 <p align="center">
