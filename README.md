@@ -69,7 +69,7 @@ Es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La inte
 | 21    | Genericidad - Plantillas       |
 | 22    | Analisis e Eficiencia de Algoritmos        |
 | 23    | Algoritmo Recursivo        |
-| 24    | Bibliotecas Estas de Plantillas (STL)        |
+| 24    | Bibliotecas Estandar de Plantillas (STL)        |
 | 25    | Embebidos        |
 | 26    | Interfas Grafica        |
 | 26    | Juegos        |
