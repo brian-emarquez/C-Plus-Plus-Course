@@ -47,7 +47,7 @@ Es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La inte
 | Numeracion                               | Temas          |
 | ----------------------------------- | -------------------- |
 | 1     |✔️  Introduccion y Entrada-Salidaa          |
-| 2     |✔️ Espresiones y Operadores          |
+| 2     |✔️ Expresiones y Operadores          |
 | 3     |✔️Condicionales          |
 | 4     |✔️ Bucles o Ciclos          |
 | 5     |✔️Arreglos          |
@@ -55,9 +55,9 @@ Es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La inte
 | 7     | Cadenas          |
 | 8     | Metodos de Ordenamiento          |
 | 9     | Busqueda          |
-| 10    | Estructuras          |
+| 10    | Punteros          |
 | 11    | Funciones          |
-| 12    | Punteros         |
+| 12    | Estructura de  Datos         |
 | 13    | Pilas         |
 | 14    | Colas         |
 | 15    | Listas         |
