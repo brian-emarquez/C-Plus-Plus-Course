@@ -193,7 +193,7 @@ Utilizando Interfas Grafica
 Music C++ [List on Spotify](https://open.spotify.com/playlist/5WeJBsezZBzGxr3bI0k68e?si=-ZU7O8zrSp-7hQolKhZF4A)
 
 ## Book Deitel Deitel 9na  Edicion
-Descargar [Cómo programar en C++, 9Ed](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Books)
+Descargar Libro - [Cómo programar en C++, 9Ed](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Books)
 
 # Externo
 C++ [learn.awesometuts.com](https://learn.awesometuts.com/p/create-a-monster-game-with-c-and-unreal-engine-4)
