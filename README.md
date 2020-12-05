@@ -30,7 +30,7 @@
   </a>-->
 </p>
 
-![python](./images/c++.jpg)
+![c++](./images/c++.jpg)
 
 Es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La intención de su creación fue extender al lenguaje de programación C mecanismos que permiten la manipulación de objetos. En ese sentido, desde el punto de vista de los lenguajes orientados a objetos, el C++ es un lenguaje híbrido.  [Wikipedia](https://https://es.wikipedia.org/wiki/C%2B%2B)
 
@@ -56,8 +56,8 @@ Es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La inte
 
 | Numeracion                               | Temas          |
 | ----------------------------------- | -------------------- |
-| 1     |✔️  Introduccion y Entrada-Salidaa          |
-| 2     |✔️ Expresiones y Operadores          |
+| 1     |✔️ | Introduccion y Entrada-Salidaa          |
+| 2     |✔️ | Expresiones y Operadores          |
 | 3     |✔️Condicionales          |
 | 4     |✔️ Bucles o Ciclos          |
 | 5     |✔️Arreglos          |
