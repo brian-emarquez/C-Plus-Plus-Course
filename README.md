@@ -53,11 +53,8 @@ Es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La inte
 - [Instalacion en Visual Studio Code](#instalacion-en-Visual-Studio-Code)
 - [Intalacion en Visual Studio](#Intalacion-en-Visual-Studio)
 - [Instalacion en Visual Studio C++/CLR](#Instalacion-en-Visual-Studio-C++/CLR)
-- [CLR Ejemplo](#CLR-Ejemplo)
-- [CLR Ejemplo](#CLR-Ejemplo)
-- [CLR Ejemplo](#CLR-Ejemplo)
-- [CLR Ejemplo](#CLR-Ejemplo)
-- [CLR Ejemplo](#CLR-Ejemplo)
+- [Play List Spotify](#Spotify)
+- [Book](#book)
 
 ## Bjarne Stroustrup
 ---
@@ -193,7 +190,7 @@ code --version
 <img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/configuracion.gif>
 
 
-## Intalacion en Visual Studio
+## Instalacion en Visual Studio
 
 ![c++](./images/visualstudiohome.png)
  
@@ -230,10 +227,12 @@ Utilizando Interfas Grafica
 <img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/graphics.png>
 
 ## Spotify
+---
 Music C++ [List on Spotify](https://open.spotify.com/playlist/5WeJBsezZBzGxr3bI0k68e?si=-ZU7O8zrSp-7hQolKhZF4A)
 
 ## Book
-Descargar Libro - [Cómo programar en C++, 9Ed](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Books)
+---
+Download book - [Cómo programar en C++, 9Ed](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Books)
 
 <!--## Setup
 _Link de Descarga_
