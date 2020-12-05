@@ -53,7 +53,11 @@ Es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La inte
 - [Instalacion en Visual Studio Code](#instalacion-en-Visual-Studio-Code)
 - [Intalacion en Visual Studio](#Intalacion-en-Visual-Studio)
 - [Instalacion en Visual Studio C++/CLR](#Instalacion-en-Visual-Studio-C++/CLR)
-- [Limitación de responsabilidades - Solo BID](#limitación-de-responsabilidades)
+- [CLR Ejemplo](#CLR-Ejemplo)
+- [CLR Ejemplo](#CLR-Ejemplo)
+- [CLR Ejemplo](#CLR-Ejemplo)
+- [CLR Ejemplo](#CLR-Ejemplo)
+- [CLR Ejemplo](#CLR-Ejemplo)
 
 ## Bjarne Stroustrup
 ---
@@ -190,23 +194,22 @@ code --version
 
 
 ## Intalacion en Visual Studio
+
+![c++](./images/visualstudiohome.png)
  
 📦 [Install Visual Studio](https://visualstudio.microsoft.com/es/) Instalador de Visual Studio IDE.<br>
 
-
 ## Instalacion en Visual Studio C++/CLR
-
 
 
 📦 [Install CLR](https://marketplace.visualstudio.com/items?itemName=RichardKaiser.CppWinformsVS2019VSIX001) Instalador de C++/CLR Visual 
 Studio
 
 
-
 <P> Incluye Creación de Proyectos en c++, implantación de Interfaz Grafica y Deploy.
 Esta extensión extiende los proyectos de Visual Studio por C ++ Windows Forms . Las aplicaciones creadas por tales proyectos tienen una interfaz gráfica de usuario. Para más detalles, ver aquí . Los proyectos de formularios C ++ de Windows son una manera fácil de crear programas con una interfaz gráfica de usuario en C ++. El lenguaje de programación es C ++ para la lógica de negocios y C ++ / CLI (un dialecto C ++) para la interfaz gráfica de usuario. Los proyectos de C ++ Windows Forms son excelentes para aprender C ++. Visual C ++ para Windows Forms tiene casi todas las características estándar del lenguaje C ++ (C ++ 11 / C ++ 14 / C ++ 17). Como los programas no están restringidos a una consola simple para la interacción del usuario, son más atractivos, más flexibles y mucho más fáciles de usar. </P>
 
-## CLR
+## CLR Ejemplo
 
 ```
 textBox1->AppendText("Hello World");
