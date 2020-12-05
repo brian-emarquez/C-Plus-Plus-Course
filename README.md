@@ -47,7 +47,7 @@ Es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La inte
 
 - [Bjarne Stroustrup](#bjarne-stroustrup)
 - [Temario](#temario)
-- [Guía de usuario](#guía-de-usuario)
+- [Caracteristicas](#caracteristicas)
 - [Guía de instalación](#guía-de-instalación)
 - [Cómo contribuir](#cómo-contribuir)
 - [Código de conducta](#código-de-conducta)
@@ -63,15 +63,6 @@ Es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La inte
 <p> Stroustrup escribió también el considerado por muchos como el texto introductorio de referencia para el lenguaje, su título original es The C++ Programming Language, el cual alcanza actualmente su cuarta edición. Existe una versión especial editada en 2000, aunque no figuran en ella cambios significativos respecto al original. Este último texto ha sido revisado tanto para reflejar la evolución del lenguaje, como el trabajo del comité de estándares de C++. </p>
 <br>
 
-| Características de C++                | 
-| ------------------------------------- | 
-| Su sintaxis es heredada del lenguaje C | 
-| Programa orientado a objetos (POO) | 
-| Permite la agrupación de instrucciones | 
-| Lenguaje muy didáctico, con este lenguaje puedes aprender muchos otros lenguajes con gran facilidad. | 
-| Es portátil y tiene un gran número de compiladores en diferentes plataformas y sistemas operativos. |
-| Permite la separación de un programa en módulos que admiten compilación independiente | 
-| Es un lenguaje de alto nivel | 
 
 ## Temario
 
@@ -105,9 +96,22 @@ Es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La inte
 | 26    |    |Interfaz Grafica        |
 | 26    |    |Juegos        |
 
-![python](./images/demo1.gif)
+![c++](./images/demo1.gif)
 
-### Ejemplo
+## Caracteristicas
+
+| Características de C++                | 
+| ------------------------------------- | 
+| Su sintaxis es heredada del lenguaje C | 
+| Programa orientado a objetos (POO) | 
+| Permite la agrupación de instrucciones | 
+| Lenguaje muy didáctico, con este lenguaje puedes aprender muchos otros lenguajes con gran facilidad. | 
+| Es portátil y tiene un gran número de compiladores en diferentes plataformas y sistemas operativos. |
+| Permite la separación de un programa en módulos que admiten compilación independiente | 
+| Es un lenguaje de alto nivel | 
+
+
+## Ejemplo
 A continuación se cita un programa de ejemplo [hola mundo](https://es.wikipedia.org/wiki/Hola_mundo)  escrito en C++:
 
 ```
