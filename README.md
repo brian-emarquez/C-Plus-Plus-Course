@@ -55,6 +55,7 @@ Es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La inte
 - [Instalacion en Visual Studio C++/CLR](#Instalacion-en-Visual-Studio-C++/CLR)
 - [Play List Spotify](#Spotify)
 - [Book](#book)
+- [Games](#games)
 
 ## Bjarne Stroustrup
 ---
