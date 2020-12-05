@@ -51,7 +51,7 @@ Es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La inte
 - [Ejemplo](#ejemplo)
 - [Tipo de datos](#tipo-de-datos)
 - [Instalacion en Visual Studio Code](#instalacion-en-Visual-Studio-Code)
-- [Autor/es](#autores)
+- [Intalacion en Visual Studio](#Intalacion-en-Visual-Studio)
 - [Información adicional](#información-adicional)
 - [Licencia](#licencia)
 - [Limitación de responsabilidades - Solo BID](#limitación-de-responsabilidades)
@@ -144,6 +144,7 @@ El modificador `unsigned` se puede aplicar a enteros para obtener números sin s
 
 ## Instalacion en Visual Studio Code
 ---
+
 Descargar los siguintes archivos:<br>
 📦 [Install Mingw-w64](http://mingw-w64.org/doku.php) Instalador del mingw-w64.<br>
 
@@ -173,7 +174,7 @@ code --version
 
 -   ✔ Instalacion de la Extencion de Visual Studio code: C/C++
 
-<img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/Instalar_c++.gif>
+<!--<img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/Instalar_c++.gif>--
 
 -   ✔ Instalacion de la Extencion Code Runner (C, C++, Java, JavaScript, PHP, Python...)
 
@@ -189,7 +190,7 @@ code --version
 <img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/configuracion.gif>
 
 
-### Intalacion en Visual Studio
+## Intalacion en Visual Studio
  
 📦 [Install Visual Studio](https://visualstudio.microsoft.com/es/) Instalador de Visual Studio IDE.<br>
 
