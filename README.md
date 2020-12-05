@@ -53,7 +53,7 @@ Es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La inte
 - [Instalacion en Visual Studio Code](#instalacion-en-Visual-Studio-Code)
 - [Intalacion en Visual Studio](#Intalacion-en-Visual-Studio)
 - [Autoresl](#autores)
-- [Instalacion en Visual Studio C++/CLR](#instalacion-en-visual-studio-C++/CLR)
+- [Instalacion en Visual Studio C++/CLR](#Instalacion-en-Visual-Studio-C++/CLR)
 - [Limitación de responsabilidades - Solo BID](#limitación-de-responsabilidades)
 
 ## Bjarne Stroustrup
