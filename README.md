@@ -43,8 +43,21 @@
 
 Es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La intención de su creación fue extender al lenguaje de programación C mecanismos que permiten la manipulación de objetos. En ese sentido, desde el punto de vista de los lenguajes orientados a objetos, el C++ es un lenguaje híbrido.  [Wikipedia](https://https://es.wikipedia.org/wiki/C%2B%2B)
 
-## Bjarne Stroustrup
+## Tabla de contenidos:
 
+- [Bjarne Stroustrup](#bjarne-stroustrup)
+- [Temario](#temario)
+- [Guía de usuario](#guía-de-usuario)
+- [Guía de instalación](#guía-de-instalación)
+- [Cómo contribuir](#cómo-contribuir)
+- [Código de conducta](#código-de-conducta)
+- [Autor/es](#autores)
+- [Información adicional](#información-adicional)
+- [Licencia](#licencia)
+- [Limitación de responsabilidades - Solo BID](#limitación-de-responsabilidades)
+
+## Bjarne Stroustrup
+---
 <div align="center"><img src="./images/stroustrup1.jpg"></div>
 
 <p> Stroustrup escribió también el considerado por muchos como el texto introductorio de referencia para el lenguaje, su título original es The C++ Programming Language, el cual alcanza actualmente su cuarta edición. Existe una versión especial editada en 2000, aunque no figuran en ella cambios significativos respecto al original. Este último texto ha sido revisado tanto para reflejar la evolución del lenguaje, como el trabajo del comité de estándares de C++. </p>
@@ -60,8 +73,7 @@ Es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La inte
 | Permite la separación de un programa en módulos que admiten compilación independiente | 
 | Es un lenguaje de alto nivel | 
 
-# Temas
-
+## Temario
 
 | Numeracion                               | Temas          |
 | ----------------------------------- | -------------------- |
