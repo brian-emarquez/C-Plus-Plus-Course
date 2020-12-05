@@ -48,9 +48,9 @@ Es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La inte
 - [Bjarne Stroustrup](#bjarne-stroustrup)
 - [Temario](#temario)
 - [Caracteristicas](#caracteristicas)
-- [Guía de instalación](#guía-de-instalación)
-- [Cómo contribuir](#cómo-contribuir)
-- [Código de conducta](#código-de-conducta)
+- [Ejemplo](#ejemplo)
+- [Tipo de datos](#tipo-de-datos)
+- [Instalacion en Visual Studio Code](#instalacion-en-Visual-Studio-Code)
 - [Autor/es](#autores)
 - [Información adicional](#información-adicional)
 - [Licencia](#licencia)
@@ -126,7 +126,7 @@ int main()
 }
 ```
 
-### Tipo de datos
+## Tipo de datos
 
 C++ tiene los siguientes tipos fundamentales:
 
@@ -142,7 +142,8 @@ C++ tiene los siguientes tipos fundamentales:
 El modificador `unsigned` se puede aplicar a enteros para obtener números sin signo (por omisión los enteros contienen signo), con lo que se consigue un rango mayor de números naturales.
 
 
-### Instalacion en Visual Studio Code
+## Instalacion en Visual Studio Code
+---
 Descargar los siguintes archivos:<br>
 📦 [Install Mingw-w64](http://mingw-w64.org/doku.php) Instalador del mingw-w64.<br>
 
