@@ -52,7 +52,6 @@ Es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La inte
 - [Tipo de datos](#tipo-de-datos)
 - [Instalacion en Visual Studio Code](#instalacion-en-Visual-Studio-Code)
 - [Intalacion en Visual Studio](#Intalacion-en-Visual-Studio)
-- [Autoresl](#autores)
 - [Instalacion en Visual Studio C++/CLR](#Instalacion-en-Visual-Studio-C++/CLR)
 - [Limitación de responsabilidades - Solo BID](#limitación-de-responsabilidades)
 
@@ -194,14 +193,6 @@ code --version
  
 📦 [Install Visual Studio](https://visualstudio.microsoft.com/es/) Instalador de Visual Studio IDE.<br>
 
-## Autores ✒️
-
----
-* **Brian Marquez** - *Documentación* - [Brian Marquez]()
-
--   Ejecucion
-
-<img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/run.gif>
 
 ## Instalacion en Visual Studio C++/CLR
 
@@ -216,6 +207,8 @@ Esta extensión extiende los proyectos de Visual Studio por C ++ Windows Forms .
 textBox1->AppendText("Hello World");
 ```
 ## Requerimientos
+
+---
 Utilizando Interfas Grafica
 
 - Configuracion de Interfaz: Sistema
