@@ -52,8 +52,8 @@ Es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La inte
 - [Tipo de datos](#tipo-de-datos)
 - [Instalacion en Visual Studio Code](#instalacion-en-Visual-Studio-Code)
 - [Intalacion en Visual Studio](#Intalacion-en-Visual-Studio)
-- [Información adicional](#información-adicional)
-- [Licencia](#licencia)
+- [Autoresl](#autores)
+- [Instalacion en Visual Studio - C++/CLR](#Instalacion-en-Visual-Studio-C++/CLR)
 - [Limitación de responsabilidades - Solo BID](#limitación-de-responsabilidades)
 
 ## Bjarne Stroustrup
@@ -174,7 +174,7 @@ code --version
 
 -   ✔ Instalacion de la Extencion de Visual Studio code: C/C++
 
-<!--<img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/Instalar_c++.gif>--
+<img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/Instalar_c++.gif>--
 
 -   ✔ Instalacion de la Extencion Code Runner (C, C++, Java, JavaScript, PHP, Python...)
 
@@ -196,6 +196,7 @@ code --version
 
 ## Autores ✒️
 
+---
 * **Brian Marquez** - *Documentación* - [Brian Marquez]()
 
 -   Ejecucion
