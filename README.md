@@ -75,14 +75,14 @@ Es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La inte
 
 ## Temario
 
-| Numeracion                          |     |Temas          |
-| ----------------------------------- |-----|-------------------- |
-| 1     |✔️ | 1Introduccion y Entrada-Salidaa          |
-| 2     |✔️ Expresiones y Operadores          |
-| 3     |✔️ Condicionales          |
-| 4     |✔️ Bucles o Ciclos          |
-| 5     |✔️Arreglos          |
-| 6     |✔️ Matrices o Tablas          |
+| Numeracion                          |  |Temas          |
+| ----------------------------------- |--|-------------------- |
+| 1     |✔️ | Introduccion y Entrada-Salidaa          |
+| 2     |✔️ | Expresiones y Operadores          |
+| 3     |✔️ | Condicionales          |
+| 4     |✔️ | Bucles o Ciclos          |
+| 5     |✔️ | Arreglos          |
+| 6     |✔️ | Matrices o Tablas          |
 | 7     | Cadenas          |
 | 8     | Metodos de Ordenamiento          |
 | 9     | Busqueda          |
