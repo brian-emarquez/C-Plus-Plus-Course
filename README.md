@@ -122,7 +122,7 @@ fui responsable de elaborar extensas proposiciones en el comité de estándares 
 ## Ejemplo
 A continuación se cita un programa de ejemplo [hola mundo](https://es.wikipedia.org/wiki/Hola_mundo)  escrito en C++:
 
-```
+```c++
 #include <iostream>
 
 using namespace std;
