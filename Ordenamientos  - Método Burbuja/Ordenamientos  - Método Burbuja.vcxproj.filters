@@ -13,9 +13,6 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="images">
-      <UniqueIdentifier>{b517a2c7-458e-4442-b4d5-816c3b8900b8}</UniqueIdentifier>
-    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Burbuja.cpp">
@@ -24,16 +21,5 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="readme.md" />
-  </ItemGroup>
-  <ItemGroup>
-    <Image Include="..\..\..\..\..\Documents\burbuja.png">
-      <Filter>images</Filter>
-    </Image>
-    <Image Include="..\..\..\..\..\Documents\burbuja2.png">
-      <Filter>images</Filter>
-    </Image>
-    <Image Include="..\..\..\..\..\Documents\burbuja3.png">
-      <Filter>images</Filter>
-    </Image>
   </ItemGroup>
 </Project>

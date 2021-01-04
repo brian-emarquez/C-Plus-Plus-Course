@@ -7,3 +7,7 @@ El algoritmo de ordenamiento de burbuja es uno de los algoritmos de ordenamiento
 ![c++](./images/burbuja2.png)
 
 ![c++](./images/burbuja3.png)
+
+## Simulador
+
+[http://lwh.free.fr/pages/algo/tri/tri_bulle_es.html]
