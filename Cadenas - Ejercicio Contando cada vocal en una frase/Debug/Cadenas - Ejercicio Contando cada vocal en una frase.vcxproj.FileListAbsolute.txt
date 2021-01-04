@@ -1,0 +1,2 @@
+C:\Users\brian\source\repos\BrianMarquez3\C-Plus-Plus-Course\Cadenas - Ejercicio Contando cada vocal en una frase\Debug\Cadenas - Ejercicio Contando cada vocal en una frase.exe
+C:\Users\brian\source\repos\BrianMarquez3\C-Plus-Plus-Course\Cadenas - Ejercicio Contando cada vocal en una frase\Debug\Cadenas - Ejercicio Contando cada vocal en una frase.pdb
