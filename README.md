@@ -77,7 +77,7 @@ fui responsable de elaborar extensas proposiciones en el comité de estándares 
 | Numeration   | Check  |Topic          |Links       |
 | ------------ |--------|-------------- |-------------- |
 | 1     |✔️ | Introduccion y Entrada-Salidaa    | [Link 1 ](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/EntradaDatos), [Link 2 ](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/HolaMundoCplusplus)           |
-| 2     |✔️ | Expresiones y Operadores          |[Link](#)        |
+| 2     |✔️ | Expresiones y Operadores          |[Operaciones 1](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Operaciones%201), [Operaciones 2](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Operaciones%202), [Operaciones 3](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Operaciones%203),  [Operaciones 4](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Operaciones%204), [Operaciones 5](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Operaciones%205)     |
 | 3     |✔️ | Condicionales          |[Link](#)         |
 | 4     |✔️ | Bucles o Ciclos          |[Link](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/EntradaDatos)          |
 | 5     |✔️ | Arreglos          |[Link](#)           |
