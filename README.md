@@ -74,35 +74,35 @@ fui responsable de elaborar extensas proposiciones en el comité de estándares 
 
 ## Temario
 
-| Numeracion   | Check  |Temas          |
-| ------------ |--------|-------------- |
-| 1     |✔️ | Introduccion y Entrada-Salidaa          |
-| 2     |✔️ | Expresiones y Operadores          |
-| 3     |✔️ | Condicionales          |
-| 4     |✔️ | Bucles o Ciclos          |
-| 5     |✔️ | Arreglos          |
-| 6     |✔️ | Matrices o Tablas          |
-| 7     |    | Cadenas          |
-| 8     |    |Metodos de Ordenamiento          |
-| 9     |    |Busqueda          |
-| 10    |    |Punteros          |
-| 11    |    |Funciones          |
-| 12    |    |Estructura de  Datos         |
-| 13    |    |Pilas         |
-| 14    |    |Colas         |
-| 15    |    |Listas         |
-| 16    |    |Arboles         |
-| 17    |    |Archivos         |
-| 18    |    |POO: Clases y Objetos         |
-| 19    |    |POO: Clases derivadas - Herencia y Polimorfismo       |
-| 20    |    |Genericidad        |
-| 21    |    |Genericidad - Plantillas       |
-| 22    |    |Analisis e Eficiencia de Algoritmos        |
-| 23    |    |Algoritmo Recursivo        |
-| 24    |    |Bibliotecas Estandar de Plantillas (STL)        |
-| 25    |    |Embebidos        |
-| 26    |    |Interfaz Grafica        |
-| 26    |    |Juegos        |
+| Numeracion   | Check  |Temas          |Links       |
+| ------------ |--------|-------------- |-------------- |
+| 1     |✔️ | Introduccion y Entrada-Salidaa    | [Link](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/EntradaDatos)          |
+| 2     |✔️ | Expresiones y Operadores          |[Link](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/EntradaDatos)          |
+| 3     |✔️ | Condicionales          |[Link](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/EntradaDatos)          |
+| 4     |✔️ | Bucles o Ciclos          |[Link](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/EntradaDatos)          |
+| 5     |✔️ | Arreglos          |[Link](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/EntradaDatos)          |
+| 6     |✔️ | Matrices o Tablas          |[Link](#)          |
+| 7     |    | Cadenas          |[Link](#)           |
+| 8     |    |Metodos de Ordenamiento          |[Link](#)          |
+| 9     |    |Busqueda          |[Link](#)          |
+| 10    |    |Punteros          |[Link](#)           |
+| 11    |    |Funciones          |[Link](#)          |
+| 12    |    |Estructura de  Datos         |[Link](#)         |
+| 13    |    |Pilas         |[Link](#)           |
+| 14    |    |Colas         |[Link](#)          |
+| 15    |    |Listas         |[Link](#)          |
+| 16    |    |Arboles         |[Link](#)          |
+| 17    |    |Archivos         |[Link](#)         |
+| 18    |    |POO: Clases y Objetos         |[Link](#)           |
+| 19    |    |POO: Clases derivadas - Herencia y Polimorfismo       |[Link](#)           |
+| 20    |    |Genericidad        |[Link]((#)        |
+| 21    |    |Genericidad - Plantillas       |[Link]((#)          |
+| 22    |    |Analisis e Eficiencia de Algoritmos        |[Link](#)          |
+| 23    |    |Algoritmo Recursivo        |[Link](#)          |
+| 24    |    |Bibliotecas Estandar de Plantillas (STL)        |[Link](#)          |
+| 25    |    |Embebidos        |[Link](#)           |
+| 26    |    |Interfaz Grafica        |[Link](#)          |
+| 26    |    |Juegos        |[Link](#)          |
 
 ![c++](./images/demo1.gif)
 
