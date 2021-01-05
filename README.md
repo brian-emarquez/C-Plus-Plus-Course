@@ -76,11 +76,11 @@ fui responsable de elaborar extensas proposiciones en el comité de estándares 
 
 | Numeration   | Check  |Topic          |Links       |
 | ------------ |--------|-------------- |-------------- |
-| 1     |✔️ | Introduccion y Entrada-Salidaa    | [Link 1 ](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/EntradaDatos), [Link 2 ](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/HolaMundoCplusplus)           |
+| 1     |✔️ | Introduccion y Entrada-Salidaa    | [EntradaDatos ](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/EntradaDatos), [HolaMundoCplusplus ](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/HolaMundoCplusplus)           |
 | 2     |✔️ | Expresiones y Operadores          |[Operaciones 1](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Operaciones%201), [Operaciones 2](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Operaciones%202), [Operaciones 3](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Operaciones%203),  [Operaciones 4](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Operaciones%204), [Operaciones 5](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Operaciones%205), [Operaciones Matemicaticas ](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Operaciones%20Matematicas)     |
 | 3     |✔️ | Condicionales          |[IF](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Condicional%20-%20IF), [Switch](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Condicional%20-%20Switch)     |
-| 4     |✔️ | Bucles o Ciclos          |[Link](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/EntradaDatos)          |
-| 5     |✔️ | Arreglos          |[Link](#)           |
+| 4     |✔️ | Bucles o Ciclos          |[While](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Bucle%20-%20while)  , [Do-While](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Bucle%20-%20Do%20While),  [For](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Bucle%20-%20For)      |
+| 5     |✔️ | Arreglos          |[Array](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Arrays)          |
 | 6     |✔️ | Matrices o Tablas          |[Link](#)          |
 | 7     |    | Cadenas          |[Link](#)           |
 | 8     |    |Metodos de Ordenamiento          |[Link](#)          |
