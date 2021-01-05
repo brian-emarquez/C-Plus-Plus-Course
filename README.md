@@ -77,10 +77,10 @@ fui responsable de elaborar extensas proposiciones en el comité de estándares 
 | Numeracion   | Check  |Temas          |Links       |
 | ------------ |--------|-------------- |-------------- |
 | 1     |✔️ | Introduccion y Entrada-Salidaa    | [Link](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/EntradaDatos)          |
-| 2     |✔️ | Expresiones y Operadores          |[Link](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/EntradaDatos)          |
-| 3     |✔️ | Condicionales          |[Link](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/EntradaDatos)          |
+| 2     |✔️ | Expresiones y Operadores          |[Link](#)        |
+| 3     |✔️ | Condicionales          |[Link](#) (#)        |
 | 4     |✔️ | Bucles o Ciclos          |[Link](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/EntradaDatos)          |
-| 5     |✔️ | Arreglos          |[Link](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/EntradaDatos)          |
+| 5     |✔️ | Arreglos          |[Link](#)           |
 | 6     |✔️ | Matrices o Tablas          |[Link](#)          |
 | 7     |    | Cadenas          |[Link](#)           |
 | 8     |    |Metodos de Ordenamiento          |[Link](#)          |
@@ -95,8 +95,8 @@ fui responsable de elaborar extensas proposiciones en el comité de estándares 
 | 17    |    |Archivos         |[Link](#)         |
 | 18    |    |POO: Clases y Objetos         |[Link](#)           |
 | 19    |    |POO: Clases derivadas - Herencia y Polimorfismo       |[Link](#)           |
-| 20    |    |Genericidad        |[Link]((#)        |
-| 21    |    |Genericidad - Plantillas       |[Link]((#)          |
+| 20    |    |Genericidad        |[Link](#)        |
+| 21    |    |Genericidad - Plantillas       |[Link](#)          |
 | 22    |    |Analisis e Eficiencia de Algoritmos        |[Link](#)          |
 | 23    |    |Algoritmo Recursivo        |[Link](#)          |
 | 24    |    |Bibliotecas Estandar de Plantillas (STL)        |[Link](#)          |
