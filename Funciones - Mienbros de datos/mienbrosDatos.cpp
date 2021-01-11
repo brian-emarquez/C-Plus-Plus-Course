@@ -3,27 +3,57 @@
 /*crea y manipula un objeto LibroCalificaciones*/
 
 #include <iostream>
-#include <stdio.h>
-
 using std::cout;
+using std::cin;
 using std::endl;
 
+#include <string>
+using std::string;
+using std::getline;
+
+#include <conio.h>
 
 // definicion de las clases LibroCalificaciones
 class LibroCalificaciones
 {
 public:
-	void mostrarMensajes()
+
+	//funcion que establecer el nombre del curso
+	void establecerNombreCurso(string nombre)
 	{
-		cout << "Bienvenido al libro de bienvenida para el usuario de libroCAlificaciones" << endl;
+		nombreCurso = nombre;
 	}
+
+	string obtenerNombreCurso()
+	{
+		return nombreCurso;
+	}
+
+	void mostrarMensaje(string nombreCurso)
+	{
+		cout << "Bienvenido al libro de libroCalificaciones paran\n " << obtenerNombreCurso() << endl;
+	}
+
+private:
+	string nombreCurso;
 };
+
 
 int main()
 {
+	string nombreDelCurso;
 	LibroCalificaciones miLibroCalificaciones;
-	miLibroCalificaciones.mostrarMensajes();
-	system("pause");
+
+	// muestra el valor inicial de nombreCurso
+	cout << "El nombre inicial del curso es: " << miLibroCalificaciones.obtenerNombreCurso() << endl;
+
+	// pide , recibir y establecer el nombre del curso
+	cout << "\nEscriba el nombre del curso: " << endl;
+	getline(std::cin, nombreDelCurso);
+	miLibroCalificaciones.establecerNombreCurso( nombreDelCurso );
+
+	cout << endl;
+	miLibroCalificaciones.mostrarMensaje();
+	_getch;
 	return 0;
 }
-

@@ -1,0 +1,5 @@
+﻿  mienbrosDatos.cpp
+C:\Users\brian\source\repos\BrianMarquez3\C-Plus-Plus-Course\Funciones - Mienbros de datos\mienbrosDatos.cpp(34,1): error C3867: 'LibroCalificaciones::obtenerNombreCurso': sintaxis no estándar; utilice '&' para crear un puntero al miembro
+C:\Users\brian\source\repos\BrianMarquez3\C-Plus-Plus-Course\Funciones - Mienbros de datos\mienbrosDatos.cpp(56,40): error C2660: 'LibroCalificaciones::mostrarMensajes': la función no acepta 0 argumentos
+C:\Users\brian\source\repos\BrianMarquez3\C-Plus-Plus-Course\Funciones - Mienbros de datos\mienbrosDatos.cpp(32,7): message : vea la declaración de 'LibroCalificaciones::mostrarMensajes'
+C:\Users\brian\source\repos\BrianMarquez3\C-Plus-Plus-Course\Funciones - Mienbros de datos\mienbrosDatos.cpp(57,2): warning C4551: la llamada a la función no tiene lista de argumentos
