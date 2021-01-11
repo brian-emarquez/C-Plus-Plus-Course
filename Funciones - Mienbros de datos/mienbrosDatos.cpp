@@ -29,9 +29,9 @@ public:
 		return nombreCurso;
 	}
 
-	void mostrarMensaje(string nombreCurso)
+	void mostrarMensaje()
 	{
-		cout << "Bienvenido al libro de libroCalificaciones paran\n " << obtenerNombreCurso() << endl;
+		cout << "Bienvenido al libro de libroCalificaciones para\n " << obtenerNombreCurso() << endl;
 	}
 
 private:
@@ -50,7 +50,7 @@ int main()
 	// pide , recibir y establecer el nombre del curso
 	cout << "\nEscriba el nombre del curso: " << endl;
 	getline(std::cin, nombreDelCurso);
-	miLibroCalificaciones.establecerNombreCurso( nombreDelCurso );
+	miLibroCalificaciones.establecerNombreCurso(nombreDelCurso);
 
 	cout << endl;
 	miLibroCalificaciones.mostrarMensaje();
