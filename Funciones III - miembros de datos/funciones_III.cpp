@@ -1,10 +1,9 @@
 //#################################################################################
-//# Funciones III Miebros de datos, funciones establecery funciones obtener
+//# Funciones III Mienbros de datos, funciones establecery funciones obtener
 //#################################################################################
 
 #include <iostream>
 #include <stdio.h>
-#include <string.h>
 #include <string>
 
 using namespace std;
@@ -12,22 +11,37 @@ using namespace std;
 class LibroCalificaicones
 {
 public:
-	void mostarMnesaje(string nombreCurso)
+	void establecerNombreCurso(string nombre)
 	{
-		cout << "Bienvenido al libro de calificaciones! " << nombreCurso << endl;
+		nombreCurso = nombre;
 	}
+	string obtenerNombreCurso()
+	{
+		return nombreCurso;
+	}
+	void mostarMensaje()
+	{
+		cout << "Bienvenido al libro de calificaciones para\n " << obtenerNombreCurso() << endl;
+	}
+	private:
+		string nombreCurso;
 };
 
 int main() {
+
 	string nonbreDelCurso;
 	LibroCalificaicones miLibroCalificaicones;
 
-	//Ingreso de datos
-	cout << "Escriba el nombre del curso " << endl;
-	getline(cin, nonbreDelCurso);
-	cout << endl;
+	//muestra el valor inicial de nombreCurso
+	cout << "El nombre inicial del curso es: "<< miLibroCalificaicones.obtenerNombreCurso() << endl;
 
-	miLibroCalificaicones.mostarMnesaje(nonbreDelCurso);
+	// pide, recibe y establecer el nombre del curso
+	cout << "\nEscriba el nombre del curso:" << endl;
+	getline(cin, nonbreDelCurso);
+	miLibroCalificaicones.establecerNombreCurso(nonbreDelCurso);
+
+	cout << endl;
+	miLibroCalificaicones.mostarMensaje();
 	system("pause");
 	return 0;
 }
