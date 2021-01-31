@@ -10,7 +10,7 @@ class LibroCalificaicones
 public:
 	void mostarMnesaje(string nombreCurso)
 	{
-		cout << "Bienvenido al libro de calificaciones!" << nombreCurso <<endl;
+		cout << "Bienvenido al libro de calificaciones! " << nombreCurso <<endl;
 	}
 };
 
@@ -19,7 +19,7 @@ int main() {
 	LibroCalificaicones miLibroCalificaicones;
 
 	//Ingreso de datos
-	cout << "Escriba el nombre del curso" << endl;
+	cout << "Escriba el nombre del curso " << endl;
 	getline(cin, nonbreDelCurso);
 	cout << endl;
 
