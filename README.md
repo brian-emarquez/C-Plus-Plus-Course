@@ -256,3 +256,7 @@ _Link de Descarga_
 ### Games
 <img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/games.jpg>
 
+## Paypal
+
+🩸 Hacer una donación [PAYPAL](https://www.paypal.com/donate?hosted_button_id=98U3T62494H9Y) 🍵
+
