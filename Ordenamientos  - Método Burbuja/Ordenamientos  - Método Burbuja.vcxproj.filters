@@ -18,8 +18,12 @@
     <ClCompile Include="Burbuja.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
+    <ClCompile Include="BurbujaRecursivo.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="readme.md" />
+    <None Include="ClassDiagram.cd" />
   </ItemGroup>
 </Project>
