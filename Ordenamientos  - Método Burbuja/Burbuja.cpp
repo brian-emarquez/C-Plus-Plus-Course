@@ -3,14 +3,14 @@
 /*****************************************************************************************/
 
 #include <iostream>
-#include <conio.h>
+#include <stdio.h>
 
 using namespace std;
 
 int main() {
 
 	int numeros[] = { 4,1,2,3,5 };
-	int i, j, aux;
+	int i = 0, j = 0, aux = 0;
 
 	//algoritmo burbuja
 	for (i = 0; i < 5; i++) {
@@ -26,9 +26,9 @@ int main() {
 	cout << "Orden Ascendente: ";
 	for (i = 0; i < 5; i++) {
 		cout << numeros[i];
-
 	}
+	cout << endl;
 
-	_getch();
+	system("pause");
 	return 0;
 }
