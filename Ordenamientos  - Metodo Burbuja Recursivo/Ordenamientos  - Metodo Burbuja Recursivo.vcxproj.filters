@@ -23,11 +23,6 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="BurbujaRecursiva.h">
-      <Filter>Archivos de encabezado</Filter>
-    </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
     <Image Include="..\..\..\..\..\Documents\burbleSortRecurs.png">
       <Filter>Images</Filter>
     </Image>

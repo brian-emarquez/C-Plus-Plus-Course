@@ -142,9 +142,6 @@
     <ClCompile Include="BurbujaRecursiva.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="BurbujaRecursiva.h" />
-  </ItemGroup>
-  <ItemGroup>
     <Image Include="..\..\..\..\..\Documents\burbleSortRecurs.png" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
