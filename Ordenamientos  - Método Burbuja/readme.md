@@ -10,4 +10,4 @@ El algoritmo de ordenamiento de burbuja es uno de los algoritmos de ordenamiento
 
 ## Simulador
 
-[http://lwh.free.fr/pages/algo/tri/tri_bulle_es.html]
+(Simulador)[http://lwh.free.fr/pages/algo/tri/tri_bulle_es.html]
