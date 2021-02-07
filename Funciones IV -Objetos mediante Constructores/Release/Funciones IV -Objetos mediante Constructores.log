@@ -1,0 +1,3 @@
+﻿  funcionIV.cpp
+MSVCRT.lib(exe_main.obj) : error LNK2001: símbolo externo _main sin resolver
+C:\Users\brian\source\repos\BrianMarquez3\C-Plus-Plus-Course\Funciones IV -Objetos mediante Constructores\Release\Funciones IV -Objetos mediante Constructores.exe : fatal error LNK1120: 1 externos sin resolver

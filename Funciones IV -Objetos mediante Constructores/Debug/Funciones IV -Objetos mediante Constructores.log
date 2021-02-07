@@ -1,0 +1,3 @@
+﻿  funcionIV.cpp
+C:\Users\brian\source\repos\BrianMarquez3\C-Plus-Plus-Course\Funciones IV -Objetos mediante Constructores\funcionIV.cpp(35,12): error C2146: error de sintaxis: falta ';' delante del identificador '_main'
+C:\Users\brian\source\repos\BrianMarquez3\C-Plus-Plus-Course\Funciones IV -Objetos mediante Constructores\funcionIV.cpp(35,20): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
