@@ -1,6 +1,6 @@
-## Metodo Burbuja
+ï»¿## Metodo Burbuja
 
-El algoritmo de ordenamiento de burbuja es uno de los algoritmos de ordenamiento más sencillos aunque no es el más eficiente. Su simplicidad lo convierte en un algoritmo ideal para practicar programación.  [JUNCOTIC](https://juncotic.com/ordenamiento-de-burbuja-algoritmos-de-ordenamiento/hon).<br>
+El algoritmo de ordenamiento de burbuja es uno de los algoritmos de ordenamiento mÃ¡s sencillos aunque no es el mÃ¡s eficiente. Su simplicidad lo convierte en un algoritmo ideal para practicar programaciÃ³n.  [JUNCOTIC](https://juncotic.com/ordenamiento-de-burbuja-algoritmos-de-ordenamiento/hon).<br>
 
 ![c++](./images/burbuja.png)
 
@@ -10,4 +10,4 @@ El algoritmo de ordenamiento de burbuja es uno de los algoritmos de ordenamiento
 
 ## Simulador
 
-[Simulador](http://lwh.free.fr/pages/algo/tri/tri_bulle_es.html)
+ðŸ”¬ [Simulador BurbleSort](http://lwh.free.fr/pages/algo/tri/tri_bulle_es.html)
