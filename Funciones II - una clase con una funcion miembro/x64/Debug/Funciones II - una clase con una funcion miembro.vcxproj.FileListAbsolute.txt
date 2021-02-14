@@ -1,0 +1,2 @@
+C:\Users\brian\source\repos\BrianMarquez3\C-Plus-Plus-Course\Funciones II - una clase con una funcion miembro\x64\Debug\Funciones II - definicion de una funcion miembro con parametro.exe
+C:\Users\brian\source\repos\BrianMarquez3\C-Plus-Plus-Course\Funciones II - una clase con una funcion miembro\x64\Debug\Funciones II - definicion de una funcion miembro con parametro.pdb

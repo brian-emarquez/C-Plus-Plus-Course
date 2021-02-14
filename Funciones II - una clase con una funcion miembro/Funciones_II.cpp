@@ -2,6 +2,7 @@
 #include <stdio.h>
 #include <string.h>
 #include <string>
+//#include <string>
 
 using namespace std;
 
@@ -13,6 +14,7 @@ public:
 		cout << "Bienvenido al libro de calificaciones! " << nombreCurso <<endl;
 	}
 };
+
 
 int main() {
 	string nonbreDelCurso;

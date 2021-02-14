@@ -1,5 +1,5 @@
 //#################################################################################
-//# Funciones III Mienbros de datos, funciones establecery funciones obtener
+//# Funciones III Mienbros de datos, funciones establecer Y funciones obtener
 //#################################################################################
 
 #include <iostream>
@@ -23,8 +23,8 @@ public:
 	{
 		cout << "Bienvenido al libro de calificaciones para\n " << obtenerNombreCurso() << endl;
 	}
-	private:
-		string nombreCurso;
+private:
+	string nombreCurso;
 };
 
 int main() {
