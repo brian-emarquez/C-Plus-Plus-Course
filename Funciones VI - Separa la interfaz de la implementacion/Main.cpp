@@ -11,5 +11,4 @@ int main() {
 	cout << "LibroCalificaciones1 creado para el curso: " << LibroCalificaciones1.obtenerNombreCurso() << endl;
 	cout << "LibroCalificaciones1 creado para el curso: " << LibroCalificaciones2.obtenerNombreCurso() << endl;
 	return 0;
-
 }
