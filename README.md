@@ -239,10 +239,12 @@ Utilizando Interfas Grafica
 - Ejemplo
 <img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/graphics.png>
 
-## Spotify
 ---
+## Spotify
+
 🎵 Music C++ [List on Spotify 🎤](https://open.spotify.com/playlist/5WeJBsezZBzGxr3bI0k68e?si=-ZU7O8zrSp-7hQolKhZF4A)
 
+---
 ## Book
 ---
 Download book - [Cómo programar en C++, 9Ed](https://dubox.com/s/1VJ7p2q8AL8qnUBWY-J4-qQ) <br>
