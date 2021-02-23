@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/coverage-80%25-yellowgreen">
   </a>
    </a>
-   <a href="https://github.com/BrianMarquez3/PHP-Course/network">
+   <a href="https://github.com/BrianMarquez3/C-Plus-Plus-Course/network">
     <img src="https://img.shields.io/badge/Plataform-Windows-blue">
   </a>
   
