@@ -1,3 +1,3 @@
-## Ordenamientos - Metodod de la Burbuja Recursivo
+## Ordenamientos - Metodo de la Burbuja Recursivo
 
 ![c++](./images/burbleSortRecursive.png)
