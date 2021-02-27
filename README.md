@@ -20,7 +20,10 @@
    <a href="https://github.com/BrianMarquez3/C-Plus-Plus-Course/network">
     <img src="https://img.shields.io/badge/Plataform-Windows-blue">
   </a>
-  
+  <img src="https://img.shields.io/github/commit-activity/y/BrianMarquez3/C-Plus-Plus-Course?color=blue&label=commit&logo=dev&logoColor=blue">
+   </a>
+
+  </a>
   
 <!--- code coverage percentage: ![coverage](https://img.shields.io/badge/coverage-80%25-yellowgreen)
 - stable release version: ![version](https://img.shields.io/badge/version-1.2.3-blue)
