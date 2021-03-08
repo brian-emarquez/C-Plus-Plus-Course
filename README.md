@@ -111,16 +111,16 @@ fui responsable de elaborar extensas proposiciones en el comité de estándares 
 |  014   | 🟠 |Colas         |[Link](#)          |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  015   | 🟠 |Listas         |[Link](#)          |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  016   | 🟠 |Arboles         |[Link](#)          |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  017   |    |Archivos         |[Link](#)         |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  018   |    |POO: Clases y Objetos         |[Link](#)           |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  019   |    |POO: Clases derivadas - Herencia y Polimorfismo       |[Link](#)           |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  020   |    |Genericidad        |[Link](#)        |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  021   |    |Genericidad - Plantillas       |[Link](#)          |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  022   |    |Analisis e Eficiencia de Algoritmos        |[Link](#)          |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  023   |    |Algoritmo Recursivo        |[Link](#)          |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  025   |    |Embebidos        |[Link](#)           | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  026   |    |Interfaz Grafica        |[Link](#)          | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  027   |    |Juegos        |[Link](#)          | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  017   | 🟠 |Archivos         |[Link](#)         |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  018   | 🟠 |POO: Clases y Objetos         |[Link](#)           |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  019   | 🟠 |POO: Clases derivadas - Herencia y Polimorfismo       |[Link](#)           |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  020   | 🟠 |Genericidad        |[Link](#)        |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  021   | 🟠 |Genericidad - Plantillas       |[Link](#)          |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  022   | 🟠 |Analisis e Eficiencia de Algoritmos        |[Link](#)          |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  023   | 🟠 |Algoritmo Recursivo        |[Link](#)          |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  025   | 🟠 |Embebidos        |[Link](#)          |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  026   | 🟠 |Interfaz Grafica        |[Link](#)         |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  027   | 🟠 |Juegos        |[Link](#)          |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 
  - Animacion
  
