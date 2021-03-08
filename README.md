@@ -92,35 +92,36 @@ fui responsable de elaborar extensas proposiciones en el comité de estándares 
 
 ## Temario
 
-| Numeration   | Check  |Topic          |Links       |
-| ------------ |--------|-------------- |-------------- |
-| 01     |✔️ | Introduccion y Entrada-Salidaa    | [EntradaDatos ](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/EntradaDatos), [HolaMundoCplusplus ](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/HolaMundoCplusplus), [Calculadora](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Calculadora), [Cajero Automatico](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Cajero%20Automatico)               |
-| 02     |✔️ | Expresiones y Operadores          |[Operaciones 1](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Operaciones%201), [Operaciones 2](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Operaciones%202), [Operaciones 3](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Operaciones%203),  [Operaciones 4](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Operaciones%204), [Operaciones 5](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Operaciones%205), [Operaciones Matemicaticas ](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Operaciones%20Matematicas)     |
-| 03     |✔️ | Condicionales          |[IF](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Condicional%20-%20IF), [Switch](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Condicional%20-%20Switch)     |
-| 04     |✔️ | Bucles o Ciclos          |[While](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Bucle%20-%20while)  , [Do-While](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Bucle%20-%20Do%20While),  [For](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Bucle%20-%20For)      |
-| 05     |✔️ | Arreglos          |[Array](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Arrays), [Array Almacenado de Contenido](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Array%20%20Almacenado%20de%20Contenido),  [Array Mayor elemento](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Array%20Mayor%20elemento), [Array Mayor elemento](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Array%20Mayor%20elemento)          |
-| 06     |✔️ | Matrices o Tablas          | [Matrices](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Matrices) ,  [Matrices II](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Matrices%20II) , [Matrices Copy Content to Another Array](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Matrices%20Copy%20Content%20to%20Another%20Array)      |
-| 07     |✔️ | Cadenas          |[Logitud de Cadena](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Logitud%20de%20Cadena), [Cadenas - Comparar cadenas](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Cadenas%20-%20Comparar%20cadenas), [Cadenas - Concatenar una cadena con otra - Función strcat](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Cadenas%20-%20Concatenar%20una%20cadena%20con%20otra%20-%20Funci%C3%B3n%20strcat())  ,  [Cadenas - Ejercicio Contando cada vocal en una frase](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Cadenas%20-%20Ejercicio%20Contando%20cada%20vocal%20en%20una%20frase)  , [Cadenas - Invertir una cadena](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Cadenas%20-%20Invertir%20una%20cadena)  ,  [Cadenas - Pasar un a Palabra a Minusculas](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Cadenas%20-%20Pasar%20un%20a%20Palabra%20a%20Minusculas), [Cadenas - Pasar un palabra a MAYUSCULAS](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Cadenas%20-%20Pasar%20un%20palabra%20a%20MAYUSCULAS), [Cadenas - Transformar una Cadena a numeros](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Cadenas%20-%20Transformar%20una%20Cadena%20a%20numeros)   |
-| 08     |✔️ |Funciones          |[Funciones](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Funciones), [Funciones II](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Funciones%20II%20-%20una%20clase%20con%20una%20funcion%20miembro),  [Funciones III](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Funciones%20III%20-%20miembros%20de%20datos) , [Funciones IV](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Funciones%20IV%20-Objetos%20mediante%20Constructores), [Funciones V](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Funciones%20V%20-%20Colocar%20una%20clase%20en%20un%20harchivo%20separado),[Funciones VI](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Funciones%20VI%20-%20Separa%20la%20interfaz%20de%20la%20implementacion)
-| 09    | ✔️ |Ordenamiento          |[Método Burbuja](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Ordenamientos%20%20-%20M%C3%A9todo%20Burbuja) , [Metodo Burbuja Recursivo](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Ordenamientos%20%20-%20Metodo%20Burbuja%20Recursivo)    |
-| 10    | 🟠 |Busqueda          |[]()    |
-| 11    | 🟠 |Punteros          |[Link](#)           |
-| 12    | 🟠 |Estructura de  Datos         |[Link](#)         |
-| 13    | 🟠 |Pilas         |[Link](#)           |
-| 14    | 🟠 |Colas         |[Link](#)          |
-| 15    | 🟠 |Listas         |[Link](#)          |
-| 16    | 🟠 |Arboles         |[Link](#)          |
-| 17    |    |Archivos         |[Link](#)         |
-| 18    |    |POO: Clases y Objetos         |[Link](#)           |
-| 19    |    |POO: Clases derivadas - Herencia y Polimorfismo       |[Link](#)           |
-| 20    |    |Genericidad        |[Link](#)        |
-| 21    |    |Genericidad - Plantillas       |[Link](#)          |
-| 22    |    |Analisis e Eficiencia de Algoritmos        |[Link](#)          |
-| 23    |    |Algoritmo Recursivo        |[Link](#)          |
-| 24    |    |Bibliotecas Estandar de Plantillas (STL)        |[Link](#)          |
-| 25    |    |Embebidos        |[Link](#)           |
-| 26    |    |Interfaz Grafica        |[Link](#)          |
-| 26    |    |Juegos        |[Link](#)          |
+
+| Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
+| ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
+|  001   |:heavy_check_mark: | Introduccion y Entrada-Salidaa    | [EntradaDatos ](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/EntradaDatos), [HolaMundoCplusplus ](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/HolaMundoCplusplus), [Calculadora](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Calculadora), [Cajero Automatico](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Cajero%20Automatico)               |
+|  002   |:heavy_check_mark: | Expresiones y Operadores          |[Operaciones 1](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Operaciones%201), [Operaciones 2](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Operaciones%202), [Operaciones 3](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Operaciones%203),  [Operaciones 4](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Operaciones%204), [Operaciones 5](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Operaciones%205), [Operaciones Matemicaticas ](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Operaciones%20Matematicas)     |
+|  003   |:heavy_check_mark: | Condicionales          |[IF](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Condicional%20-%20IF), [Switch](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Condicional%20-%20Switch)     |
+|  004   |:heavy_check_mark: | Bucles o Ciclos          |[While](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Bucle%20-%20while)  , [Do-While](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Bucle%20-%20Do%20While),  [For](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Bucle%20-%20For)      |
+|  005   |:heavy_check_mark: | Arreglos          |[Array](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Arrays), [Array Almacenado de Contenido](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Array%20%20Almacenado%20de%20Contenido),  [Array Mayor elemento](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Array%20Mayor%20elemento), [Array Mayor elemento](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Array%20Mayor%20elemento)          |
+|  006   |:heavy_check_mark: | Matrices o Tablas          | [Matrices](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Matrices) ,  [Matrices II](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Matrices%20II) , [Matrices Copy Content to Another Array](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Matrices%20Copy%20Content%20to%20Another%20Array)      |
+|  007   |:heavy_check_mark: | Cadenas          |[Logitud de Cadena](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Logitud%20de%20Cadena), [Cadenas - Comparar cadenas](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Cadenas%20-%20Comparar%20cadenas), [Cadenas - Concatenar una cadena con otra - Función strcat](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Cadenas%20-%20Concatenar%20una%20cadena%20con%20otra%20-%20Funci%C3%B3n%20strcat())  ,  [Cadenas - Ejercicio Contando cada vocal en una frase](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Cadenas%20-%20Ejercicio%20Contando%20cada%20vocal%20en%20una%20frase)  , [Cadenas - Invertir una cadena](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Cadenas%20-%20Invertir%20una%20cadena)  ,  [Cadenas - Pasar un a Palabra a Minusculas](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Cadenas%20-%20Pasar%20un%20a%20Palabra%20a%20Minusculas), [Cadenas - Pasar un palabra a MAYUSCULAS](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Cadenas%20-%20Pasar%20un%20palabra%20a%20MAYUSCULAS), [Cadenas - Transformar una Cadena a numeros](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Cadenas%20-%20Transformar%20una%20Cadena%20a%20numeros)   |
+|  008   |:heavy_check_mark: |Funciones          |[Funciones](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Funciones), [Funciones II](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Funciones%20II%20-%20una%20clase%20con%20una%20funcion%20miembro),  [Funciones III](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Funciones%20III%20-%20miembros%20de%20datos) , [Funciones IV](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Funciones%20IV%20-Objetos%20mediante%20Constructores), [Funciones V](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Funciones%20V%20-%20Colocar%20una%20clase%20en%20un%20harchivo%20separado),[Funciones VI](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Funciones%20VI%20-%20Separa%20la%20interfaz%20de%20la%20implementacion)
+|  008   |:heavy_check_mark: |Ordenamiento          |[Método Burbuja](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Ordenamientos%20%20-%20M%C3%A9todo%20Burbuja) , [Metodo Burbuja Recursivo](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Ordenamientos%20%20-%20Metodo%20Burbuja%20Recursivo)    |
+|  009   | 🟠 |Busqueda          |[]()    |
+|  010   | 🟠 |Punteros          |[Link](#)           |
+|  011   | 🟠 |Estructura de  Datos         |[Link](#)         |
+|  012   | 🟠 |Pilas         |[Link](#)           |
+|  013   | 🟠 |Colas         |[Link](#)          |
+|  014   | 🟠 |Listas         |[Link](#)          |
+|  015   | 🟠 |Arboles         |[Link](#)          |
+|  016   |    |Archivos         |[Link](#)         |
+|  017   |    |POO: Clases y Objetos         |[Link](#)           |
+|  018   |    |POO: Clases derivadas - Herencia y Polimorfismo       |[Link](#)           |
+|  019   |    |Genericidad        |[Link](#)        |
+|  020   |    |Genericidad - Plantillas       |[Link](#)          |
+|  021   |    |Analisis e Eficiencia de Algoritmos        |[Link](#)          |
+|  022   |    |Algoritmo Recursivo        |[Link](#)          |
+|  023   |    |Bibliotecas Estandar de Plantillas (STL)        |[Link](#)          |
+|  024   |    |Embebidos        |[Link](#)           |
+|  025   |    |Interfaz Grafica        |[Link](#)          |
+|  026   |    |Juegos        |[Link](#)          |
 
  - Animacion
  
