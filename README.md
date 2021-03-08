@@ -4,8 +4,8 @@
 
 <p align="center">
   
-  <a href="https://github.com/BrianMarquez3/C-Plus-Plus-Course/tags">
-    <img src="https://img.shields.io/github/tag/BrianMarquez3/C-Plus-Plus-Course.svg?label=version&style=flat" alt="Version">
+   </a>
+    <img src="https://img.shields.io/github/languages/top/BrianMarquez3/C-Plus-Plus-Course?color=red">
   </a>
   <a href="https://github.com/BrianMarquez3/C-Plus-Plus-Course/stargazers">
     <img src="https://img.shields.io/github/stars/BrianMarquez3/C-Plus-Plus-Course.svg?style=flat" alt="Stars">
@@ -13,15 +13,24 @@
   <a href="https://github.com/BrianMarquez3/C-Plus-Plus-Course/network">
     <img src="https://img.shields.io/github/forks/BrianMarquez3/C-Plus-Plus-Course.svg?style=flat" alt="Forks">
   </a>
-  <a href="https://github.com/BrianMarquez3/C-Plus-Plus-Course/network">
-    <img src="https://img.shields.io/badge/coverage-80%25-yellowgreen">
+    <img src="https://img.shields.io/github/v/tag/BrianMarquez3/C-Plus-Plus-Course?color=gren&label=Version&logo=c++">
   </a>
+  
+  </a>
+    <img src="https://img.shields.io/github/languages/code-size/BrianMarquez3/C-Plus-Plus-Course">
+  </a>
+  
+  </a>
+    <img src="https://img.shields.io/github/downloads/BrianMarquez3/C-Plus-Plus-Course/total?color=violet">
+  </a>
+  
    </a>
    <a href="https://github.com/BrianMarquez3/C-Plus-Plus-Course/network">
     <img src="https://img.shields.io/badge/Plataform-Windows-blue">
-  </a>
-  <img src="https://img.shields.io/github/commit-activity/y/BrianMarquez3/C-Plus-Plus-Course?color=blue&label=commit&logo=dev&logoColor=blue">
-   </a>
+  </a><br>
+ 
+  <img src="https://img.shields.io/github/last-commit/BrianMarquez3/C-Plus-Plus-Course?color=darkblue&style=for-the-badge">
+  <img src="https://img.shields.io/github/languages/count/BrianMarquez3/C-Plus-Plus-Course?style=for-the-badge">
 
   </a>
   
@@ -52,17 +61,20 @@ Es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La inte
 
 ## Tabla de contenidos README
 
-- [Bjarne Stroustrup](#bjarne-stroustrup)
-- [Temario](#temario)
-- [Caracteristicas](#caracteristicas)
-- [Ejemplo](#ejemplo)
-- [Tipo de datos](#tipo-de-datos)
-- [Instalacion en Visual Studio Code](#instalacion-en-Visual-Studio-Code)
-- [Intalacion en Visual Studio](#Intalacion-en-Visual-Studio)
-- [Instalacion en Visual Studio C++/CLR](#Instalacion-en-Visual-Studio-C++/CLR)
-- [Play List Spotify](#Spotify)
-- [Book](#book)
-- [Games](#games)
+
+| Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
+| ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
+|  001   |:heavy_check_mark: | [Bjarne Stroustrup](#bjarne-stroustrup)   | :hourglass:     | - | - | [ ⬅️ Atras]
+|  001   |:heavy_check_mark: | [Temario](#temario)  | :hourglass:     | - | - | [ ⬅️ Atras]
+|  001   |:heavy_check_mark: | [Caracteristicas](#caracteristicas)   | :hourglass:     | - | - | [ ⬅️ Atras]
+|  001   |:heavy_check_mark: | [Ejemplo](#ejemplo)   | :hourglass:     | - | - | [ ⬅️ Atras]
+|  001   |:heavy_check_mark: | [Tipo de datos](#tipo-de-datos)   | :hourglass:     | - | - | [ ⬅️ Atras]
+|  001   |:heavy_check_mark: | [Instalacion en Visual Studio Code](#instalacion-en-Visual-Studio-Code)   | :hourglass:     | - | - | [ ⬅️ Atras]
+|  001   |:heavy_check_mark: | [Intalacion en Visual Studio](#Intalacion-en-Visual-Studio)   | :hourglass:     | - | - | [ ⬅️ Atras]
+|  001   |:heavy_check_mark: | [Instalacion en Visual Studio C++/CLR](#Instalacion-en-Visual-Studio-C++/CLR)  | :hourglass:     | - | - | [ ⬅️ Atras]
+|  001   |:heavy_check_mark: | [Play List Spotify](#Spotify)   | :hourglass:     | - | - | [ ⬅️ Atras]
+|  001   |:heavy_check_mark: | [Book](#book)  | :hourglass:     | - | - | [ ⬅️ Atras]
+|  001   |:heavy_check_mark: | [Games](#games)   | :hourglass:     | - | - | [ ⬅️ Atras]
 
 ## Bjarne Stroustrup
 ---
