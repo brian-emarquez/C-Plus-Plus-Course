@@ -64,7 +64,7 @@ Es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La inte
 
 | Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
-|  001   |:heavy_check_mark: | [Bjarne Stroustrup](#bjarne-stroustrup)   | :hourglass:     | - | - | [ ⬅️ Atras (https://github.com/BrianMarquez3) | 
+|  001   |:heavy_check_mark: | [Bjarne Stroustrup](#bjarne-stroustrup)   | :hourglass:     | - | - | [ ⬅️ Atras] (https://github.com/BrianMarquez3) | 
 |  002   |:heavy_check_mark: | [Temario](#temario)  | :hourglass:     | - | - | [ ⬅️ Atras (https://github.com/BrianMarquez3) |  
 |  003   |:heavy_check_mark: | [Caracteristicas](#caracteristicas)   | :hourglass:     | - | - | [ ⬅️ Atras (https://github.com/BrianMarquez3) | 
 |  004   |:heavy_check_mark: | [Ejemplo](#ejemplo)   | :hourglass:     | - | - | [ ⬅️ Atras (https://github.com/BrianMarquez3) |  
