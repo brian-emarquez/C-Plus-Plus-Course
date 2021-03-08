@@ -64,17 +64,17 @@ Es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La inte
 
 | Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
-|  001   |:heavy_check_mark: | [Bjarne Stroustrup](#bjarne-stroustrup)   | :hourglass:     | - | - | [ ⬅️ Atras] (https://github.com/BrianMarquez3) | 
-|  002   |:heavy_check_mark: | [Temario](#temario)  | :hourglass:     | - | - | [ ⬅️ Atras (https://github.com/BrianMarquez3) |  
-|  003   |:heavy_check_mark: | [Caracteristicas](#caracteristicas)   | :hourglass:     | - | - | [ ⬅️ Atras (https://github.com/BrianMarquez3) | 
-|  004   |:heavy_check_mark: | [Ejemplo](#ejemplo)   | :hourglass:     | - | - | [ ⬅️ Atras (https://github.com/BrianMarquez3) |  
-|  005   |:heavy_check_mark: | [Tipo de datos](#tipo-de-datos)   | :hourglass:     | - | - | [[ ⬅️ Atras (https://github.com/BrianMarquez3) | 
-|  006   |:heavy_check_mark: | [Instalacion en Visual Studio Code](#instalacion-en-Visual-Studio-Code)   | :hourglass:     | - | - |[ ⬅️ Atras (https://github.com/BrianMarquez3) | 
-|  007   |:heavy_check_mark: | [Intalacion en Visual Studio](#Intalacion-en-Visual-Studio)   | :hourglass:     | - | - | [ ⬅️ Atras (https://github.com/BrianMarquez3) | 
-|  008   |:heavy_check_mark: | [Instalacion en Visual Studio C++/CLR](#Instalacion-en-Visual-Studio-C++/CLR)  | :hourglass:     | - | - | [ ⬅️ Atras (https://github.com/BrianMarquez3) | 
-|  009   |:heavy_check_mark: | [Play List Spotify](#Spotify)   | :hourglass:     | - | - |[ ⬅️ Atras (https://github.com/BrianMarquez3) | 
-|  010   |:heavy_check_mark: | [Book](#book)  | :hourglass:     | - | - | [ ⬅️ Atras (https://github.com/BrianMarquez3) | 
-|  011   |:heavy_check_mark: | [Games](#games)   | :hourglass:     | - | - | [ ⬅️ Atras (https://github.com/BrianMarquez3) | 
+|  001   |:heavy_check_mark: | [Bjarne Stroustrup](#bjarne-stroustrup)   | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  002   |:heavy_check_mark: | [Temario](#temario)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |  
+|  003   |:heavy_check_mark: | [Caracteristicas](#caracteristicas)   | :hourglass:     | - | - |[ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  004   |:heavy_check_mark: | [Ejemplo](#ejemplo)   | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  005   |:heavy_check_mark: | [Tipo de datos](#tipo-de-datos)   | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  006   |:heavy_check_mark: | [Instalacion en Visual Studio Code](#instalacion-en-Visual-Studio-Code)   | :hourglass:     | - | - |[ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  007   |:heavy_check_mark: | [Intalacion en Visual Studio](#Intalacion-en-Visual-Studio)   | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  008   |:heavy_check_mark: | [Instalacion en Visual Studio C++/CLR](#Instalacion-en-Visual-Studio-C++/CLR)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  009   |:heavy_check_mark: | [Play List Spotify](#Spotify)   | :hourglass:     | - | - |[ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  010   |:heavy_check_mark: | [Book](#book)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  011   |:heavy_check_mark: | [Games](#games)   | :hourglass:     | - | - |[ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 
 ## Bjarne Stroustrup
 ---
