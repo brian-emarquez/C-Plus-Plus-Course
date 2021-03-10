@@ -55,7 +55,7 @@
   </a>-->
 </p>
   
-![c++](./images/c++.jpg)
+![c++](./images/C++-Banner.gif)
 
 Es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La intención de su creación fue extender al lenguaje de programación C mecanismos que permiten la manipulación de objetos. En ese sentido, desde el punto de vista de los lenguajes orientados a objetos, el C++ es un lenguaje híbrido.  [Wikipedia](https://https://es.wikipedia.org/wiki/C%2B%2B)
 
@@ -271,10 +271,15 @@ _Link de Descarga_
 📦 [Install .EXE ](https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/Instalador/GraphicBasicCalculadora.rar) Graphic Basic Calculator.<br>-->
 
 ---
-### Games
-<img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/games.jpg>
 
 ## Paypal
 
 🩸 Hacer una donación [PAYPAL](https://www.paypal.com/donate?hosted_button_id=98U3T62494H9Y) 🍵
 
+---
+### Games
+<img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/games.jpg>
+
+
+
+![c++](./images/uv.gif)
