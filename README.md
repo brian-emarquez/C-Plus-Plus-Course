@@ -1,7 +1,7 @@
 
 <h2 align="center">Learn C++ Object Oriented Programming - 0 to Hero 🦸‍♂️</h2>
 
-![c++](./images/banner.gif)
+
 
 <p align="center">
   
@@ -34,28 +34,10 @@
   <img src="https://img.shields.io/github/languages/count/BrianMarquez3/C-Plus-Plus-Course?style=for-the-badge">
 
   </a>
-  
-<!--- code coverage percentage: ![coverage](https://img.shields.io/badge/coverage-80%25-yellowgreen)
-- stable release version: ![version](https://img.shields.io/badge/version-1.2.3-blue)
-- package manager release: ![gem](https://img.shields.io/badge/gem-2.2.0-blue)
-- status of third-party dependencies: ![dependencies](https://img.shields.io/badge/dependencies-out%20of%20date-orange)
-- static code analysis grade: ![codacy](https://img.shields.io/badge/codacy-B-green)
-- [SemVer](https://semver.org/) version observance: ![semver](https://img.shields.io/badge/semver-2.0.0-blue)
-- amount of [Liberapay](https://liberapay.com/) donations per week: ![receives](https://img.shields.io/badge/receives-2.00%20USD%2Fweek-yellow)
-- Python package downloads: ![downloads](https://img.shields.io/badge/downloads-13k%2Fmonth-brightgreen)
-- Chrome Web Store extension rating: ![rating](https://img.shields.io/badge/rating-★★★★☆-brightgreen)
-- [Uptime Robot](https://uptimerobot.com) percentage: ![uptime](https://img.shields.io/badge/uptime-100%25-brightgreen)-->
-  
-   
-  <!--programa modificacion-->
-  <!--<a href="https://david-dm.org/StylishThemes/GitHub-Dark?type=dev">
-    <img src="https://img.shields.io/david/dev/StylishThemes/GitHub-Dark.svg?label=devDependencies&style=flat" alt="devDependencies">
-  </a>
-  <a href="https://gitter.im/StylishThemes/GitHub-Dark">
-    <img src="https://img.shields.io/gitter/room/StylishThemes/Github-Dark.js.svg?maxAge=2592000&style=flat" alt="Gitter">
-  </a>-->
 </p>
   
+![c++](./images/banner.gif) 
+ 
 Es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La intención de su creación fue extender al lenguaje de programación C mecanismos que permiten la manipulación de objetos. En ese sentido, desde el punto de vista de los lenguajes orientados a objetos, el C++ es un lenguaje híbrido.  [Wikipedia](https://https://es.wikipedia.org/wiki/C%2B%2B)
 
 ## Tabla de contenidos README
