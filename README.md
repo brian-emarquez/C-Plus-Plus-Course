@@ -1,6 +1,8 @@
 
 <h2 align="center">Learn C++ Object Oriented Programming - 0 to Hero 🦸‍♂️</h2>
 
+![c++](./images/banner.gif)
+
 <p align="center">
   
    </a>
