@@ -261,6 +261,7 @@ _Link de Descarga_
 ### Games
 <img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/games.jpg>
 
+---
 
+<div align="center"><img src="./images/uv.gif"></div>
 
-![c++](./images/uv.gif)
