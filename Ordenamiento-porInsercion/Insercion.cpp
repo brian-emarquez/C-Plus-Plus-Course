@@ -14,8 +14,8 @@ int main() {
 
 	//Ordenamiento por insercion
 	for (i = 0; i < 5; i++) {
-		pos = i; //fecha
-		aux = numeros[i];
+		pos = i; //flecha
+		aux = numeros[i]; //numero
 
 		while ((pos > 0) && (numeros[pos - 1] > aux)) {
 			numeros[pos] = numeros[pos - 1];
@@ -27,7 +27,7 @@ int main() {
 	for (i = 0; i < 5; i++) {
 		cout<< numeros[i] << " ";
 	}
-	cout << "\n========================" << endl;
+	cout << "\n=====================================" << endl;
 	cout << "Orde descemdente: ";
 	for (i = 4; i >= 0; i--) {
 		cout << numeros[i] << " ";
