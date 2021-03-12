@@ -263,5 +263,9 @@ _Link de Descarga_
 
 ---
 
+## Creador del Material Didactico
+
+[ Aprende Programación en C++ Básico - Intermedio - Avanzado - Alejandro Miguel Taboada](https://www.udemy.com/course/resolviendo-problemas-con-c/)
+
 <div align="center"><img src="./images/uv.gif"></div>
 
