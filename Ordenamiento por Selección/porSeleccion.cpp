@@ -29,7 +29,5 @@ int main() {
 		cout << numeros[i] << " ";
 	}
 
-
-
 	_getch();
 }
