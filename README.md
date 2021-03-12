@@ -246,7 +246,7 @@ Utilizando Interfas Grafica
 Download book - [Cómo programar en C++, 9Ed](https://dubox.com/s/1VJ7p2q8AL8qnUBWY-J4-qQ) <br>
 Password:9t26
 
-<!--## Setup
+<!--## Setup 
 _Link de Descarga_
 <!--📦 [Install .EXE ](https://raw.githubusercontent.com/C-Plus-Plus-Course/Instalador/master/Instalador.msi) Graphic Basic Calculator.<br>
 📦 [Install .EXE ](https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/Instalador/GraphicBasicCalculadora.rar) Graphic Basic Calculator.<br>-->
