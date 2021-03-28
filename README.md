@@ -236,12 +236,15 @@ textBox1->AppendText("Hello World");
 Utilizando Interfas Grafica
 
 - Configuracion de Interfaz: Sistema
+
 ![c++](./images/configuracion/configure1.png) 
 
 - Configuracion de Interfaz: Avanzado
+
 ![c++](./images/configuracion/configure2.png) 
 
 - Ejemplo
+
 ![c++](./images/graphics.png) 
 
 ---
