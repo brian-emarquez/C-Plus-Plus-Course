@@ -89,22 +89,22 @@ fui responsable de elaborar extensas proposiciones en el comité de estándares 
 
 | Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
-|  010   | 🟠 |Metodo Burbuja        |[Metodo Burbuja](#Metodo-Burbuja)    |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  011   | 🟠 |Metodo Burbuja Recursivo       |[Metodo Burbuja Recursivo](#Metodo-Burbuja-Recursivo)    |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  012  | 🟠 |Ordenamiento por Selección      |[Ordenamiento por Selección](#Ordenamiento-por-Selección)    |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  013   | 🟠 |Ordenamiento por Insercion   |[Ordenamiento por Insercion](#Ordenamiento-por-Insercion)    |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  010   | :heavy_check_mark: |Metodo Burbuja        |[Metodo Burbuja](#Metodo-Burbuja)    |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  011   | :heavy_check_mark:|Metodo Burbuja Recursivo       |[Metodo Burbuja Recursivo](#Metodo-Burbuja-Recursivo)    |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  012   | :heavy_check_mark: |Ordenamiento por Selección      |[Ordenamiento por Selección](#Ordenamiento-por-Selección)    |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  013   | :heavy_check_mark: |Ordenamiento por Insercion   |[Ordenamiento por Insercion](#Ordenamiento-por-Insercion)    |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 
 ## Busquedas
 
 | Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
-|  014   | 🟠 |Busqueda Binaria       |[Busqueda-Binaria](#Busqueda-Binaria)    |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  014   | :heavy_check_mark: |Busqueda Binaria       |[Busqueda-Binaria](#Busqueda-Binaria)    |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 
 ## Estructras
 
 | Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
-|  000   | 🟠 |Estructura de  Datos         |[Link](#)         |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  000   | :heavy_check_mark: |Estructura de  Datos         |[Link](#)         |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 
 
  - Demo
