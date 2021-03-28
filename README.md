@@ -85,25 +85,22 @@ fui responsable de elaborar extensas proposiciones en el comité de estándares 
 |  007   |:heavy_check_mark: | Cadenas          |[Logitud de Cadena](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Logitud%20de%20Cadena), [Cadenas - Comparar cadenas](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Cadenas%20-%20Comparar%20cadenas), [Cadenas - Concatenar una cadena con otra - Función strcat](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Cadenas%20-%20Concatenar%20una%20cadena%20con%20otra%20-%20Funci%C3%B3n%20strcat())  ,  [Cadenas - Ejercicio Contando cada vocal en una frase](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Cadenas%20-%20Ejercicio%20Contando%20cada%20vocal%20en%20una%20frase)  , [Cadenas - Invertir una cadena](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Cadenas%20-%20Invertir%20una%20cadena)  ,  [Cadenas - Pasar un a Palabra a Minusculas](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Cadenas%20-%20Pasar%20un%20a%20Palabra%20a%20Minusculas), [Cadenas - Pasar un palabra a MAYUSCULAS](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Cadenas%20-%20Pasar%20un%20palabra%20a%20MAYUSCULAS), [Cadenas - Transformar una Cadena a numeros](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Cadenas%20-%20Transformar%20una%20Cadena%20a%20numeros)   |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  008   |:heavy_check_mark: |Funciones          |[Funciones](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Funciones), [Funciones II](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Funciones%20II%20-%20una%20clase%20con%20una%20funcion%20miembro),  [Funciones III](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Funciones%20III%20-%20miembros%20de%20datos) , [Funciones IV](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Funciones%20IV%20-Objetos%20mediante%20Constructores), [Funciones V](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Funciones%20V%20-%20Colocar%20una%20clase%20en%20un%20harchivo%20separado),[Funciones VI](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Funciones%20VI%20-%20Separa%20la%20interfaz%20de%20la%20implementacion) | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  009   |:heavy_check_mark: |Ordenamiento          |[Método Burbuja](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Ordenamientos%20%20-%20M%C3%A9todo%20Burbuja) , [Metodo Burbuja Recursivo](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Ordenamientos%20%20-%20Metodo%20Burbuja%20Recursivo) ,  [Ordenamiento por Selección](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Ordenamiento%20por%20Selecci%C3%B3n) ,  [Ordenamiento por Insercion](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Ordenamiento-porInsercion)   |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3)  |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3)    |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3)  | 
-|  010   | 🟠 |Busqueda          |[Link]()    |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  011   | 🟠 |Punteros          |[Link](#)           |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  012   | 🟠 |Estructura de  Datos         |[Link](#)         |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  013   | 🟠 |Pilas         |[Link](#)           |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  014   | 🟠 |Colas         |[Link](#)          |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  015   | 🟠 |Listas         |[Link](#)          |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  016   | 🟠 |Arboles         |[Link](#)          |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  017   | 🟠 |Archivos         |[Link](#)         |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  018   | 🟠 |POO: Clases y Objetos         |[Link](#)           |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  019   | 🟠 |POO: Clases derivadas - Herencia y Polimorfismo       |[Link](#)           |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  020   | 🟠 |Genericidad        |[Link](#)        |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  021   | 🟠 |Genericidad - Plantillas       |[Link](#)          |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  022   | 🟠 |Analisis e Eficiencia de Algoritmos        |[Link](#)          |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  023   | 🟠 |Algoritmo Recursivo        |[Link](#)          |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  025   | 🟠 |Embebidos        |[Link](#)          |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  026   | 🟠 |Interfaz Grafica        |[Link](#)         |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  027   | 🟠 |Juegos        |[Link](#)          |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 
- - Animacion
+### Busquedas
+
+| Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
+| ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
+|  010   | 🟠 |Busqueda   Binaria       |[Link]()    |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  011   | 🟠 |Busqueda   Binaria       |[Link]()    |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+
+### Estructras
+
+| Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
+| ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
+|  012   | 🟠 |Estructura de  Datos         |[Link](#)         |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+
+
+ - Demo
  
 ![c++](./images/demo1.gif)
 
