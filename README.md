@@ -100,7 +100,7 @@ fui responsable de elaborar extensas proposiciones en el comité de estándares 
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
 |  014   | :heavy_check_mark: |Busqueda Binaria       |[Busqueda-Binaria](#Busqueda-Binaria)    |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 
-## Estructras
+## Estructuras
 
 | Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
@@ -172,7 +172,8 @@ g++ --version
 
 -   Seleccion la imagen para hacer acercamiento
 
-<img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/cmd.PNG width=700 height=150>
+![c++](./images/cmd.PNG) 
+<!--<img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/cmd.PNG width=700 height=150>-->
 
 📦 [Install VS Code](https://code.visualstudio.com/) Instalador de Visual Studio Code.<br>
 
@@ -181,26 +182,31 @@ code --version
 ```
 -   ✔ Seleccion la imagen para hacer acercamiento (IntelliSense, debugging, and code browsing.)
 
-<img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/code.PNG width=800 height=80>
+![c++](./images/code.PNG) 
+<!--<img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/code.PNG width=800 height=80>-->
 
 ⚙ Configuración
 
 -   ✔ Instalacion de la Extencion de Visual Studio code: C/C++
 
-<img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/Instalar_c++.gif>
+![c++](./images/Instalar_c++.gif) 
+<!--<img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/Instalar_c++.gif>-->
 
 -   ✔ Instalacion de la Extencion Code Runner (C, C++, Java, JavaScript, PHP, Python...)
 
-<img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/code_runner.gif>
+![c++](./images/ccode_runner.gif) 
+<!--<img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/code_runner.gif>-->
 
 
 -   ✔ Instalacion de la Extencion C++ Intelisense (C/C++ Intellisense with the help of GNU Global tags)
 
-<img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/c++intellisense.gif>
+![c++](./images/c++intellisense.gif) 
+<!--<img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/c++intellisense.gif>-->
 
 -   Configuracion de Code Runner
 
-<img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/configuracion.gif>
+![c++](./images/configuracion.gif) 
+<!--<img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/configuracion.gif>-->
 
 
 ## Instalacion en Visual Studio
@@ -230,14 +236,13 @@ textBox1->AppendText("Hello World");
 Utilizando Interfas Grafica
 
 - Configuracion de Interfaz: Sistema
-
-<img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/configuracion/configure1.png>
+![c++](./images/configure1.png) 
 
 - Configuracion de Interfaz: Avanzado
-<img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/configuracion/configure2.png>
+![c++](./images/configure2.png) 
 
 - Ejemplo
-<img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/graphics.png>
+![c++](./images/graphics.png) 
 
 ---
 
@@ -280,9 +285,6 @@ Utilizando Interfas Grafica
 | Carpeta                    | Link |    Home   |  Code       | Version      | Estado     |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Busqueda Binaria](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Busqueda%20Binaia)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
-
-
-
 
 
 
