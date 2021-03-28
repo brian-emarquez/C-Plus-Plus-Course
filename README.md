@@ -179,7 +179,7 @@ code --version
 
 -   ✔ Instalacion de la Extencion de Visual Studio code: C/C++
 
-<img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/Instalar_c++.gif>--
+<img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/Instalar_c++.gif>
 
 -   ✔ Instalacion de la Extencion Code Runner (C, C++, Java, JavaScript, PHP, Python...)
 
