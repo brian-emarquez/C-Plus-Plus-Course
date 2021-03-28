@@ -294,7 +294,6 @@ Utilizando Interfas Grafica
 
 ## Estructuras
 
-![c++](./images/estructuras.png) 
 
 ---
 ## Spotify
