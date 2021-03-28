@@ -232,14 +232,14 @@ textBox1->AppendText("Hello World");
 ```
 ## Requerimientos
 
----
+
 Utilizando Interfas Grafica
 
 - Configuracion de Interfaz: Sistema
-![c++](./images/configure1.png) 
+![c++](./images/configuracion/configure1.png) 
 
 - Configuracion de Interfaz: Avanzado
-![c++](./images/configure2.png) 
+![c++](./images/configuracion/configure2.png) 
 
 - Ejemplo
 ![c++](./images/graphics.png) 
@@ -289,7 +289,9 @@ Utilizando Interfas Grafica
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Busqueda Binaria](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Busqueda%20Binaia)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
+## Estructuras
 
+![c++](./images/estructuras.png) 
 
 ---
 ## Spotify
@@ -327,5 +329,5 @@ _Link de Descarga_
 
 ---
 
-<div align="center"><img src="./images/uv.gif"></div>
+<div align="center"><img src="./images/star.gif"></div>
 
