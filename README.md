@@ -249,6 +249,7 @@ Utilizando Interfas Grafica
 
 ## Ordenamientos
 
+![c++](./images/ordenamientos.png) 
 ### Metodo Burbuja
 
 | Carpeta                    | Link |    Home   |  Code       | Version      | Estado     |
@@ -278,7 +279,8 @@ Utilizando Interfas Grafica
 ---
 
 ## Busquedas
-![c++](./images/cc.png) 
+
+![c++](./images/busquedas.png) 
 
 ### Busqueda Binaria 
 
