@@ -90,14 +90,13 @@ fui responsable de elaborar extensas proposiciones en el comité de estándares 
 
 | Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
-|  010   | 🟠 |Busqueda   Binaria       |[Link]()    |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  011   | 🟠 |Busqueda   Binaria       |[Link]()    |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  010   | 🟠 |Busqueda Binaria       |[Busqueda-Binaria](#Busqueda-Binaria)    |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 
 ### Estructras
 
 | Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
-|  012   | 🟠 |Estructura de  Datos         |[Link](#)         |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  000   | 🟠 |Estructura de  Datos         |[Link](#)         |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 
 
  - Demo
@@ -231,6 +230,18 @@ Utilizando Interfas Grafica
 
 - Ejemplo
 <img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/graphics.png>
+
+---
+## Busquedas
+
+## Busqueda Binaria 
+
+
+| Carpeta                    | Link |    Home   |  Code       | Version      | Estado     |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Busqueda Binaria](ttps://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Busqueda%20Binaia)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+
+
 
 ---
 ## Spotify
