@@ -277,6 +277,8 @@ Utilizando Interfas Grafica
 
 ---
 
+![c++](./images/cc.png) 
+
 ## Busquedas
 
 ### Busqueda Binaria 
