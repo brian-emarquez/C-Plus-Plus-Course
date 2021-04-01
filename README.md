@@ -42,10 +42,6 @@ Es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La inte
 
 ## Tabla de contenidos
 
-
-
-## Tabla de contenidos
-
 | Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
 |  001   |:heavy_check_mark: | [Bjarne Stroustrup](#bjarne-stroustrup)   | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3)| 
@@ -55,7 +51,6 @@ Es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La inte
 |  006   |:heavy_check_mark: | [Instalacion en Visual Studio Code](#instalacion-en-Visual-Studio-Code)   | :hourglass:     | - | - |[ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  007   |:heavy_check_mark: | [Intalacion en Visual Studio](#Intalacion-en-Visual-Studio)   | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  008   |:heavy_check_mark: | [Instalacion en Visual Studio C++/CLR](#Instalacion-en-Visual-Studio-C++/CLR)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-
 |  009   |:heavy_check_mark: | [Introduccion y Entrada Salida](#Intalacion-en-Visual-Studio)   | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  010   |:heavy_check_mark: | [Expresiones y Operadores](#Expresiones-y-Operadores)   | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |         
 |  011   |:heavy_check_mark: | [Condicionales](#Condicionales)   | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
