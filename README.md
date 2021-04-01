@@ -56,46 +56,44 @@ Es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La inte
 |  007   |:heavy_check_mark: | [Intalacion en Visual Studio](#Intalacion-en-Visual-Studio)   | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  008   |:heavy_check_mark: | [Instalacion en Visual Studio C++/CLR](#Instalacion-en-Visual-Studio-C++/CLR)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 
-|  001   |:heavy_check_mark: | [Introduccion y Entrada Salida](#Intalacion-en-Visual-Studio)   | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  002   |:heavy_check_mark: | [Expresiones y Operadores](#Expresiones-y-Operadores)   | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |         
-|  003   |:heavy_check_mark: | [Condicionales](#Condicionales)   | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  004   |:heavy_check_mark: | [Bucles o Ciclos](#Bucles-o-Ciclos)   | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  005   |:heavy_check_mark: | [Arreglos](#Arreglos)   | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  006   |:heavy_check_mark: | Matrices o Tablas          | [Matrices](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Matrices) ,  [Matrices II](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Matrices%20II) , [Matrices Copy Content to Another Array](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Matrices%20Copy%20Content%20to%20Another%20Array)      |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  007   |:heavy_check_mark: | Cadenas          |[Logitud de Cadena](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Logitud%20de%20Cadena), [Cadenas - Comparar cadenas](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Cadenas%20-%20Comparar%20cadenas), [Cadenas - Concatenar una cadena con otra - Función strcat](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Cadenas%20-%20Concatenar%20una%20cadena%20con%20otra%20-%20Funci%C3%B3n%20strcat())  ,  [Cadenas - Ejercicio Contando cada vocal en una frase](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Cadenas%20-%20Ejercicio%20Contando%20cada%20vocal%20en%20una%20frase)  , [Cadenas - Invertir una cadena](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Cadenas%20-%20Invertir%20una%20cadena)  ,  [Cadenas - Pasar un a Palabra a Minusculas](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Cadenas%20-%20Pasar%20un%20a%20Palabra%20a%20Minusculas), [Cadenas - Pasar un palabra a MAYUSCULAS](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Cadenas%20-%20Pasar%20un%20palabra%20a%20MAYUSCULAS), [Cadenas - Transformar una Cadena a numeros](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Cadenas%20-%20Transformar%20una%20Cadena%20a%20numeros)   |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  008   |:heavy_check_mark: | Funciones          |[Funciones](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Funciones), [Funciones II](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Funciones%20II%20-%20una%20clase%20con%20una%20funcion%20miembro),  [Funciones III](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Funciones%20III%20-%20miembros%20de%20datos) , [Funciones IV](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Funciones%20IV%20-Objetos%20mediante%20Constructores), [Funciones V](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Funciones%20V%20-%20Colocar%20una%20clase%20en%20un%20harchivo%20separado),[Funciones VI](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Funciones%20VI%20-%20Separa%20la%20interfaz%20de%20la%20implementacion) | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  009   |:heavy_check_mark: | Constructores         |[Constructores  ](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Funciones) | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-
----
+|  009   |:heavy_check_mark: | [Introduccion y Entrada Salida](#Intalacion-en-Visual-Studio)   | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  010   |:heavy_check_mark: | [Expresiones y Operadores](#Expresiones-y-Operadores)   | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |         
+|  011   |:heavy_check_mark: | [Condicionales](#Condicionales)   | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  012   |:heavy_check_mark: | [Bucles o Ciclos](#Bucles-o-Ciclos)   | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  013   |:heavy_check_mark: | [Arreglos](#Arreglos)   | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  014   |:heavy_check_mark: | [Matrices o Tablas](#Matrices-o-Tablas)   | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |       
+|  015   |:heavy_check_mark: | [Cadenas](#Cadenas)   | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |      
+|  016   |:heavy_check_mark: | [Funciones](#Funciones)   | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |   
+|  017   |:heavy_check_mark: | [Constructores ](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Funciones) | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 
 
 ## Ordenamientos
 
 | Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
-|  010   | :heavy_check_mark: |Metodo Burbuja        |[Metodo Burbuja](#Metodo-Burbuja)    |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  011   | :heavy_check_mark:|Metodo Burbuja Recursivo       |[Metodo Burbuja Recursivo](#Metodo-Burbuja-Recursivo)    |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  012   | :heavy_check_mark: |Ordenamiento por Selección      |[Ordenamiento por Selección](#Ordenamiento-por-Selección)    |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  013   | :heavy_check_mark: |Ordenamiento por Insercion   |[Ordenamiento por Insercion](#Ordenamiento-por-Insercion)    |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  018   | :heavy_check_mark: |Metodo Burbuja        |[Metodo Burbuja](#Metodo-Burbuja)    |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  019   | :heavy_check_mark:|Metodo Burbuja Recursivo       |[Metodo Burbuja Recursivo](#Metodo-Burbuja-Recursivo)    |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  020   | :heavy_check_mark: |Ordenamiento por Selección      |[Ordenamiento por Selección](#Ordenamiento-por-Selección)    |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  021   | :heavy_check_mark: |Ordenamiento por Insercion   |[Ordenamiento por Insercion](#Ordenamiento-por-Insercion)    |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 
 ## Busquedas
 
 | Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
-|  014   | :heavy_check_mark: |Busqueda Binaria       |[Busqueda-Binaria](#Busqueda-Binaria)    |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  022   | :heavy_check_mark: |Busqueda Binaria       |[Busqueda-Binaria](#Busqueda-Binaria)    |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 
 ## Estructuras
 
 | Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
-|  000   | :heavy_check_mark: |Estructura de  Datos         |[Link](#)         |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  023   | :heavy_check_mark: |Estructura de  Datos         |[Link](#)         |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 
 ---
 | Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
-|  009   |:heavy_check_mark: | [Play List Spotify](#Spotify)   | :hourglass:     | - | - |[ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  010   |:heavy_check_mark: | [Book](#book)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  011   |:heavy_check_mark: | [Games](#games)   | :hourglass:     | - | - |[ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  A   |:heavy_check_mark: | [Play List Spotify](#Spotify)   | :hourglass:     | - | - |[ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  B   |:heavy_check_mark: | [Book](#book)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  C   |:heavy_check_mark: | [Games](#games)   | :hourglass:     | - | - |[ ⬅️ Atras](https://github.com/BrianMarquez3) |
 
 ---
 
@@ -296,11 +294,44 @@ Utilizando Interfas Grafica
  | Carpeta                    | Link |    Home   |  Code       | Version      | Estado     |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:
 | [Array](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Arrays)    |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |
-| [Array 2 ](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Arrays)    |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) 
+| [Array 2 ](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Arrays)    |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |
 | [Array Almacenado de Contenido](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Array%20%20Almacenado%20de%20Contenido)    |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |
 | [Array Mayor elemento](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Array%20Mayor%20elemento)    |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |
 | [Array con indices](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Arrays%20con%20Indices)    |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |
 
+## Matrices o Tablas        
+
+ | Carpeta                   | Link |    Home   |  Code       | Version      | Estado     |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:
+|[Matrices](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Matrices)    |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |
+|[Matrices II](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Matrices%20II)    |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |
+|[Matrices Copy Content to Another Array](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Matrices%20Copy%20Content%20to%20Another%20Array)   |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |
+
+
+## Cadenas  
+
+ | Carpeta                   | Link |    Home   |  Code       | Version      | Estado     |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:
+|[Logitud de Cadena](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Logitud%20de%20Cadena)   |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |
+|[Cadenas - Comparar cadenas](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Cadenas%20-%20Comparar%20cadenas)   |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |
+|[Logitud de Cadena](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Logitud%20de%20Cadena)   |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |
+|[Cadenas - Concatenar una cadena con otra - Función strcat](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Cadenas%20-%20Concatenar%20una%20cadena%20con%20otra%20-%20Funci%C3%B3n%20strcat()))   |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |
+|[Cadenas - Ejercicio Contando cada vocal en una frase](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Cadenas%20-%20Ejercicio%20Contando%20cada%20vocal%20en%20una%20frase)   |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |
+|[Cadenas - Invertir una cadena](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Cadenas%20-%20Invertir%20una%20cadena)   |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |
+| [Cadenas - Pasar un a Palabra a Minusculas](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Cadenas%20-%20Pasar%20un%20a%20Palabra%20a%20Minusculas)   |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |
+|[Cadenas - Pasar un palabra a MAYUSCULAS](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Cadenas%20-%20Pasar%20un%20palabra%20a%20MAYUSCULAS)   |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |
+|[Cadenas - Transformar una Cadena a numeros](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Cadenas%20-%20Transformar%20una%20Cadena%20a%20numeros)   |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |
+
+## Funciones      
+
+| Carpeta                   | Link |    Home   |  Code       | Version      | Estado     |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:
+|[Funciones](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Funciones)   |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |
+|[Funciones II](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Funciones%20II%20-%20una%20clase%20con%20una%20funcion%20miembro)   |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |
+|[Funciones III](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Funciones%20III%20-%20miembros%20de%20datos)   |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |
+|[Funciones IV](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Funciones%20IV%20-Objetos%20mediante%20Constructores)  |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |
+|[Funciones V](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Funciones%20V%20-%20Colocar%20una%20clase%20en%20un%20harchivo%20separado)   |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |
+|[Funciones VI](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Funciones%20VI%20-%20Separa%20la%20interfaz%20de%20la%20implementacion)   |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |
 
 
 ## Ordenamientos
