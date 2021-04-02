@@ -1,0 +1,4 @@
+﻿  constructoresModificadores.cpp
+C:\Users\brian\source\repos\BrianMarquez3\C-Plus-Plus-Course\Constructoes y Modificadores\constructoresModificadores.cpp(33,16): error C2248: 'Punto::x': no se puede obtener acceso al miembro private miembro declarado en la clase 'Punto'
+C:\Users\brian\source\repos\BrianMarquez3\C-Plus-Plus-Course\Constructoes y Modificadores\constructoresModificadores.cpp(10): message : vea la declaración de 'Punto::x'
+C:\Users\brian\source\repos\BrianMarquez3\C-Plus-Plus-Course\Constructoes y Modificadores\constructoresModificadores.cpp(7): message : vea la declaración de 'Punto'
