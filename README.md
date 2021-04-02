@@ -364,55 +364,18 @@ Utilizando Interfas Grafica
 </table>
 
 
-
-<table class="default">
-
-  <tr>
-
-    <th>Hoy</th>
-
-    <th>Mañana</th>
-
-    <th>Domingo</th>
-
-  </tr>
-
-  <tr>
-
-    <td>Soleado</td>
-
-    <td>Mayormente soleado</td>
-
-    <td>Parcialmente nublado</td>
-
-  </tr>
-
-  <tr>
-
-    <td>19°C</td>
-
-    <td>17°C</td>
-
-    <td>12°C</td>
-
-  </tr>
-
-  <tr>
-
-    <td>E 13 km/h</td>
-
-    <td>E 11 km/h</td>
-
-    <td>S 16 km/h</td>
-
-  </tr>
-
+<table>
+<tr>
+  <td><strong>Curso</strong></td>
+  <td><strong>Horas</strong></td>
+  <td><strong>Horario</strong></td>
+</tr>
 </table>
 
 | Carpeta                   | Link |    Home   |  Code       | Version      | Estado     |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:
 |[Constructores](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Constructores)   |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |
-|Constructoes y Modificadores](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Constructoes%20y%20Modificadores)   |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |
+|[Constructoes y Modificadores](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Constructoes%20y%20Modificadores)   |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |
 
 ## Ordenamientos
 
