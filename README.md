@@ -57,7 +57,7 @@ Es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La inte
 |  014   |:heavy_check_mark: | [Matrices o Tablas](#Matrices-o-Tablas)   | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |       
 |  015   |:heavy_check_mark: | [Cadenas](#Cadenas)   | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |      
 |  016   |:heavy_check_mark: | [Funciones](#Funciones)   | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |   
-|  017   |:heavy_check_mark: | [Constructores ](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Funciones) | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  017   |:heavy_check_mark: | [Constructores ](#Constructoreses)   | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 
 
 ## Ordenamientos
@@ -311,7 +311,7 @@ Utilizando Interfas Grafica
 |[Cadenas - Concatenar una cadena con otra - Función strcat](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Cadenas%20-%20Concatenar%20una%20cadena%20con%20otra%20-%20Funci%C3%B3n%20strcat()))   |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |
 |[Cadenas - Ejercicio Contando cada vocal en una frase](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Cadenas%20-%20Ejercicio%20Contando%20cada%20vocal%20en%20una%20frase)   |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |
 |[Cadenas - Invertir una cadena](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Cadenas%20-%20Invertir%20una%20cadena)   |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |
-| [Cadenas - Pasar un a Palabra a Minusculas](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Cadenas%20-%20Pasar%20un%20a%20Palabra%20a%20Minusculas)   |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |
+|[Cadenas - Pasar un a Palabra a Minusculas](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Cadenas%20-%20Pasar%20un%20a%20Palabra%20a%20Minusculas)   |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |
 |[Cadenas - Pasar un palabra a MAYUSCULAS](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Cadenas%20-%20Pasar%20un%20palabra%20a%20MAYUSCULAS)   |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |
 |[Cadenas - Transformar una Cadena a numeros](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Cadenas%20-%20Transformar%20una%20Cadena%20a%20numeros)   |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |
 
@@ -326,6 +326,22 @@ Utilizando Interfas Grafica
 |[Funciones V](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Funciones%20V%20-%20Colocar%20una%20clase%20en%20un%20harchivo%20separado)   |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |
 |[Funciones VI](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Funciones%20VI%20-%20Separa%20la%20interfaz%20de%20la%20implementacion)   |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |
 
+## Constructores
+
+* Funciones
+Las funciones son un conjunto de procedimiento encapsulados en un bloque, usualmente reciben parámetros, cuyos valores utilizan para efectuar operaciones y adicionalmente retornan un valor. Esta definición proviene de la definición de función matemática la cual posee un dominio y un rango, es decir un conjunto de valores que puede tomar y un conjunto de valores que puede retornar luego de cualquier operación.
+
+* Métodos
+Los métodos y las funciones son funcionalmente idénticos, pero su diferencia radica en el contexto en el que existen. Un método también puede recibir valores, efectuar operaciones con estos y retornar valores, sin embargo en método está asociado a un objeto, básicamente un método es una función que pertenece a un objeto o clase, mientras que una función existe por sí sola, sin necesidad de un objeto para ser usada.
+
+* Procedimientos
+Los procedimientos son básicamente lo un conjunto de instrucciones que se ejecutan sin retornar ningún valor, hay quienes dicen que un procedimiento no recibe valores o argumentos, sin embargo en la definición no hay nada que se lo impida. En el contexto de C++ un procedimiento es básicamente una función void que no nos obliga a utilizar una sentencia return.
+
+
+| Carpeta                   | Link |    Home   |  Code       | Version      | Estado     |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:
+|[Constructores](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Constructores)   |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |
+|Constructoes y Modificadores](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Constructoes%20y%20Modificadores)   |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |
 
 ## Ordenamientos
 
