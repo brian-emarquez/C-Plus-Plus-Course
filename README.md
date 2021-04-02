@@ -364,25 +364,46 @@ Utilizando Interfas Grafica
 </table>
 
 
+
 <table class="default">
 
   <tr>
 
-    <td>Celda 1</td>
+    <th>Hoy</th>
 
-    <td>Celda 2</td>
+    <th>Mañana</th>
 
-    <td>Celda 3</td>
+    <th>Domingo</th>
 
   </tr>
 
   <tr>
 
-    <td>Celda 4</td>
+    <td>Soleado</td>
 
-    <td>Celda 5</td>
+    <td>Mayormente soleado</td>
 
-    <td>Celda 6</td>
+    <td>Parcialmente nublado</td>
+
+  </tr>
+
+  <tr>
+
+    <td>19°C</td>
+
+    <td>17°C</td>
+
+    <td>12°C</td>
+
+  </tr>
+
+  <tr>
+
+    <td>E 13 km/h</td>
+
+    <td>E 11 km/h</td>
+
+    <td>S 16 km/h</td>
 
   </tr>
 
