@@ -351,14 +351,6 @@ Utilizando Interfas Grafica
 </table>
 
 
-<table>
-<tr>
-  <td><strong>Curso</strong></td>
-  <td><strong>Horas</strong></td>
-  <td><strong>Horario</strong></td>
-</tr>
-</table>
-
 | Carpeta                   | Link |    Home   |  Code       | Version      | Estado     |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:
 |[Constructores](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Constructores)   |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |
