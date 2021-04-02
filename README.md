@@ -81,13 +81,23 @@ Es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La inte
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
 |  023   | :heavy_check_mark: |Estructura de  Datos         |[Link](#)         |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 
+## C#
+
+- Aplicaciones de Consola
+- Aplicaciones de Escritorio
+- Aplicaiones Web
+
+| Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
+| ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
+|  A1   | :heavy_check_mark: |Estructura de  Datos         |[Link](#)         |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) 
+
 ---
 | Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
-|  A   |:heavy_check_mark: | [Play List Spotify](#Spotify)   | :hourglass:     | - | - |[ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  B   |:heavy_check_mark: | [Book](#book)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  C   |:heavy_check_mark: | [Games](#games)   | :hourglass:     | - | - |[ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  D   |:heavy_check_mark: | [Indice TIOBE](#Indice-TIOBE)   | :hourglass:     | - | - |[ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  B1   |:heavy_check_mark: | [Play List Spotify](#Spotify)   | :hourglass:     | - | - |[ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  B2   |:heavy_check_mark: | [Book](#book)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  B3   |:heavy_check_mark: | [Games](#games)   | :hourglass:     | - | - |[ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  B4   |:heavy_check_mark: | [Indice TIOBE](#Indice-TIOBE)   | :hourglass:     | - | - |[ ⬅️ Atras](https://github.com/BrianMarquez3) |
 
 ---
 
