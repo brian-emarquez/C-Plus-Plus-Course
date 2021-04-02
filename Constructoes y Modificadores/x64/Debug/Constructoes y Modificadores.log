@@ -1,0 +1,3 @@
+﻿  constructoresModificadores.cpp
+constructoresModificadores.obj : error LNK2019: símbolo externo "public: __cdecl Punto::Punto(void)" (??0Punto@@QEAA@XZ) sin resolver al que se hace referencia en la función main
+C:\Users\brian\Source\Repos\BrianMarquez3\C-Plus-Plus-Course\Constructoes y Modificadores\x64\Debug\Constructoes y Modificadores.exe : fatal error LNK1120: 1 externos sin resolver

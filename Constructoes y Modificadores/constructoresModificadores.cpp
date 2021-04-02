@@ -3,7 +3,6 @@
 
 using namespace std;
 
-
 class Punto {
 
 	private:
@@ -13,10 +12,11 @@ class Punto {
 		Punto(); //metodos
 		void setPunto(int, int);
 		int getPuntoX();
+		int getPuntoY();
 };
 
 Punto::Punto() {
-
+	
 }
 
 // Establencemos valores a los metodos
@@ -25,17 +25,26 @@ void Punto::setPunto(int _x, int _y) {
 	y = _y;
 }
 
-int punto:
+int Punto::getPuntoX() {
+	return x;
+}
+
+int Punto::getPuntoY() {
+	return y;
+}
 
 int main() {
 
 	Punto punto1;
-
 	punto1.setPunto(15,20);
-
+	cout << punto1.getPuntoX() << endl;
+	cout << punto1.getPuntoY() << endl;
 
 	system("pause");
 	return 0;
 }
+
+
+
 
 
