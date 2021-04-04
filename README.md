@@ -81,12 +81,12 @@ Es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La inte
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
 |  023   | :heavy_check_mark: |Estructura de  Datos         |[Link](#)         |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 
-## Extras
+## Contenio Extras
 ### C#
 
 | Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
-|  023   | :heavy_check_mark: |[Hola Mundo C#](#Hola-Mundo-C#)         |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  023   | :heavy_check_mark: | Hola Mundo en C# |[Hola Mundo C#](#Hola-Mundo-C#)         |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 
 ---
 | Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
