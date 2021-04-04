@@ -268,46 +268,46 @@ Utilizando Interfas Grafica
  
  | Carpeta                    | Link |    Home   |  Code       | Version      | Estado     |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Operaciones 1 ](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Operaciones%201)     |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |
-| [Operaciones 2](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Operaciones%202)      |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |
-| [Operaciones 3](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Operaciones%203)      |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |
-| [Operaciones 4](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Operaciones%204)      |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |
-| [Operaciones 5](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Operaciones%205)      |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |
+| [Operaciones 1 ](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Operaciones%201)     |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |yes | yes | ✔️ |
+| [Operaciones 2](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Operaciones%202)      |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |yes | yes | ✔️ |
+| [Operaciones 3](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Operaciones%203)      |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |yes | yes | ✔️ |
+| [Operaciones 4](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Operaciones%204)      |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |yes | yes | ✔️ |
+| [Operaciones 5](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Operaciones%205)      |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |yes | yes | ✔️ |
 
 
 ##  Condicionales  
 
  | Carpeta                    | Link |    Home   |  Code       | Version      | Estado     |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [IF](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Condicional%20-%20IF)     |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |
-| [Switch](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Condicional%20-%20Switch)   |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |
+| [IF](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Condicional%20-%20IF)     |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |yes | yes | ✔️ |
+| [Switch](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Condicional%20-%20Switch)   |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |yes | yes | ✔️ |
 
 
 ## Bucles o Ciclos
 
  | Carpeta                    | Link |    Home   |  Code       | Version      | Estado     |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [While](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Bucle%20-%20while)     |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |
-| [Do-While](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Bucle%20-%20Do%20While)     |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |
-| [For](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Bucle%20-%20For)     |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |
+| [While](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Bucle%20-%20while)     |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |yes | yes | ✔️ |
+| [Do-While](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Bucle%20-%20Do%20While)     |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |yes | yes | ✔️ |
+| [For](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Bucle%20-%20For)     |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |yes | yes | ✔️ |
 
 ## Arreglos     
 
  | Carpeta                    | Link |    Home   |  Code       | Version      | Estado     |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:
-| [Array](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Arrays)    |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |
-| [Array 2 ](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Arrays)    |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |
-| [Array Almacenado de Contenido](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Array%20%20Almacenado%20de%20Contenido)    |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |
-| [Array Mayor elemento](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Array%20Mayor%20elemento)    |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |
-| [Array con indices](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Arrays%20con%20Indices)    |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |
+| [Array](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Arrays)    |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |yes | yes | ✔️ |
+| [Array 2 ](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Arrays)    |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |yes | yes | ✔️ |
+| [Array Almacenado de Contenido](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Array%20%20Almacenado%20de%20Contenido)    |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |yes | yes | ✔️ |
+| [Array Mayor elemento](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Array%20Mayor%20elemento)    |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |yes | yes | ✔️ |
+| [Array con indices](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Arrays%20con%20Indices)    |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |yes | yes | ✔️ |
 
 ## Matrices o Tablas        
 
  | Carpeta                   | Link |    Home   |  Code       | Version      | Estado     |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:
-|[Matrices](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Matrices)    |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |
-|[Matrices II](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Matrices%20II)    |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |
-|[Matrices Copy Content to Another Array](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Matrices%20Copy%20Content%20to%20Another%20Array)   |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |
+|[Matrices](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Matrices)    |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |yes | yes | ✔️ |
+|[Matrices II](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Matrices%20II)    |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |yes | yes | ✔️ |
+|[Matrices Copy Content to Another Array](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Matrices%20Copy%20Content%20to%20Another%20Array)   |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |yes | yes | ✔️ |
 
 
 ## Cadenas  
