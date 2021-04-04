@@ -42,60 +42,60 @@ Es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La inte
 
 | Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
-|  001   |:heavy_check_mark: | [Bjarne Stroustrup](#bjarne-stroustrup)   | :hourglass:     | 📑 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3)| 
-|  003   |:heavy_check_mark: | [Caracteristicas](#caracteristicas)   | :hourglass:     | 📑 | 💾 |[ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  004   |:heavy_check_mark: | [Ejemplo](#ejemplo)   | :hourglass:     | 📑 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  005   |:heavy_check_mark: | [Tipo de datos](#tipo-de-datos)   | :hourglass:     | 📑 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  006   |:heavy_check_mark: | [Instalacion en Visual Studio Code](#instalacion-en-Visual-Studio-Code)   | :hourglass:     | 📑 | 💾 |[ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  007   |:heavy_check_mark: | [Intalacion en Visual Studio](#Intalacion-en-Visual-Studio)   | :hourglass:     | 📑 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  008   |:heavy_check_mark: | [Instalacion en Visual Studio C++/CLR](#Instalacion-en-Visual-Studio-C++/CLR)  | :hourglass:     | 📑 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  009   |:heavy_check_mark: | [Introduccion y Entrada Salida](#Intalacion-en-Visual-Studio)   | :hourglass:     | 📑 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  010   |:heavy_check_mark: | [Expresiones y Operadores](#Expresiones-y-Operadores)   | :hourglass:     | 📑 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |         
-|  011   |:heavy_check_mark: | [Condicionales](#Condicionales)   | :hourglass:     | 📑 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  012   |:heavy_check_mark: | [Bucles o Ciclos](#Bucles-o-Ciclos)   | :hourglass:     | 📑 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  013   |:heavy_check_mark: | [Arreglos](#Arreglos)   | :hourglass:     | -📑 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  014   |:heavy_check_mark: | [Matrices o Tablas](#Matrices-o-Tablas)   | :hourglass:     | 📑 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |       
-|  015   |:heavy_check_mark: | [Cadenas](#Cadenas)   | :hourglass:     | 📑 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |      
-|  016   |:heavy_check_mark: | [Funciones](#Funciones)   | :hourglass:     | 📑 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |   
-|  017   |:heavy_check_mark: | [Constructores ](#Constructoreses)   | :hourglass:     | 📑 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  001   |:heavy_check_mark: | [Bjarne Stroustrup](#bjarne-stroustrup)   | :hourglass:     | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3)| 
+|  003   |:heavy_check_mark: | [Caracteristicas](#caracteristicas)   | :hourglass:     | 💻 | 💾 |[ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  004   |:heavy_check_mark: | [Ejemplo](#ejemplo)   | :hourglass:     | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  005   |:heavy_check_mark: | [Tipo de datos](#tipo-de-datos)   | :hourglass:     | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  006   |:heavy_check_mark: | [Instalacion en Visual Studio Code](#instalacion-en-Visual-Studio-Code)   | :hourglass:     | 💻 | 💾 |[ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  007   |:heavy_check_mark: | [Intalacion en Visual Studio](#Intalacion-en-Visual-Studio)   | :hourglass:     | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  008   |:heavy_check_mark: | [Instalacion en Visual Studio C++/CLR](#Instalacion-en-Visual-Studio-C++/CLR)  | :hourglass:     | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  009   |:heavy_check_mark: | [Introduccion y Entrada Salida](#Intalacion-en-Visual-Studio)   | :hourglass:     | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  010   |:heavy_check_mark: | [Expresiones y Operadores](#Expresiones-y-Operadores)   | :hourglass:     | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |         
+|  011   |:heavy_check_mark: | [Condicionales](#Condicionales)   | :hourglass:     | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  012   |:heavy_check_mark: | [Bucles o Ciclos](#Bucles-o-Ciclos)   | :hourglass:     | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  013   |:heavy_check_mark: | [Arreglos](#Arreglos)   | :hourglass:     | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  014   |:heavy_check_mark: | [Matrices o Tablas](#Matrices-o-Tablas)   | :hourglass:     | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |       
+|  015   |:heavy_check_mark: | [Cadenas](#Cadenas)   | :hourglass:     | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |      
+|  016   |:heavy_check_mark: | [Funciones](#Funciones)   | :hourglass:     | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |   
+|  017   |:heavy_check_mark: | [Constructores ](#Constructoreses)   | :hourglass:     | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 
 
 ## Ordenamientos
 
 | Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
-|  018   | :heavy_check_mark: |[Metodo Burbuja](#Metodo-Burbuja)    |:hourglass:     | 📑 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  019   | :heavy_check_mark: |[Metodo Burbuja Recursivo](#Metodo-Burbuja-Recursivo)    |:hourglass:     | 📑 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  020   | :heavy_check_mark: |[Ordenamiento por Selección](#Ordenamiento-por-Selección)    |:hourglass:     | 📑 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  021   | :heavy_check_mark: |[Ordenamiento por Insercion](#Ordenamiento-por-Insercion)    |:hourglass:     | 📑 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  018   | :heavy_check_mark: |[Metodo Burbuja](#Metodo-Burbuja)    |:hourglass:     | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  019   | :heavy_check_mark: |[Metodo Burbuja Recursivo](#Metodo-Burbuja-Recursivo)    |:hourglass:     | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  020   | :heavy_check_mark: |[Ordenamiento por Selección](#Ordenamiento-por-Selección)    |:hourglass:     | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  021   | :heavy_check_mark: |[Ordenamiento por Insercion](#Ordenamiento-por-Insercion)    |:hourglass:     | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 
 ## Busquedas
 
 | Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
-|  022   | :heavy_check_mark: |[Busqueda-Binaria](#Busqueda-Binaria)    |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  022   | :heavy_check_mark: |[Busqueda-Binaria](#Busqueda-Binaria)    |:hourglass:     | 💻 | 💾| [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 
 ## Estructuras
 
 | Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
-|  023   | :heavy_check_mark: |[Link](#)         |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  023   | :heavy_check_mark: |[Link](#)         |:hourglass:     | 💻 | 💾| [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 
 ## Contenio Extras
 ### C#
 
 | Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
-|  024   | :heavy_check_mark: | [C Sharp](C-Sharp)         |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  025   | :heavy_check_mark: | [Hola Mundo C Sharp]([Hola-Mundo-C-Sharp)         |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  024   | :heavy_check_mark: | [C Sharp](C-Sharp)         |:hourglass:     | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  025   | :heavy_check_mark: | [Hola Mundo C Sharp]([Hola-Mundo-C-Sharp)         |:hourglass:     | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 
 ---
 | Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
-|  B1   |:heavy_check_mark: | [Play List Spotify](#Spotify)   | :hourglass:     | - | - |[ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  B2   |:heavy_check_mark: | [Book](#book)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  B3   |:heavy_check_mark: | [Games](#games)   | :hourglass:     | - | - |[ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  B4   |:heavy_check_mark: | [Indice TIOBE](#Indice-TIOBE)   | :hourglass:     | - | - |[ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  B1   |:heavy_check_mark: | [Play List Spotify](#Spotify)   | :hourglass:     |:hourglass:     | 💻 | 💾 |[ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  B2   |:heavy_check_mark: | [Book](#book)  | :hourglass:     | :hourglass:     | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  B3   |:heavy_check_mark: | [Games](#games)   | :hourglass:     | :hourglass:     | 💻 | 💾 |[ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  B4   |:heavy_check_mark: | [Indice TIOBE](#Indice-TIOBE)   | :hourglass:     | :hourglass:     | 💻 | 💾 |[ ⬅️ Atras](https://github.com/BrianMarquez3) |
 
 ---
 
