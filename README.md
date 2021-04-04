@@ -81,15 +81,12 @@ Es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La inte
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
 |  023   | :heavy_check_mark: |Estructura de  Datos         |[Link](#)         |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 
-## C#
-
-- Aplicaciones de Consola
-- Aplicaciones de Escritorio
-- Aplicaiones Web
+## Extras
+### C#
 
 | Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
-|  A1   | :heavy_check_mark: |Estructura de  Datos         |[Link](#)         |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) 
+|  023   | :heavy_check_mark: |[Hola Mundo C#](#Hola-Mundo-C#)         |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 
 ---
 | Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
@@ -412,6 +409,21 @@ Utilizando Interfas Grafica
 ## Estructuras
 
 
+
+---
+## Extras
+## C#
+### Hola Mundo C# 
+
+- Aplicaciones de Consola
+- Aplicaciones de Escritorio
+- Aplicaiones Web
+
+| Carpeta                    | Link |    Home   |  Code       | Version      | Estado     |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Hola Mundo](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/PrimeraAplicacionC%23) | yes | yes | ✔️ |
+
+
 ---
 ## Spotify
 
@@ -436,6 +448,7 @@ _Link de Descarga_
 
 ---
 ### Games
+
 <img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/games.jpg>
 
 ---
