@@ -328,12 +328,12 @@ Utilizando Interfas Grafica
 
 | Carpeta                   | Link |    Home   |  Code       | Version      | Estado     |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:
-|[Funciones](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Funciones)   |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |
-|[Funciones II](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Funciones%20II%20-%20una%20clase%20con%20una%20funcion%20miembro)   |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |
-|[Funciones III](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Funciones%20III%20-%20miembros%20de%20datos)   |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |
-|[Funciones IV](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Funciones%20IV%20-Objetos%20mediante%20Constructores)  |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |
-|[Funciones V](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Funciones%20V%20-%20Colocar%20una%20clase%20en%20un%20harchivo%20separado)   |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |
-|[Funciones VI](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Funciones%20VI%20-%20Separa%20la%20interfaz%20de%20la%20implementacion)   |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |
+|[Funciones](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Funciones)   |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |yes | yes | ✔️ |
+|[Funciones II](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Funciones%20II%20-%20una%20clase%20con%20una%20funcion%20miembro)   |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |yes | yes | ✔️ |
+|[Funciones III](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Funciones%20III%20-%20miembros%20de%20datos)   |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |yes | yes | ✔️ |
+|[Funciones IV](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Funciones%20IV%20-Objetos%20mediante%20Constructores)  |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |yes | yes | ✔️ |
+|[Funciones V](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Funciones%20V%20-%20Colocar%20una%20clase%20en%20un%20harchivo%20separado)   |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |yes | yes | ✔️ |
+|[Funciones VI](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Funciones%20VI%20-%20Separa%20la%20interfaz%20de%20la%20implementacion)   |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |yes | yes | ✔️ |
 
 ## Constructores
 
@@ -362,8 +362,8 @@ Utilizando Interfas Grafica
 
 | Carpeta                   | Link |    Home   |  Code       | Version      | Estado     |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:
-|[Constructores](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Constructores)   |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |
-|[Constructoes y Modificadores](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Constructoes%20y%20Modificadores)   |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |
+|[Constructores](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Constructores)   |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |yes | yes | ✔️ |
+|[Constructoes y Modificadores](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Constructoes%20y%20Modificadores)   |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |yes | yes | ✔️ |
 
 ## Ordenamientos
 
