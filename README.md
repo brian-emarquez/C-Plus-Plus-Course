@@ -86,7 +86,8 @@ Es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La inte
 
 | Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
-|  023   | :heavy_check_mark: | Hola Mundo en C# |[Hola Mundo C#](#Hola-Mundo-C#)         |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  024   | :heavy_check_mark: | [C Sharp](C-Sharp)         |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  025   | :heavy_check_mark: | [Hola Mundo C Sharp]([Hola-Mundo-C-Sharp)         |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 
 ---
 | Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
@@ -409,11 +410,11 @@ Utilizando Interfas Grafica
 ---
 
 ## Contenido Extras
-## C#
+## C Sharp
 
 Es un lenguaje de programación multiparadigma desarrollado y estandarizado por la empresa Microsoft como parte de su plataforma .NET, que después fue aprobado como un estándar por la ECMA (ECMA-334) e ISO (ISO/IEC 23270). C# es uno de los lenguajes de programación diseñados para la infraestructura de lenguaje común. [Wikipedia](#https://es.wikipedia.org/wiki/C_Sharp)
 
-### Hola Mundo C# 
+### Hola Mundo C Sharp
 
 - Aplicaciones de Consola
 - Aplicaciones de Escritorio
