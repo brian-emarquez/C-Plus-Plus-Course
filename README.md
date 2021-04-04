@@ -64,22 +64,22 @@ Es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La inte
 
 | Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
-|  018   | :heavy_check_mark: |Metodo Burbuja        |[Metodo Burbuja](#Metodo-Burbuja)    |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  019   | :heavy_check_mark:|Metodo Burbuja Recursivo       |[Metodo Burbuja Recursivo](#Metodo-Burbuja-Recursivo)    |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  020   | :heavy_check_mark: |Ordenamiento por Selección      |[Ordenamiento por Selección](#Ordenamiento-por-Selección)    |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  021   | :heavy_check_mark: |Ordenamiento por Insercion   |[Ordenamiento por Insercion](#Ordenamiento-por-Insercion)    |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  018   | :heavy_check_mark: |[Metodo Burbuja](#Metodo-Burbuja)    |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  019   | :heavy_check_mark: |[Metodo Burbuja Recursivo](#Metodo-Burbuja-Recursivo)    |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  020   | :heavy_check_mark: |[Ordenamiento por Selección](#Ordenamiento-por-Selección)    |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  021   | :heavy_check_mark: |[Ordenamiento por Insercion](#Ordenamiento-por-Insercion)    |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 
 ## Busquedas
 
 | Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
-|  022   | :heavy_check_mark: |Busqueda Binaria       |[Busqueda-Binaria](#Busqueda-Binaria)    |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  022   | :heavy_check_mark: |[Busqueda-Binaria](#Busqueda-Binaria)    |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 
 ## Estructuras
 
 | Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
-|  023   | :heavy_check_mark: |Estructura de  Datos         |[Link](#)         |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  023   | :heavy_check_mark: |[Link](#)         |- | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 
 ## Contenio Extras
 ### C#
