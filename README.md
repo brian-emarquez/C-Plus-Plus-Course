@@ -432,7 +432,7 @@ El lenguaje de desarrollo utilizado (por línea de comandos o mediante la interf
 
 Dentro de los competidores más destacados de SQL Server están: Oracle, MariaDB, MySQL, PostgreSQL. SQL Server ha estado tradicionalmente disponible solo para sistemas operativos Windows de Microsoft, pero desde 2016 está disponible para GNU/Linux,2​3​ y a partir de 2017 para Docker también.
 
-* [Curso de SQL SERVER SQL SERVER Link repository](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER)
+* Curso de SQL SERVER [SQL SERVER Link repository](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER)
 
 ---
 ## Spotify
