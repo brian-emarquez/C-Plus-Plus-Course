@@ -376,7 +376,7 @@ public class ConsoleTest
 }
 ```
 
-* En este ejemplo,
+_En este ejemplo_
 
 - ConsoleTest es una clase
 - Saludo es un método y un procedimiento. Como no devuelve un valor es tipo void
