@@ -75,13 +75,8 @@ Es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La inte
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
 |  022   | :heavy_check_mark: |[Busqueda-Binaria](#Busqueda-Binaria)    |:hourglass:     | 💻 | 💾| [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 
-## Estructuras
 
-| Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
-| ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
-|  023   | :heavy_check_mark: |[Link](#)         |:hourglass:     | 💻 | 💾| [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-
-## Contenio Extras
+## Contenido Extras
 ### C#
 
 | Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
@@ -147,7 +142,6 @@ int main()
 ## Tipo de datos
 
 C++ tiene los siguientes tipos fundamentales:
-
 
 | Types                               | Description          |
 | ----------------------------------- | -------------------- |
