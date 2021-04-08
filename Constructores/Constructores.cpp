@@ -17,7 +17,7 @@ class Persona {
 		Persona(string _Nombre) {
 			Nombre = _Nombre;
 		}
-		// Segundo Contructor
+		// Segundo Contructor, sobrecarga de contructores.
 		Persona() {
 			cout << "Persona sin Nombre";
 		
@@ -30,7 +30,9 @@ class Persona {
 
 int main() {
 
-	Persona MiPersona("brian"), otraPersona("Yuliza"), sinnombrePersona;
+	Persona MiPersona("brian");
+	Persona otraPersona("Yuliza");
+	Persona sinnombrePersona;
 
 	cout << endl;
 	cout << MiPersona.GetNombre();
