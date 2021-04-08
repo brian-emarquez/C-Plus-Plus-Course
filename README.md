@@ -354,6 +354,35 @@ Utilizando Interfas Grafica
 </table>
 
 
+### Nota
+
+- Procedimiento: Es un conjunto de instrucciones que cumplen una tarea
+- Función: Como un procedimiento pero retorna un valor
+- Clase: Concepto de programación orientada a objetos, es una forma de encapsular funcionalidad, contiene campos y métodos.
+- Método: Puede ser un procedimiento o una función, la diferencia es que le pertenece a una clase.
+
+```c++
+public class ConsoleTest
+{
+    public void Saludo()
+    {
+        Console.WriteLine("¡Hola!");
+    }
+
+    public int Suma(int a, int b)
+    {
+        return a + b;
+    }
+}
+```
+
+* En este ejemplo,
+
+- ConsoleTest es una clase
+- Saludo es un método y un procedimiento. Como no devuelve un valor es tipo void
+- Suma es un método y una función
+
+
 | Carpeta                   | Link |    Home   |  Code       | Version      | Estado     |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:
 |[Constructores](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Constructores)   |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |yes | yes | ✔️ |
