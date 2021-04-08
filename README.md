@@ -57,7 +57,7 @@ Es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La inte
 |  014   |:heavy_check_mark: | [Matrices o Tablas](#Matrices-o-Tablas)   | :hourglass:     | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |       
 |  015   |:heavy_check_mark: | [Cadenas](#Cadenas)   | :hourglass:     | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |      
 |  016   |:heavy_check_mark: | [Funciones](#Funciones)   | :hourglass:     | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |   
-|  017   |:heavy_check_mark: | [Constructores ](#Constructoreses)   | :hourglass:     | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  017   |:heavy_check_mark: | [Constructores ](#Constructores)   | :hourglass:     | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 
 
 ## Ordenamientos
