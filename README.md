@@ -139,8 +139,6 @@ fui responsable de elaborar extensas proposiciones en el comité de estándares 
 
 ## Caracteristicas
 
-<img src="./images/logoc++.png" align="right" width="100px" />
-
 
 <table>
 
@@ -151,6 +149,7 @@ fui responsable de elaborar extensas proposiciones en el comité de estándares 
 
    <tr>
      <td>  Su sintaxis es heredada del lenguaje C </td>
+     <td> <img src="./images/logoc++.png" align="right" width="100px" /> </td>
   </tr>
 
   <tr>
@@ -174,7 +173,7 @@ fui responsable de elaborar extensas proposiciones en el comité de estándares 
   </tr>
 
   <tr>
-      <td>  Es un lenguaje de alto nivel </td> 
+      <td> Es un lenguaje de alto nivel </td> 
   </tr>
    
 </table>
