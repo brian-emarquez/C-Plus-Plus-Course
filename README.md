@@ -34,7 +34,16 @@
   </a>
 </p>
   
-![c++](./images/logoban.gif) 
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/logoban.gif" />
+    </td>
+  </tr>
+</table>
+   
+  
+<!--![c++](./images/logoban.gif) -->
  
 Es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La intención de su creación fue extender al lenguaje de programación C mecanismos que permiten la manipulación de objetos. En ese sentido, desde el punto de vista de los lenguajes orientados a objetos, el C++ es un lenguaje híbrido.  [Wikipedia](https://https://es.wikipedia.org/wiki/C%2B%2B)
 
@@ -73,7 +82,7 @@ Es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La inte
 
 | Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
-|  022   | :heavy_check_mark: |[Busqueda-Binaria](#Busqueda-Binaria)    |:hourglass:     | 💻 | 💾| [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  022   | :heavy_check_mark: |[Busqueda-Binaria](#Busqueda-Binaria)    |<img src="https://media0.giphy.com/media/KySrurVQTjRSGCI0Pn/giphy.gif" width="25px">     | 💻 | 💾| [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 
 
 ## Contenido Extras
@@ -81,8 +90,8 @@ Es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La inte
 
 | Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
-|  024   | :heavy_check_mark: | [C Sharp](C-Sharp)         |:hourglass:     | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  025   | :heavy_check_mark: | [Hola Mundo C Sharp]([Hola-Mundo-C-Sharp)         |:hourglass:     | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  024   | :heavy_check_mark: | [C Sharp](C-Sharp)         |<img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">     | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  025   | :heavy_check_mark: | [Hola Mundo C Sharp]([Hola-Mundo-C-Sharp)         |<img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">     | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 
 ---
 | Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
