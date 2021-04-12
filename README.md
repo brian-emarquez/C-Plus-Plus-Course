@@ -106,7 +106,7 @@ Es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La inte
  
  <table align="center">
   <tr>
-    <h4> Sistema de tipos: Fuerte, estático, nominativo </h4>
+    <h4 align="center" > Sistema de tipos: Fuerte, estático, nominativo </h4>
     <td align="center" style="padding=0;width=50%;">
     <img align="center" style="padding=0;" src="./images/movie.gif" />
     </td>
