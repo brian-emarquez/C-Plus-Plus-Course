@@ -179,16 +179,6 @@ fui responsable de elaborar extensas proposiciones en el comité de estándares 
 </table>
    
 
-
-| * Su sintaxis es heredada del lenguaje C | 
-| * Programa orientado a objetos (POO) | 
-| * Permite la agrupación de instrucciones | 
-| * Lenguaje muy didáctico, con este lenguaje puedes aprender muchos otros lenguajes con gran facilidad. | 
-| * Es portátil y tiene un gran número de compiladores en diferentes plataformas y sistemas operativos. |
-| * Permite la separación de un programa en módulos que admiten compilación independiente | 
-| * Es un lenguaje de alto nivel
-
-
 ## Ejemplo
 A continuación se cita un programa de ejemplo [hola mundo](https://es.wikipedia.org/wiki/Hola_mundo)  escrito en C++:
 
