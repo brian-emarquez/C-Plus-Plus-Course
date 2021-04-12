@@ -139,10 +139,14 @@ fui responsable de elaborar extensas proposiciones en el comité de estándares 
 
 ## Caracteristicas
 
-
 <table>
 
-<img src="./images/logoc++.png" align="right" width="100px" />
+  <tr>
+      <td>Características de C++ </td>
+      <td>Logo</td>
+  </tr>
+
+<table>
 
   <tr>
       <td>Características de C++ </td>
@@ -179,7 +183,7 @@ fui responsable de elaborar extensas proposiciones en el comité de estándares 
   </tr>
    
 </table>
-   
+</table>   
 
 ## Ejemplo
 A continuación se cita un programa de ejemplo [hola mundo](https://es.wikipedia.org/wiki/Hola_mundo)  escrito en C++:
