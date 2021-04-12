@@ -143,7 +143,6 @@ fui responsable de elaborar extensas proposiciones en el comité de estándares 
 
   <tr>
       <td>Características de C++ </td>
-      <td>Logo</td>
   </tr>
 
    <tr>
