@@ -142,6 +142,8 @@ fui responsable de elaborar extensas proposiciones en el comité de estándares 
 
 <table>
 
+  <td> <img src="./images/logoc++.png" align="right" width="100px" /> </td>
+
   <tr>
       <td>Características de C++ </td>
       <td>Logo</td>
@@ -149,7 +151,6 @@ fui responsable de elaborar extensas proposiciones en el comité de estándares 
 
    <tr>
      <td>  Su sintaxis es heredada del lenguaje C </td>
-     <td> <img src="./images/logoc++.png" align="right" width="100px" /> </td>
   </tr>
 
   <tr>
