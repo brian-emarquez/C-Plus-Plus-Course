@@ -141,7 +141,7 @@ fui responsable de elaborar extensas proposiciones en el comité de estándares 
 
 <table>
 
-   <tr>
+  <tr>
       <th colspan="2" scope="rowgroup"><img src="./images/logoc++.png" align="right" width="100px" /></th>
    </tr>
   <tr>
@@ -150,7 +150,6 @@ fui responsable de elaborar extensas proposiciones en el comité de estándares 
 
    <tr>
      <td>  Su sintaxis es heredada del lenguaje C </td>
-
   </tr>
 
   <tr>
