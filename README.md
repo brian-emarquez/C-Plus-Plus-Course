@@ -38,6 +38,7 @@
   <tr>
     <td align="center" style="padding=0;width=50%;">
       <img align="center" style="padding=0;" src="./images/logoban.gif" />
+      <h4> Paradigma: Multiparadigma: Programación Estructurada, imperativo, programación genérica </h4>
     </td>
   </tr>
 </table>
