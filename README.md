@@ -139,12 +139,10 @@ fui responsable de elaborar extensas proposiciones en el comité de estándares 
 
 ## Caracteristicas
 
-<img src="./images/logoc++.png" align="right" width="100px" />
-
 <table>
 
    <tr>
-      <th colspan="2" scope="rowgroup">El elemento raíz</th>
+      <th colspan="2" scope="rowgroup"><img src="./images/logoc++.png" align="right" width="100px" /></th>
    </tr>
   <tr>
       <td>Características de C++ </td>
