@@ -222,7 +222,7 @@ code --version
 -   ✔ Instalacion de la Extencion Code Runner (C, C++, Java, JavaScript, PHP, Python...)
 
 ![c++](./images/ccode_runner.gif) 
-<!--<img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/code_runner.gif>-->
+<!--<img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/code_runner.gif>
 
 
 -   ✔ Instalacion de la Extencion C++ Intelisense (C/C++ Intellisense with the help of GNU Global tags)
