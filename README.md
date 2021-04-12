@@ -142,9 +142,6 @@ fui responsable de elaborar extensas proposiciones en el comité de estándares 
 <table>
 
   <tr>
-      <th colspan="2" scope="rowgroup"><img src="./images/logoc++.png" align="right" width="100px" /></th>
-   </tr>
-  <tr>
       <td>Características de C++ </td>
   </tr>
 
@@ -176,6 +173,10 @@ fui responsable de elaborar extensas proposiciones en el comité de estándares 
       <td> Es un lenguaje de alto nivel </td> 
   </tr>
    
+   <tr align="center">
+      <th colspan="2" scope="rowgroup"><img src="./images/logoc++.png" align="right" width="300px" /></th>
+   </tr>
+
 </table>
  
 
