@@ -142,18 +142,15 @@ fui responsable de elaborar extensas proposiciones en el comité de estándares 
 
 <img src="./images/logoc++.png" align="right" width="100px" />
 
-# Awesome README [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
-> A curated list of awesome READMEs
-
 | Características de C++                | 
 | ------------------------------------- | 
-| Su sintaxis es heredada del lenguaje C | 
-| Programa orientado a objetos (POO) | 
-| Permite la agrupación de instrucciones | 
-| Lenguaje muy didáctico, con este lenguaje puedes aprender muchos otros lenguajes con gran facilidad. | 
-| Es portátil y tiene un gran número de compiladores en diferentes plataformas y sistemas operativos. |
-| Permite la separación de un programa en módulos que admiten compilación independiente | 
-| Es un lenguaje de alto nivel | 
+| > Su sintaxis es heredada del lenguaje C | 
+| > Programa orientado a objetos (POO) | 
+| > Permite la agrupación de instrucciones | 
+| > Lenguaje muy didáctico, con este lenguaje puedes aprender muchos otros lenguajes con gran facilidad. | 
+| > Es portátil y tiene un gran número de compiladores en diferentes plataformas y sistemas operativos. |
+| > Permite la separación de un programa en módulos que admiten compilación independiente | 
+| > Es un lenguaje de alto nivel | 
 
 
 ## Ejemplo
