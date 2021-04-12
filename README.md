@@ -142,7 +142,8 @@ fui responsable de elaborar extensas proposiciones en el comité de estándares 
 <img src="./images/logoc++.png" align="right" width="100px" />
 
 <table>
-
+  <colgroup>
+  <colgroup span="2" style="background: rgba(128, 255, 0, 0.3); border: 1px solid rgba(100, 200, 0, 0.3);">
   <tr>
       <td>Características de C++ </td>
   </tr>
