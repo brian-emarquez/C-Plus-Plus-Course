@@ -146,18 +146,9 @@ fui responsable de elaborar extensas proposiciones en el comité de estándares 
       <td>Logo</td>
   </tr>
 
-
- <tr>
-<table>
-
-  <tr>
-      <td>Características de C++ </td>
-      <td>Logo</td>
-  </tr>
-
    <tr>
      <td>  Su sintaxis es heredada del lenguaje C </td>
-     <td> <img src="./images/logoc++.png" align="right" width="100px" /> </td>
+
   </tr>
 
   <tr>
@@ -182,11 +173,12 @@ fui responsable de elaborar extensas proposiciones en el comité de estándares 
 
   <tr>
       <td> Es un lenguaje de alto nivel </td> 
-  </tr>
+
   </tr>
    
 </table>
-</table>   
+ 
+<img src="./images/logoc++.png" align="right" width="100px" />
 
 ## Ejemplo
 A continuación se cita un programa de ejemplo [hola mundo](https://es.wikipedia.org/wiki/Hola_mundo)  escrito en C++:
