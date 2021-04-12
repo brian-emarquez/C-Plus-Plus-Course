@@ -108,8 +108,19 @@ Es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La inte
 ![c++](./images/demo1.gif)
 
 ## Bjarne Stroustrup
+
 ---
-<div align="center"><img src="./images/stroustrup1.jpg"></div>
+
+
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/stroustrup1.jpg" />
+      <h4 align="center">  Influido por: AWK, Smalltalk 80, Lisp, C, C++, Pascal, sed, Unix shell </h4>
+    </td>
+  </tr>
+</table>
+
 
 <p> Bjarne Stroustrup (n. 30 de diciembre de 1950 en Aarhus, Dinamarca) es un científico de la computación y catedrático de Ciencias de la Computación en la Universidad A&M de Texas. Ha destacado por desarrollar el lenguaje de programación C++. Citando palabras del propio Stroustrup:. </p>
 
