@@ -146,6 +146,8 @@ fui responsable de elaborar extensas proposiciones en el comité de estándares 
       <td>Logo</td>
   </tr>
 
+
+ <tr>
 <table>
 
   <tr>
@@ -180,6 +182,7 @@ fui responsable de elaborar extensas proposiciones en el comité de estándares 
 
   <tr>
       <td> Es un lenguaje de alto nivel </td> 
+  </tr>
   </tr>
    
 </table>
