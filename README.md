@@ -140,17 +140,17 @@ fui responsable de elaborar extensas proposiciones en el comité de estándares 
 ## Caracteristicas
 
 
-<img src="./images/logoc++.png" align="right" width="100px" />
+<img src="./images/logoc++.png" align="right" width="150px" />
 
 | Características de C++                | 
 | ------------------------------------- | 
-| > Su sintaxis es heredada del lenguaje C | 
-| > Programa orientado a objetos (POO) | 
-| > Permite la agrupación de instrucciones | 
-| > Lenguaje muy didáctico, con este lenguaje puedes aprender muchos otros lenguajes con gran facilidad. | 
-| > Es portátil y tiene un gran número de compiladores en diferentes plataformas y sistemas operativos. |
-| > Permite la separación de un programa en módulos que admiten compilación independiente | 
-| > Es un lenguaje de alto nivel | 
+| * Su sintaxis es heredada del lenguaje C | 
+| * Programa orientado a objetos (POO) | 
+| * Permite la agrupación de instrucciones | 
+| * Lenguaje muy didáctico, con este lenguaje puedes aprender muchos otros lenguajes con gran facilidad. | 
+| * Es portátil y tiene un gran número de compiladores en diferentes plataformas y sistemas operativos. |
+| * Permite la separación de un programa en módulos que admiten compilación independiente | 
+| * Es un lenguaje de alto nivel | 
 
 
 ## Ejemplo
