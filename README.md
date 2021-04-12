@@ -97,10 +97,10 @@ Es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La inte
 ---
 | Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
-|  B1   |:heavy_check_mark: | [Play List Spotify](#Spotify)   | :hourglass:     |:hourglass:     | 💻 | 💾 |[ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  B2   |:heavy_check_mark: | [Book](#book)  | :hourglass:     | :hourglass:     | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  B3   |:heavy_check_mark: | [Games](#games)   | :hourglass:     | :hourglass:     | 💻 | 💾 |[ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  B4   |:heavy_check_mark: | [Indice TIOBE](#Indice-TIOBE)   | :hourglass:     | :hourglass:     | 💻 | 💾 |[ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  B1   |:heavy_check_mark: | [Play List Spotify](#Spotify)   | <img src="https://media.giphy.com/media/xBpEWE1hv06PF1jINR/giphy.gif" width="25px">      |:hourglass:     | 💻 | 💾 |[ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  B2   |:heavy_check_mark: | [Book](#book)  | <img src="https://media.giphy.com/media/xBpEWE1hv06PF1jINR/giphy.gif" width="25px">    | :hourglass:     | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  B3   |:heavy_check_mark: | [Games](#games)   | <img src="https://media.giphy.com/media/xBpEWE1hv06PF1jINR/giphy.gif" width="25px">     | :hourglass:     | 💻 | 💾 |[ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  B4   |:heavy_check_mark: | [Indice TIOBE](#Indice-TIOBE)   | <img src="https://media.giphy.com/media/xBpEWE1hv06PF1jINR/giphy.gif" width="25px">     | :hourglass:     | 💻 | 💾 |[ ⬅️ Atras](https://github.com/BrianMarquez3) |
 
 ---
  
