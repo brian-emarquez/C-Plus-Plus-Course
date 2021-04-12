@@ -532,7 +532,7 @@ programación o del lenguaje en el que se han escrito la mayoría de las líneas
       </tr>
       <tr>
         <td>C</td>
-      <td colspan="2"><img align="center" style="padding=0;" src="./star.gif" /></td>
+      <td colspan="2"><img align="center" style="padding=0;" src="./images/star.gif" /></td>
         <td>E</td>
       </tr>
       <tr>
