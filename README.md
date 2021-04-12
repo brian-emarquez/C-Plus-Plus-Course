@@ -64,7 +64,7 @@ Es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La inte
 
 | Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
-|  018   | :heavy_check_mark: |[Metodo Burbuja](#Metodo-Burbuja)    |:hourglass:     | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  018   | :heavy_check_mark: |[Metodo Burbuja](#Metodo-Burbuja)    |<img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">     | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  019   | :heavy_check_mark: |[Metodo Burbuja Recursivo](#Metodo-Burbuja-Recursivo)    |:hourglass:     | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  020   | :heavy_check_mark: |[Ordenamiento por Selección](#Ordenamiento-por-Selección)    |:hourglass:     | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  021   | :heavy_check_mark: |[Ordenamiento por Insercion](#Ordenamiento-por-Insercion)    |:hourglass:     | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
