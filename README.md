@@ -463,10 +463,30 @@ Dentro de los competidores más destacados de SQL Server están: Oracle, MariaDB
 🎵 Music C++ [List on Spotify 🎤](https://open.spotify.com/playlist/5WeJBsezZBzGxr3bI0k68e?si=-ZU7O8zrSp-7hQolKhZF4A)
 
 ---
+
 ## Book
----
-Download book - [Cómo programar en C++, 9Ed](https://dubox.com/s/1VJ7p2q8AL8qnUBWY-J4-qQ) <br>
-Password:9t26
+
+<table>
+
+  <tr>
+      <td>Name</td>
+      <td>Authors</td>
+      <td>Edition</td>
+      <td>ISBN</td>
+      <td>Link</td>
+      <td>Password</td>
+  </tr>
+
+  <tr>
+      <td>C++ Como Programar</td>
+      <td>Paul Deitel, Harvel Deitel</td>
+      <td>Novena Edicion</td>
+      <td>978-607-32-2739-1</td>
+      <td><a href="https://dubox.com/s/1vJkFWmJbmcJlj7TRpg5tQQ">Learning Perl</a></td>
+      <td>i4wn</td>
+  </tr>
+
+</table>
 
 <!--## Setup 
 _Link de Descarga_<!--📦 [Install .EXE ](https://raw.githubusercontent.com/C-Plus-Plus-Course/Instalador/master/Instalador.msi) Graphic Basic Calculator.<br>
@@ -504,5 +524,20 @@ programación o del lenguaje en el que se han escrito la mayoría de las líneas
 
 ---
 
-<div align="center"><img src="./images/star.gif"></div>
+
+ <table align="center">
+    <tr>
+      <td colspan="3">A</td>
+        <td>B</td>
+      </tr>
+      <tr>
+        <td>C</td>
+      <td colspan="2"><img align="center" style="padding=0;" src="./star.gif" /></td>
+        <td>E</td>
+      </tr>
+      <tr>
+      <td colspan="3">F</td>
+        <td>G</td>
+    </tr>
+</table>
 
