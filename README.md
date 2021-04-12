@@ -140,7 +140,7 @@ fui responsable de elaborar extensas proposiciones en el comité de estándares 
 ## Caracteristicas
 
 
-<img src="./images/logoc++.png" align="right" width="220px" />
+<img src="./images/logoc++.png" align="right" width="200px" />
 
 | Características de C++                | 
 | ------------------------------------- | 
