@@ -103,11 +103,16 @@ Es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La inte
 |  B4   |:heavy_check_mark: | [Indice TIOBE](#Indice-TIOBE)   | :hourglass:     | :hourglass:     | 💻 | 💾 |[ ⬅️ Atras](https://github.com/BrianMarquez3) |
 
 ---
-
- - Demo
  
-![c++](./images/demo1.gif)
-
+ <table align="center">
+  <tr>
+    <h4> Sistema de tipos: Fuerte, estático, nominativo </h4>
+    <td align="center" style="padding=0;width=50%;">
+    <img align="center" style="padding=0;" src="./images/BannerMovie.gif" />
+    </td>
+  </tr>
+</table>
+   
 ## Bjarne Stroustrup
 
 ---
