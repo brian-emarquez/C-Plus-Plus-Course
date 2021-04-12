@@ -173,8 +173,8 @@ fui responsable de elaborar extensas proposiciones en el comité de estándares 
       <td> Es un lenguaje de alto nivel </td> 
   </tr>
    
-   <tr align="center">
-      <th colspan="2" scope="rowgroup"><img src="./images/logoc++.png" align="right" width="300px" /></th>
+   <tr>
+      <th colspan="2" scope="rowgroup"><img src="./images/logoc++.png" align="center" width="300px" /></th>
    </tr>
 
 </table>
