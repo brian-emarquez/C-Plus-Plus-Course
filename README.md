@@ -150,39 +150,33 @@ fui responsable de elaborar extensas proposiciones en el comité de estándares 
   </tr>
 
    <tr>
-     <td>* Su sintaxis es heredada del lenguaje C </td>
+     <td>  Su sintaxis es heredada del lenguaje C </td>
   </tr>
 
-
   <tr>
-     <td>* Programa orientado a objetos (POO) </td>
+     <td>  Programa orientado a objetos (POO) </td>
   </tr>
 
-
   <tr>
-     <td>* Permite la agrupación de instrucciones </td> 
+     <td>  Permite la agrupación de instrucciones </td> 
   </tr>
   
   <tr>
-     <td>* Lenguaje muy didáctico, con este lenguaje puedes aprender muchos otros lenguajes con gran facilidad. </td> 
+     <td> Lenguaje muy didáctico, con este lenguaje puedes aprender muchos otros lenguajes con gran facilidad. </td> 
   </tr>
 
    <tr>
-     <td>*  Es portátil y tiene un gran número de compiladores en diferentes plataformas y sistemas operativo. </td> 
+     <td>  Es portátil y tiene un gran número de compiladores en diferentes plataformas y sistemas operativo. </td> 
   </tr>
 
   <tr>
-     <td>* Permite la separación de un programa en módulos que admiten compilación independiente </td> 
+      <td> Permite la separación de un programa en módulos que admiten compilación independiente </td> 
   </tr>
 
-    <tr>
-     <td>*  Es un lenguaje de alto nivel </td> 
+  <tr>
+      <td>  Es un lenguaje de alto nivel </td> 
   </tr>
    
-
-
-
-
 </table>
    
 
