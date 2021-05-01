@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\images",
+    "\\images\\configuracion"
   ],
-  "SelectedNode": "\\README.md",
+  "SelectedNode": "\\images\\configuracion",
   "PreviewInSolutionExplorer": true
 }
