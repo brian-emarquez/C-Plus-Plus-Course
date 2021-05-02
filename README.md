@@ -43,9 +43,7 @@
   </tr>
 </table>
    
-  
-<!--![c++](./images/logoban.gif) -->
- 
+   
 Es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La intención de su creación fue extender al lenguaje de programación C mecanismos que permiten la manipulación de objetos. En ese sentido, desde el punto de vista de los lenguajes orientados a objetos, el C++ es un lenguaje híbrido.  [Wikipedia](https://https://es.wikipedia.org/wiki/C%2B%2B)
 
 ## Tabla de contenidos
