@@ -599,7 +599,7 @@ Es un lenguaje de programación multiparadigma desarrollado y estandarizado por 
       <td>Paul Deitel, Harvel Deitel</td>
       <td>Novena Edicion</td>
       <td>978-607-32-2739-1</td>
-      <td><a href="https://dubox.com/s/1vJkFWmJbmcJlj7TRpg5tQQ">Learning Perl</a></td>
+      <td><a href="https://dubox.com/s/1vJkFWmJbmcJlj7TRpg5tQQ">C++ Como Programar</a></td>
       <td>i4wn</td>
   </tr>
 
