@@ -472,7 +472,7 @@ _En este ejemplo_
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:
 |[public](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Public)   |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |yes | yes | ✔️ |
 |[private](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Private)   |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |yes | yes | ✔️ |
-|[Protected](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Constructoes%20y%20Modificadores)   |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |yes | yes | ✔️ |
+|[Protected](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Protected)   |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |yes | yes | ✔️ |
 
 
 ---
