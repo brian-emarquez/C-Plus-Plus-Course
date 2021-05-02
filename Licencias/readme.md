@@ -5,7 +5,7 @@ _Protege tu codigo usando licencias de software_
 
 MIT License: Lo quiero simple y permisivo
 
-<table align="center">
+<table>
 <tr>
 	<tr>
 		<td colspan="3" align="center">MIT LICENSE</td>
