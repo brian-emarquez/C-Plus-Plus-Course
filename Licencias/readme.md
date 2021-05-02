@@ -17,7 +17,7 @@ MIT License: Lo quiero simple y permisivo
 </tr>
 
 <tr>
-	<td>Uso comerciasl, distribucion, modificacion, use privado/td>
+	<td>Uso comerciasl, distribucion, modificacion, use privado</td>
 	<td>Incluir una copia de la licencia en el codigo</td>
 	<td>Resposabilidad</td>
 </tr>
