@@ -132,6 +132,7 @@ Inventé C++, escribiendo sus primeras definiciones, y produciendo la primera im
 elegí y formulé los criterios de diseño para C++, confeccioné también sus principales utilidades, y
 fui responsable de elaborar extensas proposiciones en el comité de estándares de C++.
 ```
+
 <table align="center">
   <tr>
       <td> Pagina Web </td>
