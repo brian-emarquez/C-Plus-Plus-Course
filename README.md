@@ -561,7 +561,7 @@ El lenguaje de desarrollo utilizado (por línea de comandos o mediante la interf
 
 Dentro de los competidores más destacados de SQL Server están: Oracle, MariaDB, MySQL, PostgreSQL. SQL Server ha estado tradicionalmente disponible solo para sistemas operativos Windows de Microsoft, pero desde 2016 está disponible para GNU/Linux,2​3​ y a partir de 2017 para Docker también.
 
-* Curso de SQL SERVER [SQL SERVER Link repository](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER)
+<a href="https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER">SQL Server Repository</a>.
 
 ---
 
@@ -571,7 +571,7 @@ Dentro de los competidores más destacados de SQL Server están: Oracle, MariaDB
 Es un lenguaje de programación multiparadigma desarrollado y estandarizado por la empresa Microsoft como parte de su plataforma .NET, que después fue aprobado como un estándar por la ECMA (ECMA-334) e ISO (ISO/IEC 23270). C# es uno de los lenguajes de programación diseñados para la infraestructura de lenguaje común.
 </p>
 
-<a href="https://github.com/BrianMarquez3/C-Sharp-Training">C# Course Programming in Visual C# Programming Course with .NET Visual Studio</a>.
+<a href="https://github.com/BrianMarquez3/C-Sharp-Training">C# Repository Course Programming in Visual C# Programming Course with .NET Visual Studio</a>.
 
 ---
 
