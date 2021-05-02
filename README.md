@@ -508,7 +508,7 @@ _En este ejemplo_
 ---
 
 ## Doc
-### [Licencias
+### Licencias
 
 |Numeration| File                 | Link |    Home   |  Code       | Version      | Estado     |
 |:--------:|:---------------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
