@@ -559,3 +559,9 @@ _Lo vemos en:_
 Gimp
 
 [GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.en.html)
+
+---
+
+_Mas Licencias_
+
+[Choose an open source license](https://choosealicense.com/)
