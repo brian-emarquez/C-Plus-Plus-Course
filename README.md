@@ -138,7 +138,7 @@ fui responsable de elaborar extensas proposiciones en el comité de estándares 
   <tr>
     <h4 align="center" > Sistema de tipos: Fuerte, estático, nominativo </h4>
     <td align="center" style="padding=0;width=50%;">
-    <img align="center" style="padding=0;" src="./images/stroustrup1.gif" />
+    <img align="center" style="padding=0;" src="./images/stroustrup.gif" />
     </td>
   </tr>
 </table>
