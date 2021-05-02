@@ -4,6 +4,7 @@
 
 using namespace std;
 
+/*protected*/
 class Parent
 {
 protected:
