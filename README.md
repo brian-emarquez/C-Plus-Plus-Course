@@ -1,5 +1,5 @@
 
-<h2 align="center">Learn C++ Object Oriented Programming - 0 to Hero 🦸‍♂️</h2>
+<h2 align="center">Learn C++ Object Oriented Programming - 0 to Hero 🦸‍♂️ </h2>
 
 <p align="center">
   
@@ -580,7 +580,6 @@ programación o del lenguaje en el que se han escrito la mayoría de las líneas
 
 ---
 
-
  <table align="center">
     <tr>
       <td colspan="3">A</td>
@@ -596,4 +595,3 @@ programación o del lenguaje en el que se han escrito la mayoría de las líneas
         <td>G</td>
     </tr>
 </table>
-
