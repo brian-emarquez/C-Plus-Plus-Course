@@ -10,11 +10,22 @@ MIT License: Lo quiero simple y permisivo
 	<tr>
 		<td colspan="3" align="center">MIT LICENSE</td>
 	</tr>
-	<td>PERMISOS</td>
-	<td>CONDICIONES</td>
-	<td>LIMITACIONES</td>
+	<tr>
+		<td>PERMISOS</td>
+		<td>CONDICIONES</td>
+		<td>LIMITACIONES</td>
+	</tr>
 </tr>
 
+<tr>
+	<td> - Uso comerciasl<br> 
+		 - distribucion<br> 
+		 - modificacion<br> 
+		 - uso privado<br>
+	</td>
+	<td> - Incluir una copia de la licencia en el codigo</td>
+	<td> - Resposabilidad</td>
+</tr>
 </table>
 
 
