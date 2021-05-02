@@ -5,6 +5,15 @@ Un paradigma de programación es una manera o estilo de programación de software.
 
 Los lenguajes de programación adoptan uno o varios paradigmas en función del tipo de órdenes que permiten implementar como, por ejemplo, Python o JavaScript, que son multiparadigmas.
 
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/diseno.jpg" />
+    </td>
+  </tr>
+</table>
+   
+
 ### Paradigma imperativo
 
 Los programas consisten en una sucesión de instrucciones o conjunto de sentencias, como si el programador diera órdenes concretas. El desarrollador describe en el código paso por paso todo lo que hará su programa.
@@ -38,3 +47,22 @@ _La programación orientada a objetos se sirve de diferentes conceptos como:_
 - Modularidad
 - Herencia
 - Polimorfismo
+
+
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/paradigmas.jpg" />
+    </td>
+  </tr>
+</table>
+
+
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/paradigma2.png" />
+    </td>
+  </tr>
+</table>
+   
