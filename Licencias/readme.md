@@ -15,7 +15,6 @@ MIT License: Lo quiero simple y permisivo
 	<td>LIMITACIONES</td>
 </tr>
 
-
 </table>
 
 
