@@ -552,19 +552,6 @@ _En este ejemplo_
 | A2 | [Paradigmas de Programacion](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Paradigmas%20de%20Programacion)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 ---
-## C-Sharp
-
-Es un lenguaje de programación multiparadigma desarrollado y estandarizado por la empresa Microsoft como parte de su plataforma .NET, que después fue aprobado como un estándar por la ECMA (ECMA-334) e ISO (ISO/IEC 23270). C# es uno de los lenguajes de programación diseñados para la infraestructura de lenguaje común. [Wikipedia](#https://es.wikipedia.org/wiki/C_Sharp)
-
-### Hola Mundo C Sharp
-
-- Aplicaciones de Consola
-- Aplicaciones de Escritorio
-- Aplicaiones Web
-
-|Numeration| Carpeta                    | Link |    Home   |  Code       | Version      | Estado     |
-|:--------:|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| B1| [Hola Mundo en C#](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/PrimeraAplicacionC%23)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 ## SQL Server
 
@@ -577,6 +564,13 @@ Dentro de los competidores más destacados de SQL Server están: Oracle, MariaDB
 * Curso de SQL SERVER [SQL SERVER Link repository](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER)
 
 ---
+
+## C# Training
+
+<a href="https://github.com/BrianMarquez3/C-Sharp-Training">C# Course Programming in Visual C# Programming Course with .NET Visual Studio</a>.
+
+---
+
 ## Spotify
 
 🎵 Music C++ [List on Spotify 🎤](https://open.spotify.com/playlist/5WeJBsezZBzGxr3bI0k68e?si=-ZU7O8zrSp-7hQolKhZF4A)
