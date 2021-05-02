@@ -7,9 +7,7 @@ MIT License: Lo quiero simple y permisivo
 
 <table>
 <tr>
-	<tr>
-		<td colspan="3" align="center">MIT LICENSE</td>
-	</tr>
+	
 	<tr>
 		<td>PERMISOS</td>
 		<td>CONDICIONES</td>
