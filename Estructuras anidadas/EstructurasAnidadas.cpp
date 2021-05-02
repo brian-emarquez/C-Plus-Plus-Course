@@ -8,7 +8,7 @@ int main() {
 
 	for (int i = 0; i < 2; i++){
 		cout << "Digite su nombre: ";
-		cin.getline(empleado[i])
+		cin.getline(empleado[i].nombre, 20"\n);
 
 	}
 
