@@ -1,5 +1,5 @@
 
-<h2 align="center">Learn C++ Object Oriented Programming - 0 to Hero 🦸‍♂️</h2>
+<h2 align="center">Learn C++ Object Oriented Programming - 0 to Hero 🦸‍♂️ </h2>
 
 <p align="center">
   
@@ -43,9 +43,7 @@
   </tr>
 </table>
    
-  
-<!--![c++](./images/logoban.gif) -->
- 
+   
 Es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La intención de su creación fue extender al lenguaje de programación C mecanismos que permiten la manipulación de objetos. En ese sentido, desde el punto de vista de los lenguajes orientados a objetos, el C++ es un lenguaje híbrido.  [Wikipedia](https://https://es.wikipedia.org/wiki/C%2B%2B)
 
 ## Tabla de contenidos
@@ -68,7 +66,6 @@ Es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La inte
 |  015   |:heavy_check_mark: | [Cadenas](#Cadenas)   | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">    | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |      
 |  016   |:heavy_check_mark: | [Funciones](#Funciones)   | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">     | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |   
 |  017   |:heavy_check_mark: | [Constructores ](#Constructores)   | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">     | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-
 
 ## Ordenamientos
 
@@ -135,7 +132,22 @@ Inventé C++, escribiendo sus primeras definiciones, y produciendo la primera im
 elegí y formulé los criterios de diseño para C++, confeccioné también sus principales utilidades, y
 fui responsable de elaborar extensas proposiciones en el comité de estándares de C++.
 ```
-[www.stroustrup.com](https://www.stroustrup.com)<br>
+
+<table align="center">
+  <tr>
+      <td> Pagina Web </td>
+      <td> <a href="https://www.stroustrup.com"> www.stroustrup.com </a></td>
+  </tr>
+</table>
+
+ <table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+    <img align="center" style="padding=0;" src="./images/stroustrup.gif" />
+    <h4 align="center" > Sistema de tipos: Fuerte, estático, nominativo </h4>
+    </td>
+  </tr>
+</table>
 
 ## Caracteristicas
 
@@ -580,7 +592,6 @@ programación o del lenguaje en el que se han escrito la mayoría de las líneas
 
 ---
 
-
  <table align="center">
     <tr>
       <td colspan="3">A</td>
@@ -596,4 +607,3 @@ programación o del lenguaje en el que se han escrito la mayoría de las líneas
         <td>G</td>
     </tr>
 </table>
-
