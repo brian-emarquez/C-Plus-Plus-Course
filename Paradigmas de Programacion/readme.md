@@ -8,7 +8,7 @@ Los lenguajes de programación adoptan uno o varios paradigmas en función del tip
 <table align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./images/diseno.jpg" />
+      <img align="center" style="padding=0;" src="../images/diseno.jpg" />
     </td>
   </tr>
 </table>
@@ -52,7 +52,7 @@ _La programación orientada a objetos se sirve de diferentes conceptos como:_
 <table align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./images/paradigmas.jpg" />
+      <img align="center" style="padding=0;" src="../images/paradigmas.jpg" />
     </td>
   </tr>
 </table>
@@ -61,7 +61,7 @@ _La programación orientada a objetos se sirve de diferentes conceptos como:_
 <table align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./images/paradigma2.png" />
+      <img align="center" style="padding=0;" src="../images/paradigma2.png" />
     </td>
   </tr>
 </table>

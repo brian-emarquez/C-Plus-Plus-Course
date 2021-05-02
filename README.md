@@ -89,6 +89,8 @@ Es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La inte
 | Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
 |  A1   | :heavy_check_mark: |[Licencias](#Licencias)    |<img src="https://media0.giphy.com/media/KySrurVQTjRSGCI0Pn/giphy.gif" width="25px">     | 💻 | 💾| [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  A1   | :heavy_check_mark: |[Paradigmas de Programacion](#Paradigmas-de-Programacion)    |<img src="https://media0.giphy.com/media/KySrurVQTjRSGCI0Pn/giphy.gif" width="25px">     | 💻 | 💾| [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+
 
 ## C#
 
@@ -514,7 +516,11 @@ _En este ejemplo_
 |:--------:|:---------------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | A1 | [Licencias](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Licencias)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
+## Paradigmas de Programacion
 
+|Numeration| File                 | Link |    Home   |  Code       | Version      | Estado     |
+|:--------:|:---------------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| A2 | [Paradigmas de Programacion](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Paradigmas%20de%20Programacion)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 ---
 ## C-Sharp
