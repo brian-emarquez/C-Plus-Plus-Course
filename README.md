@@ -84,6 +84,13 @@ Es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La inte
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
 |  023   | :heavy_check_mark: |[Busqueda-Binaria](#Busqueda-Binaria)    |<img src="https://media0.giphy.com/media/KySrurVQTjRSGCI0Pn/giphy.gif" width="25px">     | 💻 | 💾| [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 
+## Estructuras
+
+| Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
+| ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
+|  024   | :heavy_check_mark: |[Estructuras](#Estructuras)    |<img src="https://media0.giphy.com/media/KySrurVQTjRSGCI0Pn/giphy.gif" width="25px">     | 💻 | 💾| [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+
+
 ## Doc
 
 | Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
@@ -472,7 +479,7 @@ _En este ejemplo_
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:
 |[public](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Public)   |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |yes | yes | ✔️ |
 |[private](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Private)   |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |yes | yes | ✔️ |
-|[Protected](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Constructoes%20y%20Modificadores)   |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |yes | yes | ✔️ |
+|[Protected](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Protected)   |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |yes | yes | ✔️ |
 
 
 ---
@@ -521,6 +528,16 @@ _En este ejemplo_
 
 ---
 
+## Estructuras
+
+| File                    | Link |    Home   |  Code       | Version      | Estado     |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Estructuras basicas](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Estructuras%20Basicas)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+| [Estructuras anidadas](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Estructuras%20anidadas)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+
+
+---
+
 ## Doc
 ### Licencias
 
@@ -535,19 +552,6 @@ _En este ejemplo_
 | A2 | [Paradigmas de Programacion](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Paradigmas%20de%20Programacion)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 ---
-## C-Sharp
-
-Es un lenguaje de programación multiparadigma desarrollado y estandarizado por la empresa Microsoft como parte de su plataforma .NET, que después fue aprobado como un estándar por la ECMA (ECMA-334) e ISO (ISO/IEC 23270). C# es uno de los lenguajes de programación diseñados para la infraestructura de lenguaje común. [Wikipedia](#https://es.wikipedia.org/wiki/C_Sharp)
-
-### Hola Mundo C Sharp
-
-- Aplicaciones de Consola
-- Aplicaciones de Escritorio
-- Aplicaiones Web
-
-|Numeration| Carpeta                    | Link |    Home   |  Code       | Version      | Estado     |
-|:--------:|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| B1| [Hola Mundo en C#](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/PrimeraAplicacionC%23)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 ## SQL Server
 
@@ -557,9 +561,20 @@ El lenguaje de desarrollo utilizado (por línea de comandos o mediante la interf
 
 Dentro de los competidores más destacados de SQL Server están: Oracle, MariaDB, MySQL, PostgreSQL. SQL Server ha estado tradicionalmente disponible solo para sistemas operativos Windows de Microsoft, pero desde 2016 está disponible para GNU/Linux,2​3​ y a partir de 2017 para Docker también.
 
-* Curso de SQL SERVER [SQL SERVER Link repository](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER)
+<a href="https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER">SQL Server Repository</a>.
 
 ---
+
+## C# Training
+
+<p> 
+Es un lenguaje de programación multiparadigma desarrollado y estandarizado por la empresa Microsoft como parte de su plataforma .NET, que después fue aprobado como un estándar por la ECMA (ECMA-334) e ISO (ISO/IEC 23270). C# es uno de los lenguajes de programación diseñados para la infraestructura de lenguaje común.
+</p>
+
+<a href="https://github.com/BrianMarquez3/C-Sharp-Training">C# Repository Course Programming in Visual C# Programming Course with .NET Visual Studio</a>.
+
+---
+
 ## Spotify
 
 🎵 Music C++ [List on Spotify 🎤](https://open.spotify.com/playlist/5WeJBsezZBzGxr3bI0k68e?si=-ZU7O8zrSp-7hQolKhZF4A)
@@ -584,7 +599,7 @@ Dentro de los competidores más destacados de SQL Server están: Oracle, MariaDB
       <td>Paul Deitel, Harvel Deitel</td>
       <td>Novena Edicion</td>
       <td>978-607-32-2739-1</td>
-      <td><a href="https://dubox.com/s/1vJkFWmJbmcJlj7TRpg5tQQ">Learning Perl</a></td>
+      <td><a href="https://dubox.com/s/1vJkFWmJbmcJlj7TRpg5tQQ">C++ Como Programar</a></td>
       <td>i4wn</td>
   </tr>
 

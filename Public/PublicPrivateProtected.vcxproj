@@ -143,9 +143,6 @@
     <ClCompile Include="public.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="ClassDiagram.cd" />
-  </ItemGroup>
-  <ItemGroup>
     <ClInclude Include="PublicHeader.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
