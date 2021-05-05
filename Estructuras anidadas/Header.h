@@ -12,5 +12,4 @@ struct empleado{
 	struct info_direccion dir_empleado;
 	double salario;
 	
-}
-empleados[2];
+}empleados[2];
