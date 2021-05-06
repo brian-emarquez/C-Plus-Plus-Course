@@ -530,6 +530,7 @@ _En este ejemplo_
 |:--------:|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | 024 | [Estructuras basicas](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Estructuras%20Basicas)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 | 025 | [Estructuras anidadas](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Estructuras%20anidadas)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+| 026 | [Estructuras ](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Estructuras%20anidadas)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 
 ---
