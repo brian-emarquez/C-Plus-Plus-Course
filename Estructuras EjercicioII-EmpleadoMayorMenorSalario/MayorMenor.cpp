@@ -10,44 +10,38 @@ empelado con mayor y menor salario
 
 using namespace std;
 
-struct Corredor {
+struct Empelado {
 	char nombre[20];
-	int edad;
-	char sexo[10];
-	char club;
-}c1;
+	float salario;
+}emp[100];
+
 
 int main() {
 
-	char categoria[20];
+	int n_empelados, posM=0, posm=9;
+	float mayor = 0, menor = 99999;
 
-	cout << "nombre: ";
-	cin.getline(c1.nombre, 20, '\n');
-	cout << "edad:";
-	cin >> c1.edad, '\n';
-	cout << "sexo: ";
-	cin.getline(c1.sexo, 10, '\n');
-	cout << "club: ";
-	cin >> c1.club, '\n';
+	cout << "Digite el nuemro de empleados: ";
+	cin >> n_empelados;
 
-	if (c1.edad <= 18) {
-		//strcpy_s  : copia cadena de caracteres
-		strcpy_s(categoria, "Juvenil");
+	for (int i = 0; i < n_empelados; i++) {
+		cout << i+1<<"Digite su numero: ";
+		cin.getline(emp[i].nombre, 20, "\n");
+		cout << i+1 <<". Digite su salario:";
+		cin >> emp[i].salario;
+
+		if (emp[i].salario > mayor) {
+			mayor = emp[i].salario;
+			posM = i;
+		}
+		if (emp[i].salario < menor) {
+			menor = emp[i].salario;
+		}
+
+		
+		cout << "\n";
+
 	}
-	else if (c1.edad <= 40) {
-		strcpy_s(categoria, "Senior");
-	}
-	else {
-		strcpy_s(categoria, "Veterano");
-	}
-
-
-	cout << "\nDatos del corredor: " << endl;
-	cout << "Nombre: " << c1.nombre << endl;
-	cout << "Edad: " << c1.edad << endl;
-	cout << "Sexo: " << c1.sexo << endl;
-	cout << "Club: " << c1.club << endl;
-	cout << "Categoria: " << categoria << endl;
 
 	system("pause");
 	return 0;

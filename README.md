@@ -84,7 +84,7 @@ Es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La inte
 
 | Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
-|  024-025   | :heavy_check_mark: |[Estructuras](#Estructuras)    |<img src="https://media0.giphy.com/media/KySrurVQTjRSGCI0Pn/giphy.gif" width="25px">     | 💻 | 💾| [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  024-026   | :heavy_check_mark: |[Estructuras](#Estructuras)    |<img src="https://media0.giphy.com/media/KySrurVQTjRSGCI0Pn/giphy.gif" width="25px">     | 💻 | 💾| [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 
 
 ## Doc
@@ -531,7 +531,6 @@ _En este ejemplo_
 | 024 | [Estructuras basicas](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Estructuras%20Basicas)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 | 025 | [Estructuras anidadas](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Estructuras%20anidadas)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 | 026 | [Estrutura Ejercicio - CategoriaCorredor ](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Estrutura%20Ejercicio%20-%20CategoriaCorredor)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
-| 027 | [Estructuras- Empleado con mayor y menor salario ](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Estructuras%20EjercicioII-EmpleadoMayorMenorSalario)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 ---
 
