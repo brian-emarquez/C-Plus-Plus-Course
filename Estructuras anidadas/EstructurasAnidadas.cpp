@@ -1,37 +1,37 @@
 #include<iostream>
-#include<stdio.h>
+#include<conio.h>
 #include "Header.h"
 
 using namespace std;
 
 int main() {
 	for (int i = 0; i < 2; i++) {
-		fflush(stdin); ////vacias el buffer y permite doigitalizar valor
+		fflush(stdin); //vacia los espacios buffer
 		cout << "Digite su nombre: ";
 		cin.getline(empleados[i].nombre, 20, '\n');
-		cout << "Digite su direccion : ";
-		cin.getline(empleados[i].dir_empleado.direccion, '\n');
+		cout << "Digite su direccion: ";
+		cin.getline(empleados[i].dir_empleado.direccion, 30, '\n');
 		cout << "Ciudad: ";
 		cin.getline(empleados[i].dir_empleado.cuidad, 20, '\n');
-		cout << "Provincia";
+		cout << "Provincia: ";
 		cin.getline(empleados[i].dir_empleado.provincia, 20 ,'\n');
 		cout << "Salario: ";
 		cin >> empleados[i].salario;
 		cout <<"\n";
 	}
 
-//imprimiento los datos
+//imp
 
 	for (int i = 0; i < 2; i++) {
-		cout << "Nombre: " << empleados[i].nombre;
-		cout << "Direccion: " << empleados[i].dir_empleado.direccion;
-		cout << "Cuidad: " << empleados[i].dir_empleado.cuidad;
-		cout << "provincia: " << empleados[i].dir_empleado.provincia;
-		cout << "salario: " << empleados[i].salario;
+		cout << "Nombre: " << empleados[i].nombre<<endl;
+		cout << "Direccion: " << empleados[i].dir_empleado.direccion << endl;
+		cout << "Cuidad: " << empleados[i].dir_empleado.cuidad << endl;
+		cout << "provincia: " << empleados[i].dir_empleado.provincia << endl;
+		cout << "salario: " << empleados[i].salario << endl;
 		cout << "\n";
 
 	}
 
-	system("pause");
+	_getch();
 	return 0;
 }
