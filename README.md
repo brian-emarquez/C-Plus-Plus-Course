@@ -551,10 +551,10 @@ _En este ejemplo_
 
 |Numeration| File                    | Link |    Home   |  Code       | Version      | Estado     |
 |:--------:|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| 029 | [Funciones ](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Funciones2)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
-| 030 | [Funciones PLantillas de fucion](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Estructuras%20anidadas)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
-| 031 | [Funciones Ejercicio I Multiplicacion](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Funciones2-Ejercicio)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
-| 032 | [Funciones Ejercicio II Potencia](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Funciones2-EjercicioII-ElevacionNumero)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+| 029 | [Funciones ](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Funciones2)          |      ✔️     |  [⬅️Atras](#Funciones) | yes | yes | ✔️ |
+| 030 | [Funciones PLantillas de fucion](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Estructuras%20anidadas)          |      ✔️     |  [⬅️Atras](#Funciones) | yes | yes | ✔️ |
+| 031 | [Funciones Ejercicio I Multiplicacion](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Funciones2-Ejercicio)          |      ✔️     |  [⬅️Atras](#Funciones) | yes | yes | ✔️ |
+| 032 | [Funciones Ejercicio II Potencia](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Funciones2-EjercicioII-ElevacionNumero)          |      ✔️     |  [⬅️Atras](#Funciones) | yes | yes | ✔️ |
 
 
 ---
@@ -564,13 +564,13 @@ _En este ejemplo_
 
 |Numeration| File                 | Link |    Home   |  Code       | Version      | Estado     |
 |:--------:|:---------------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| A1 | [Licencias](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Licencias)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+| A1 | [Licencias](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Licencias)          |      ✔️     |  [⬅️Atras](#Doc) | yes | yes | ✔️ |
 
 ## Paradigmas de Programacion
 
 |Numeration| File                 | Link |    Home   |  Code       | Version      | Estado     |
 |:--------:|:---------------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| A2 | [Paradigmas de Programacion](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Paradigmas%20de%20Programacion)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+| A2 | [Paradigmas de Programacion](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Paradigmas%20de%20Programacion)          |      ✔️     |  [⬅️Atras](#Doc) | yes | yes | ✔️ |
 
 ---
 
