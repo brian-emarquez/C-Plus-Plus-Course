@@ -99,22 +99,14 @@ Es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La inte
 |  A1   | :heavy_check_mark: |[Licencias](#Licencias)    |<img src="https://media0.giphy.com/media/KySrurVQTjRSGCI0Pn/giphy.gif" width="25px">     | 💻 | 💾| [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  A1   | :heavy_check_mark: |[Paradigmas de Programacion](#Paradigmas-de-Programacion)    |<img src="https://media0.giphy.com/media/KySrurVQTjRSGCI0Pn/giphy.gif" width="25px">     | 💻 | 💾| [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 
-
-## C#
-
-| Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
-| ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
-|  B1   | :heavy_check_mark: | [C Sharp](C-Sharp)         |<img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">     | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  B2   | :heavy_check_mark: | [Hola Mundo C Sharp]([Hola-Mundo-C-Sharp)         |<img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">     | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-
-
+## Aditional
 
 | Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
-|  C1   |:heavy_check_mark: | [Play List Spotify](#Spotify)   | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px">      |:hourglass:     | 💻 | 💾 |[ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  C2   |:heavy_check_mark: | [Book](#book)  | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px">    | :hourglass:     | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  C3   |:heavy_check_mark: | [Games](#games)   | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px">     | :hourglass:     | 💻 | 💾 |[ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  C4   |:heavy_check_mark: | [Indice TIOBE](#Indice-TIOBE)   | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px">     | :hourglass:     | 💻 | 💾 |[ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  B1   |:heavy_check_mark: | [Play List Spotify](#Spotify)   | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px">      |:hourglass:     | 💻 | 💾 |[ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  B2   |:heavy_check_mark: | [Book](#book)  | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px">    | :hourglass:     | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  B3   |:heavy_check_mark: | [Games](#games)   | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px">     | :hourglass:     | 💻 | 💾 |[ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  B4   |:heavy_check_mark: | [Indice TIOBE](#Indice-TIOBE)   | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px">     | :hourglass:     | 💻 | 💾 |[ ⬅️ Atras](https://github.com/BrianMarquez3) |
 
 
  
@@ -522,7 +514,6 @@ _En este ejemplo_
 
 ### Busqueda Binaria 
 
-
 | File                    | Link |    Home   |  Code       | Version      | Estado     |
 |-------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Busqueda Binaria](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Busqueda%20Binaia)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
@@ -532,7 +523,7 @@ _En este ejemplo_
 ## Estructuras
 
 |Numeration| File                    | Link |    Home   |  Code       | Version      | Estado     |
-|:--------:|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|:--------:|:------------------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | 024 | [Estructuras basicas](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Estructuras%20Basicas)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 | 025 | [Estructuras anidadas](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Estructuras%20anidadas)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 | 026 | [Estrutura Ejercicio - CategoriaCorredor ](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Estrutura%20Ejercicio%20-%20CategoriaCorredor)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
@@ -595,7 +586,7 @@ Dentro de los competidores más destacados de SQL Server están: Oracle, MariaDB
 
 ---
 
-## C# Training
+## C Sharp Training
 
 <p> 
 Es un lenguaje de programación multiparadigma desarrollado y estandarizado por la empresa Microsoft como parte de su plataforma .NET, que después fue aprobado como un estándar por la ECMA (ECMA-334) e ISO (ISO/IEC 23270). C# es uno de los lenguajes de programación diseñados para la infraestructura de lenguaje común.
@@ -657,6 +648,8 @@ _Link de Descarga_<!--📦 [Install .EXE ](https://raw.githubusercontent.com/C-P
 [ Aprende Programación en C++ Básico - Intermedio - Avanzado | Alejandro Miguel Taboada](https://www.udemy.com/course/resolviendo-problemas-con-c/)
 
 ![c++](./images/c++course.png)
+
+---
 
 ## Indice TIOBE
 
