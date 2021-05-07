@@ -468,8 +468,8 @@ _En este ejemplo_
 
 ## Modificadores de Acceso
 
-| File                       | Link        |    Home     |  Version    | Estado      |
-|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|
+| File                       | Link        |    Home     |  Version    | Estado      | Atras       |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |[public](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Public)   |      ✔️     |  yes | yes | ✔️ |[⬅️Atras](#Tabla-de-contenidos) |
 |[private](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Private)   |      ✔️     |  yes | yes | ✔️ |[⬅️Atras](#Tabla-de-contenidos) |
 |[Protected](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Protected)   |      ✔️     |  yes | yes | ✔️ |[⬅️Atras](#Tabla-de-contenidos) |
@@ -487,23 +487,23 @@ _En este ejemplo_
 | [Metodo Burbuja ](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Ordenamientos%20%20-%20M%C3%A9todo%20Burbuja)          |      ✔️     |  yes | yes | ✔️ |  [⬅️Atras](#Tabla-de-contenidos) |
 
 ### Metodo Burbuja Recursivo
- 
-| File                    | Link |    Home   |  Code       | Version      | Estado     |
+
+| File                       | Link        |    Code     | Version     | Estado      | Atras       |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Metodo Burbuja Recursivo](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Ordenamientos%20%20-%20Metodo%20Burbuja%20Recursivo)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+| [Metodo Burbuja Recursivo](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Ordenamientos%20%20-%20Metodo%20Burbuja%20Recursivo)          |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
 
 ### Ordenamiento por Selección 
 
-| File                    | Link |    Home   |  Code       | Version      | Estado     |
+| File                       | Link        |   Code      | Version     | Estado      |atras        |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Ordenamiento por Selección ](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Ordenamiento%20por%20Selecci%C3%B3n)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+| [Ordenamiento por Selección ](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Ordenamiento%20por%20Selecci%C3%B3n)          |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
 
 
 ### Ordenamiento por Insercion
 
-| File                    | Link |    Home   |  Code       | Version      | Estado     |
+| File                       | Link        |   Code      | Version     | Estado      |Atras        |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Ordenamiento por Insercion](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Ordenamiento-porInsercion)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+| [Ordenamiento por Insercion](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Ordenamiento-porInsercion)          |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
 
 
 ---
