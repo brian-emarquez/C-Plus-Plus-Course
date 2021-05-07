@@ -522,12 +522,12 @@ _En este ejemplo_
 
 ## Estructuras
 
-|Numeration| File                    | Link |    Home   |  Code       | Version      | Estado     |
-|:--------:|:------------------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| 024 | [Estructuras basicas](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Estructuras%20Basicas)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
-| 025 | [Estructuras anidadas](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Estructuras%20anidadas)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
-| 026 | [Estrutura Ejercicio - CategoriaCorredor ](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Estrutura%20Ejercicio%20-%20CategoriaCorredor)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
-| 027 | [Estructuras Ejercicio Empleado Mayor Menor Salario ](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Estructuras%20EjercicioII-EmpleadoMayorMenorSalario)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+|Numeration| File                    | Link |     Code       | Version      | Estado     | Atras |
+|:--------:|:------------------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| 024 | [Estructuras basicas](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Estructuras%20Basicas)          |      ✔️     |   yes | yes | ✔️ |[⬅️Atras](#Estructuras) |
+| 025 | [Estructuras anidadas](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Estructuras%20anidadas)          |      ✔️     |   yes | yes | ✔️ |[⬅️Atras](#Estructuras) |
+| 026 | [Estrutura Ejercicio - CategoriaCorredor ](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Estrutura%20Ejercicio%20-%20CategoriaCorredor)          |      ✔️     |  yes | yes | ✔️ |[⬅️Atras](#Estructuras) |
+| 027 | [Estructuras Ejercicio Empleado Mayor Menor Salario ](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Estructuras%20EjercicioII-EmpleadoMayorMenorSalario)          |      ✔️     |  yes | yes | ✔️ |[⬅️Atras](#Estrucutras) |
 
 
 ## Funciones 
@@ -547,7 +547,8 @@ _En este ejemplo_
     </td>
   </tr>
 </table>
-   
+
+---   
 
 |Numeration| File                    | Link |    Code       | Version      | Estado     | Atras |
 |:--------:|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
