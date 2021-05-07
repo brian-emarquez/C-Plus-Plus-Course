@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Private"
   ],
-  "SelectedNode": "\\Public",
+  "SelectedNode": "\\Private\\Private.sln",
   "PreviewInSolutionExplorer": true
 }
