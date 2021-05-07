@@ -394,14 +394,14 @@ Utilizando Interfas Grafica
 
 ## Funciones Predeterminadas 
 
-| File                   | Link |    Home   |  Code       | Version      | Estado     |
-|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:
-|[Funciones](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Funciones)   |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |yes | yes | ✔️ |
-|[Funciones II](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Funciones%20II%20-%20una%20clase%20con%20una%20funcion%20miembro)   |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |yes | yes | ✔️ |
-|[Funciones III](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Funciones%20III%20-%20miembros%20de%20datos)   |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |yes | yes | ✔️ |
-|[Funciones IV](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Funciones%20IV%20-Objetos%20mediante%20Constructores)  |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |yes | yes | ✔️ |
-|[Funciones V](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Funciones%20V%20-%20Colocar%20una%20clase%20en%20un%20harchivo%20separado)   |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |yes | yes | ✔️ |
-|[Funciones VI](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Funciones%20VI%20-%20Separa%20la%20interfaz%20de%20la%20implementacion)   |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |yes | yes | ✔️ |
+| File                       | Link        |   Code      | Version     | Estado      | Atras       |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|[Funciones](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Funciones)   |      ✔️     |  yes | yes | ✔️ |[⬅️Atras](#Tabla-de-contenidos) |
+|[Funciones II](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Funciones%20II%20-%20una%20clase%20con%20una%20funcion%20miembro)   |      ✔️     | yes | yes | ✔️ |[⬅️Atras](#Tabla-de-contenidos) |
+|[Funciones III](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Funciones%20III%20-%20miembros%20de%20datos)   |      ✔️     |  yes | yes | ✔️ |[⬅️Atras](#Tabla-de-contenidos) |
+|[Funciones IV](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Funciones%20IV%20-Objetos%20mediante%20Constructores)  |      ✔️     | yes | yes | ✔️ |[⬅️Atras](#Tabla-de-contenidos) |
+|[Funciones V](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Funciones%20V%20-%20Colocar%20una%20clase%20en%20un%20harchivo%20separado)   |      ✔️     |  yes | yes | ✔️ |[⬅️Atras](#Tabla-de-contenidos) |
+|[Funciones VI](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Funciones%20VI%20-%20Separa%20la%20interfaz%20de%20la%20implementacion)   |      ✔️     | yes | yes | ✔️ |[⬅️Atras](#Tabla-de-contenidos) |
 
 
 ## Constructores
@@ -460,19 +460,19 @@ _En este ejemplo_
 - Suma es un método y una función
 
 
-| File                       | Link |    Home   |  Code       | Version      | Estado     |
-|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:
-|[Constructores](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Constructores)   |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |yes | yes | ✔️ |
-|[Constructoes y Modificadores](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Constructoes%20y%20Modificadores)   |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |yes | yes | ✔️ |
+| File                       | Link        |  Code       | Version     | Estado     | Atras       |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:----------:|
+|[Constructores](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Constructores)   |      ✔️     | yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
+|[Constructoes y Modificadores](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Constructoes%20y%20Modificadores)   |      ✔️     | yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
 
 
 ## Modificadores de Acceso
 
-| File                   | Link |    Home   |  Code       | Version      | Estado     |
-|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:
-|[public](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Public)   |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |yes | yes | ✔️ |
-|[private](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Private)   |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |yes | yes | ✔️ |
-|[Protected](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Protected)   |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |yes | yes | ✔️ |
+| File                       | Link        |    Home     |  Version    | Estado      |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|
+|[public](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Public)   |      ✔️     |  yes | yes | ✔️ |[⬅️Atras](#Tabla-de-contenidos) |
+|[private](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Private)   |      ✔️     |  yes | yes | ✔️ |[⬅️Atras](#Tabla-de-contenidos) |
+|[Protected](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Protected)   |      ✔️     |  yes | yes | ✔️ |[⬅️Atras](#Tabla-de-contenidos) |
 
 
 ---
@@ -482,9 +482,9 @@ _En este ejemplo_
 ![c++](./images/ordenamientos.png) 
 ### Metodo Burbuja
 
-| File                   | Link |    Home   |  Code       | Version      | Estado     |
-|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Metodo Burbuja ](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Ordenamientos%20%20-%20M%C3%A9todo%20Burbuja)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+| File                       | Link        |    Version  | Estado      | Atras       |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Metodo Burbuja ](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Ordenamientos%20%20-%20M%C3%A9todo%20Burbuja)          |      ✔️     |  yes | yes | ✔️ |  [⬅️Atras](#Tabla-de-contenidos) |
 
 ### Metodo Burbuja Recursivo
  
