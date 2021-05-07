@@ -409,6 +409,12 @@ Utilizando Interfas Grafica
 |[Funciones V](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Funciones%20V%20-%20Colocar%20una%20clase%20en%20un%20harchivo%20separado)   |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |yes | yes | ✔️ |
 |[Funciones VI](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Funciones%20VI%20-%20Separa%20la%20interfaz%20de%20la%20implementacion)   |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |yes | yes | ✔️ |
 
+| File                   | Link |    Home   |  Code       | Version      | Estado     |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:
+|[Funciones 2 ](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Funciones2)   |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |yes | yes | ✔️ |
+|[Funciones 2 - Plantillas de Funcion](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Funciones2%20-%20Plantillas%20de%20Funcion)   |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |yes | yes | ✔️ |
+
+
 ## Constructores
 
 <table>
