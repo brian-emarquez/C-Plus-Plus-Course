@@ -14,15 +14,12 @@
   </a>
     <img src="https://img.shields.io/github/v/tag/BrianMarquez3/C-Plus-Plus-Course?color=gren&label=Version&logo=c++">
   </a>
-  
   </a>
     <img src="https://img.shields.io/github/languages/code-size/BrianMarquez3/C-Plus-Plus-Course">
   </a>
-  
   </a>
     <img src="https://img.shields.io/github/downloads/BrianMarquez3/C-Plus-Plus-Course/total?color=violet">
   </a>
-  
    </a>
    <a href="https://github.com/BrianMarquez3/C-Plus-Plus-Course/network">
     <img src="https://img.shields.io/badge/Plataform-Windows-blue">
@@ -30,7 +27,6 @@
  
   <img src="https://img.shields.io/github/last-commit/BrianMarquez3/C-Plus-Plus-Course?color=darkblue&style=for-the-badge">
   <img src="https://img.shields.io/github/languages/count/BrianMarquez3/C-Plus-Plus-Course?style=for-the-badge">
-
   </a>
 </p>
   
@@ -66,38 +62,54 @@ Es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La inte
 |  015   |:heavy_check_mark: | [Cadenas](#Cadenas)   | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">    | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |      
 |  016   |:heavy_check_mark: | [Funciones](#Funciones)   | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">     | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |   
 |  017   |:heavy_check_mark: | [Constructores ](#Constructores)   | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">     | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  018   |:heavy_check_mark: | [Modificadores de Acceso ](#Modificadores-de-Acceso)   | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">     | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+
 
 ## Ordenamientos
 
 | Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
-|  018   | :heavy_check_mark: |[Metodo Burbuja](#Metodo-Burbuja)    |<img src="https://media0.giphy.com/media/KySrurVQTjRSGCI0Pn/giphy.gif" width="25px">     | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  019   | :heavy_check_mark: |[Metodo Burbuja Recursivo](#Metodo-Burbuja-Recursivo)    |<img src="https://media0.giphy.com/media/KySrurVQTjRSGCI0Pn/giphy.gif" width="25px">     | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  020   | :heavy_check_mark: |[Ordenamiento por Selección](#Ordenamiento-por-Selección)    |<img src="https://media0.giphy.com/media/KySrurVQTjRSGCI0Pn/giphy.gif" width="25px">     | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  021   | :heavy_check_mark: |[Ordenamiento por Insercion](#Ordenamiento-por-Insercion)    |<img src="https://media0.giphy.com/media/KySrurVQTjRSGCI0Pn/giphy.gif" width="25px">    | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  019   | :heavy_check_mark: |[Metodo Burbuja](#Metodo-Burbuja)    |<img src="https://media0.giphy.com/media/KySrurVQTjRSGCI0Pn/giphy.gif" width="25px">     | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  020   | :heavy_check_mark: |[Metodo Burbuja Recursivo](#Metodo-Burbuja-Recursivo)    |<img src="https://media0.giphy.com/media/KySrurVQTjRSGCI0Pn/giphy.gif" width="25px">     | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  021   | :heavy_check_mark: |[Ordenamiento por Selección](#Ordenamiento-por-Selección)    |<img src="https://media0.giphy.com/media/KySrurVQTjRSGCI0Pn/giphy.gif" width="25px">     | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  022   | :heavy_check_mark: |[Ordenamiento por Insercion](#Ordenamiento-por-Insercion)    |<img src="https://media0.giphy.com/media/KySrurVQTjRSGCI0Pn/giphy.gif" width="25px">    | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 
 ## Busquedas
 
 | Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
-|  022   | :heavy_check_mark: |[Busqueda-Binaria](#Busqueda-Binaria)    |<img src="https://media0.giphy.com/media/KySrurVQTjRSGCI0Pn/giphy.gif" width="25px">     | 💻 | 💾| [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  023   | :heavy_check_mark: |[Busqueda-Binaria](#Busqueda-Binaria)    |<img src="https://media0.giphy.com/media/KySrurVQTjRSGCI0Pn/giphy.gif" width="25px">     | 💻 | 💾| [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 
-
-## Contenido Extras
-### C#
+## Estructuras
 
 | Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
-|  024   | :heavy_check_mark: | [C Sharp](C-Sharp)         |<img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">     | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  025   | :heavy_check_mark: | [Hola Mundo C Sharp]([Hola-Mundo-C-Sharp)         |<img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">     | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  024-026   | :heavy_check_mark: |[Estructuras](#Estructuras)    |<img src="https://media0.giphy.com/media/KySrurVQTjRSGCI0Pn/giphy.gif" width="25px">     | 💻 | 💾| [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+
+
+## Doc
+
+| Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
+| ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
+|  A1   | :heavy_check_mark: |[Licencias](#Licencias)    |<img src="https://media0.giphy.com/media/KySrurVQTjRSGCI0Pn/giphy.gif" width="25px">     | 💻 | 💾| [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  A1   | :heavy_check_mark: |[Paradigmas de Programacion](#Paradigmas-de-Programacion)    |<img src="https://media0.giphy.com/media/KySrurVQTjRSGCI0Pn/giphy.gif" width="25px">     | 💻 | 💾| [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+
+
+## C#
+
+| Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
+| ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
+|  B1   | :heavy_check_mark: | [C Sharp](C-Sharp)         |<img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">     | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  B2   | :heavy_check_mark: | [Hola Mundo C Sharp]([Hola-Mundo-C-Sharp)         |<img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">     | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 
 ---
+
 | Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
-|  B1   |:heavy_check_mark: | [Play List Spotify](#Spotify)   | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px">      |:hourglass:     | 💻 | 💾 |[ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  B2   |:heavy_check_mark: | [Book](#book)  | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px">    | :hourglass:     | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  B3   |:heavy_check_mark: | [Games](#games)   | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px">     | :hourglass:     | 💻 | 💾 |[ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  B4   |:heavy_check_mark: | [Indice TIOBE](#Indice-TIOBE)   | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px">     | :hourglass:     | 💻 | 💾 |[ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  C1   |:heavy_check_mark: | [Play List Spotify](#Spotify)   | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px">      |:hourglass:     | 💻 | 💾 |[ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  C2   |:heavy_check_mark: | [Book](#book)  | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px">    | :hourglass:     | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  C3   |:heavy_check_mark: | [Games](#games)   | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px">     | :hourglass:     | 💻 | 💾 |[ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  C4   |:heavy_check_mark: | [Indice TIOBE](#Indice-TIOBE)   | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px">     | :hourglass:     | 💻 | 💾 |[ ⬅️ Atras](https://github.com/BrianMarquez3) |
 
 ---
  
@@ -374,7 +386,7 @@ Utilizando Interfas Grafica
 
 ## Cadenas  
 
- | Carpeta                   | Link         |    Home   |  Code        | Version     | Estado     |
+ | File                   | Link         |    Home   |  Code        | Version     | Estado     |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:
 |[Logitud de Cadena](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Logitud%20de%20Cadena)   |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |yes | yes | ✔️ |
 |[Cadenas - Comparar cadenas](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Cadenas%20-%20Comparar%20cadenas)   |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |yes | yes | ✔️ |
@@ -388,7 +400,7 @@ Utilizando Interfas Grafica
 
 ## Funciones      
 
-| Carpeta                   | Link |    Home   |  Code       | Version      | Estado     |
+| File                   | Link |    Home   |  Code       | Version      | Estado     |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:
 |[Funciones](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Funciones)   |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |yes | yes | ✔️ |
 |[Funciones II](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Funciones%20II%20-%20una%20clase%20con%20una%20funcion%20miembro)   |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |yes | yes | ✔️ |
@@ -451,36 +463,48 @@ _En este ejemplo_
 - Suma es un método y una función
 
 
-| Carpeta                   | Link |    Home   |  Code       | Version      | Estado     |
+| File                       | Link |    Home   |  Code       | Version      | Estado     |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:
 |[Constructores](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Constructores)   |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |yes | yes | ✔️ |
 |[Constructoes y Modificadores](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Constructoes%20y%20Modificadores)   |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |yes | yes | ✔️ |
+
+
+## Modificadores de Acceso
+
+| File                   | Link |    Home   |  Code       | Version      | Estado     |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:
+|[public](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Public)   |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |yes | yes | ✔️ |
+|[private](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Private)   |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |yes | yes | ✔️ |
+|[Protected](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Protected)   |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |yes | yes | ✔️ |
+
+
+---
 
 ## Ordenamientos
 
 ![c++](./images/ordenamientos.png) 
 ### Metodo Burbuja
 
-| Carpeta                    | Link |    Home   |  Code       | Version      | Estado     |
+| File                   | Link |    Home   |  Code       | Version      | Estado     |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Metodo Burbuja ](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Ordenamientos%20%20-%20M%C3%A9todo%20Burbuja)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 ### Metodo Burbuja Recursivo
  
-| Carpeta                    | Link |    Home   |  Code       | Version      | Estado     |
+| File                    | Link |    Home   |  Code       | Version      | Estado     |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Metodo Burbuja Recursivo](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Ordenamientos%20%20-%20Metodo%20Burbuja%20Recursivo)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 ### Ordenamiento por Selección 
 
-| Carpeta                    | Link |    Home   |  Code       | Version      | Estado     |
+| File                    | Link |    Home   |  Code       | Version      | Estado     |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Ordenamiento por Selección ](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Ordenamiento%20por%20Selecci%C3%B3n)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 
 ### Ordenamiento por Insercion
 
-| Carpeta                    | Link |    Home   |  Code       | Version      | Estado     |
+| File                    | Link |    Home   |  Code       | Version      | Estado     |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Ordenamiento por Insercion](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Ordenamiento-porInsercion)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
@@ -494,26 +518,36 @@ _En este ejemplo_
 ### Busqueda Binaria 
 
 
-| Carpeta                    | Link |    Home   |  Code       | Version      | Estado     |
-|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| File                    | Link |    Home   |  Code       | Version      | Estado     |
+|-------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Busqueda Binaria](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Busqueda%20Binaia)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 ---
 
-## Contenido Extras
-## C-Sharp
+## Estructuras
 
-Es un lenguaje de programación multiparadigma desarrollado y estandarizado por la empresa Microsoft como parte de su plataforma .NET, que después fue aprobado como un estándar por la ECMA (ECMA-334) e ISO (ISO/IEC 23270). C# es uno de los lenguajes de programación diseñados para la infraestructura de lenguaje común. [Wikipedia](#https://es.wikipedia.org/wiki/C_Sharp)
+|Numeration| File                    | Link |    Home   |  Code       | Version      | Estado     |
+|:--------:|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| 024 | [Estructuras basicas](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Estructuras%20Basicas)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+| 025 | [Estructuras anidadas](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Estructuras%20anidadas)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+| 026 | [Estrutura Ejercicio - CategoriaCorredor ](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Estrutura%20Ejercicio%20-%20CategoriaCorredor)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
-### Hola Mundo C Sharp
+---
 
-- Aplicaciones de Consola
-- Aplicaciones de Escritorio
-- Aplicaiones Web
+## Doc
+### Licencias
 
-| Carpeta                    | Link |    Home   |  Code       | Version      | Estado     |
-|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Hola Mundo en C#](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/PrimeraAplicacionC%23)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+|Numeration| File                 | Link |    Home   |  Code       | Version      | Estado     |
+|:--------:|:---------------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| A1 | [Licencias](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Licencias)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+
+## Paradigmas de Programacion
+
+|Numeration| File                 | Link |    Home   |  Code       | Version      | Estado     |
+|:--------:|:---------------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| A2 | [Paradigmas de Programacion](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Paradigmas%20de%20Programacion)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+
+---
 
 ## SQL Server
 
@@ -523,9 +557,20 @@ El lenguaje de desarrollo utilizado (por línea de comandos o mediante la interf
 
 Dentro de los competidores más destacados de SQL Server están: Oracle, MariaDB, MySQL, PostgreSQL. SQL Server ha estado tradicionalmente disponible solo para sistemas operativos Windows de Microsoft, pero desde 2016 está disponible para GNU/Linux,2​3​ y a partir de 2017 para Docker también.
 
-* Curso de SQL SERVER [SQL SERVER Link repository](https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER)
+<a href="https://github.com/BrianMarquez3/Learning-Microsoft-SQL-SERVER">SQL Server Repository</a>.
 
 ---
+
+## C# Training
+
+<p> 
+Es un lenguaje de programación multiparadigma desarrollado y estandarizado por la empresa Microsoft como parte de su plataforma .NET, que después fue aprobado como un estándar por la ECMA (ECMA-334) e ISO (ISO/IEC 23270). C# es uno de los lenguajes de programación diseñados para la infraestructura de lenguaje común.
+</p>
+
+<a href="https://github.com/BrianMarquez3/C-Sharp-Training">C# Repository Course Programming in Visual C# Programming Course with .NET Visual Studio</a>.
+
+---
+
 ## Spotify
 
 🎵 Music C++ [List on Spotify 🎤](https://open.spotify.com/playlist/5WeJBsezZBzGxr3bI0k68e?si=-ZU7O8zrSp-7hQolKhZF4A)
@@ -550,7 +595,7 @@ Dentro de los competidores más destacados de SQL Server están: Oracle, MariaDB
       <td>Paul Deitel, Harvel Deitel</td>
       <td>Novena Edicion</td>
       <td>978-607-32-2739-1</td>
-      <td><a href="https://dubox.com/s/1vJkFWmJbmcJlj7TRpg5tQQ">Learning Perl</a></td>
+      <td><a href="https://dubox.com/s/1vJkFWmJbmcJlj7TRpg5tQQ">C++ Como Programar</a></td>
       <td>i4wn</td>
   </tr>
 

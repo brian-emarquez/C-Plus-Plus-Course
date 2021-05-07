@@ -13,8 +13,8 @@ int main()
 
     obj.radius = 5.5;
 
-    cout << "Radius is: " << obj.radius << "\n";
-    cout << "Area is: " << obj.compute_area();
+    cout << "Radius es: " << obj.radius << "\n";
+    cout << "Area es: " << obj.compute_area();
     system("pause");
     return 0;
 
