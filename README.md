@@ -60,7 +60,7 @@ Es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La inte
 |  013   |:heavy_check_mark: | [Arreglos](#Arreglos)   | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">     | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  014   |:heavy_check_mark: | [Matrices o Tablas](#Matrices-o-Tablas)   | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">    | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |       
 |  015   |:heavy_check_mark: | [Cadenas](#Cadenas)   | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">    | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |      
-|  016   |:heavy_check_mark: | [Funciones](#Funciones)   | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">     | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |   
+|  016   |:heavy_check_mark: | [Funciones Basicas](#Funcione-Basicas)   | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">     | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |   
 |  017   |:heavy_check_mark: | [Constructores ](#Constructores)   | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">     | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  018   |:heavy_check_mark: | [Modificadores de Acceso ](#Modificadores-de-Acceso)   | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">     | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 
@@ -85,6 +85,15 @@ Es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La inte
 | Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
 |  024-027   | :heavy_check_mark: |[Estructuras](#Estructuras)    |<img src="https://media0.giphy.com/media/KySrurVQTjRSGCI0Pn/giphy.gif" width="25px">     | 💻 | 💾| [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+
+## Funciones 
+
+| File                   | Link |    Home   |  Code       | Version      | Estado     |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:
+| Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
+| ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
+|  028   | :heavy_check_mark: |[Funciones](#Funciones)    |<img src="https://media0.giphy.com/media/KySrurVQTjRSGCI0Pn/giphy.gif" width="25px">     | 💻 | 💾| [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+
 
 
 ## Doc
@@ -398,7 +407,7 @@ Utilizando Interfas Grafica
 |[Cadenas - Pasar un palabra a MAYUSCULAS](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Cadenas%20-%20Pasar%20un%20palabra%20a%20MAYUSCULAS)   |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |yes | yes | ✔️ |
 |[Cadenas - Transformar una Cadena a numeros](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Cadenas%20-%20Transformar%20una%20Cadena%20a%20numeros)   |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |yes | yes | ✔️ |
 
-## Funciones      
+## Funcione Basicas 
 
 | File                   | Link |    Home   |  Code       | Version      | Estado     |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:
@@ -408,11 +417,6 @@ Utilizando Interfas Grafica
 |[Funciones IV](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Funciones%20IV%20-Objetos%20mediante%20Constructores)  |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |yes | yes | ✔️ |
 |[Funciones V](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Funciones%20V%20-%20Colocar%20una%20clase%20en%20un%20harchivo%20separado)   |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |yes | yes | ✔️ |
 |[Funciones VI](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Funciones%20VI%20-%20Separa%20la%20interfaz%20de%20la%20implementacion)   |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |yes | yes | ✔️ |
-
-| File                   | Link |    Home   |  Code       | Version      | Estado     |
-|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:
-|[Funciones 2 ](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Funciones2)   |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |yes | yes | ✔️ |
-|[Funciones 2 - Plantillas de Funcion](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Funciones2%20-%20Plantillas%20de%20Funcion)   |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) |yes | yes | ✔️ |
 
 
 ## Constructores
@@ -442,10 +446,12 @@ Utilizando Interfas Grafica
 
 ### Nota
 
+```
 - Procedimiento: Es un conjunto de instrucciones que cumplen una tarea
 - Función: Como un procedimiento pero retorna un valor
 - Clase: Concepto de programación orientada a objetos, es una forma de encapsular funcionalidad, contiene campos y métodos.
 - Método: Puede ser un procedimiento o una función, la diferencia es que le pertenece a una clase.
+```
 
 ```c++
 public class ConsoleTest
@@ -538,6 +544,13 @@ _En este ejemplo_
 | 025 | [Estructuras anidadas](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Estructuras%20anidadas)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 | 026 | [Estrutura Ejercicio - CategoriaCorredor ](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Estrutura%20Ejercicio%20-%20CategoriaCorredor)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 | 027 | [Estructuras Ejercicio Empleado Mayor Menor Salario ](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Estructuras%20EjercicioII-EmpleadoMayorMenorSalario)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+
+
+#35 
+
+
+
+
 
 ---
 
