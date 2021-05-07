@@ -546,10 +546,29 @@ _En este ejemplo_
 | 027 | [Estructuras Ejercicio Empleado Mayor Menor Salario ](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Estructuras%20EjercicioII-EmpleadoMayorMenorSalario)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 
-#35 
+## Funciones 
 
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/template.png" />
+    </td>
+  </tr>
+</table>
+   
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/funcionesEjercicio1.png" />
+    </td>
+  </tr>
+</table>
+   
 
-
+|Numeration| File                    | Link |    Home   |  Code       | Version      | Estado     |
+|:--------:|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| 029 | [Funciones ](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Funciones2)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+| 030 | [Funciones PLantillas de fucion](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Estructuras%20anidadas)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 
 ---
