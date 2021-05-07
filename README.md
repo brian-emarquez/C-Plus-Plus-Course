@@ -46,15 +46,15 @@ Es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La inte
 
 | Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
-|  001   |:heavy_check_mark: | [Bjarne Stroustrup](#bjarne-stroustrup)   | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">   | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3)| 
-|  003   |:heavy_check_mark: | [Caracteristicas](#caracteristicas)   | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">     | 💻 | 💾 |[ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  004   |:heavy_check_mark: | [Ejemplo](#ejemplo)   | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">     | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  005   |:heavy_check_mark: | [Tipo de datos](#tipo-de-datos)   | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">     | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  006   |:heavy_check_mark: | [Instalacion en Visual Studio Code](#instalacion-en-Visual-Studio-Code)   | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">   | 💻 | 💾 |[ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  007   |:heavy_check_mark: | [Intalacion en Visual Studio](#Intalacion-en-Visual-Studio)   | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">    | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  008   |:heavy_check_mark: | [Instalacion en Visual Studio C++/CLR](#Instalacion-en-Visual-Studio-C++/CLR)  | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">    | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  009   |:heavy_check_mark: | [Introduccion y Entrada Salida](#Intalacion-en-Visual-Studio)   | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">    | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  010   |:heavy_check_mark: | [Expresiones y Operadores](#Expresiones-y-Operadores)   | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">    | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |         
+|  A   |:heavy_check_mark: | [Bjarne Stroustrup](#bjarne-stroustrup)   | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">   | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3)| 
+|  B   |:heavy_check_mark: | [Caracteristicas](#caracteristicas)   | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">     | 💻 | 💾 |[ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  C   |:heavy_check_mark: | [Ejemplo](#ejemplo)   | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">     | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  D   |:heavy_check_mark: | [Tipo de datos](#tipo-de-datos)   | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">     | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  E   |:heavy_check_mark: | [Instalacion en Visual Studio Code](#instalacion-en-Visual-Studio-Code)   | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">   | 💻 | 💾 |[ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  F   |:heavy_check_mark: | [Instalacion en Visual Studio](#Intalacion-en-Visual-Studio)   | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">    | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  G   |:heavy_check_mark: | [Instalacion en Visual Studio C++/CLR](#Instalacion-en-Visual-Studio-C++/CLR)  | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">    | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  001   |:heavy_check_mark: | [Introduccion y Entrada Salida](#Introduccion-y-Entrada-Salida)   | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">    | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  0   |:heavy_check_mark: | [Expresiones y Operadores](#Expresiones-y-Operadores)   | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">    | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |         
 |  011   |:heavy_check_mark: | [Condicionales](#Condicionales)   | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">     | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  012   |:heavy_check_mark: | [Bucles o Ciclos](#Bucles-o-Ciclos)   | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">    | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  013   |:heavy_check_mark: | [Arreglos](#Arreglos)   | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">     | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
@@ -67,7 +67,7 @@ Es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La inte
 
 ## Ordenamientos
 
-| Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
+| Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link   |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
 |  019   | :heavy_check_mark: |[Metodo Burbuja](#Metodo-Burbuja)    |<img src="https://media0.giphy.com/media/KySrurVQTjRSGCI0Pn/giphy.gif" width="25px">     | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  020   | :heavy_check_mark: |[Metodo Burbuja Recursivo](#Metodo-Burbuja-Recursivo)    |<img src="https://media0.giphy.com/media/KySrurVQTjRSGCI0Pn/giphy.gif" width="25px">     | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
@@ -82,13 +82,13 @@ Es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La inte
 
 ## Estructuras
 
-| Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
+| Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link   |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
 |  024-027   | :heavy_check_mark: |[Estructuras](#Estructuras)    |<img src="https://media0.giphy.com/media/KySrurVQTjRSGCI0Pn/giphy.gif" width="25px">     | 💻 | 💾| [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 
 ## Funciones 
 
-| Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
+| Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link   |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
 |  028   | :heavy_check_mark: |[Funciones](#Funciones)    |<img src="https://media0.giphy.com/media/KySrurVQTjRSGCI0Pn/giphy.gif" width="25px">     | 💻 | 💾| [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 
@@ -101,7 +101,7 @@ Es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La inte
 
 ## Aditional
 
-| Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
+| Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link   |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
 |  B1   |:heavy_check_mark: | [Play List Spotify](#Spotify)   | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px">      |:hourglass:     | 💻 | 💾 |[ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  B2   |:heavy_check_mark: | [Book](#book)  | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px">    | :hourglass:     | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
@@ -129,7 +129,7 @@ Es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La inte
 </table>
 
 
-<p> Bjarne Stroustrup (n. 30 de diciembre de 1950 en Aarhus, Dinamarca) es un científico de la computación y catedrático de Ciencias de la Computación en la Universidad A&M de Texas. Ha destacado por desarrollar el lenguaje de programación C++. Citando palabras del propio Stroustrup:. </p>
+<p>[A]Bjarne Stroustrup (n. 30 de diciembre de 1950 en Aarhus, Dinamarca) es un científico de la computación y catedrático de Ciencias de la Computación en la Universidad A&M de Texas. Ha destacado por desarrollar el lenguaje de programación C++. Citando palabras del propio Stroustrup:. </p>
 
 ```
 Inventé C++, escribiendo sus primeras definiciones, y produciendo la primera implementación... 
@@ -158,7 +158,7 @@ fui responsable de elaborar extensas proposiciones en el comité de estándares 
 <table>
 
   <tr>
-      <td>Características de C++ </td>
+      <td>[B] Características de C++ </td>
   </tr>
 
    <tr>
@@ -197,7 +197,8 @@ fui responsable de elaborar extensas proposiciones en el comité de estándares 
  
 
 ## Ejemplo
-A continuación se cita un programa de ejemplo [hola mundo](https://es.wikipedia.org/wiki/Hola_mundo)  escrito en C++:
+
+[C] A continuación se cita un programa de ejemplo [hola mundo](https://es.wikipedia.org/wiki/Hola_mundo)  escrito en C++:
 
 ```c++
 #include <iostream>
@@ -213,7 +214,7 @@ int main()
 
 ## Tipo de datos
 
-_C++ tiene los siguientes tipos fundamentales:_
+_[D] C++ tiene los siguientes tipos fundamentales:_
 
 | Types                                 | Description                |
 | -----------------------------------   | -------------------------- |
@@ -229,8 +230,8 @@ El modificador `unsigned` se puede aplicar a enteros para obtener números sin s
 
 ## Instalacion en Visual Studio Code
 
+[E] Descargar los siguintes archivos:<br>
 
-Descargar los siguintes archivos:<br>
 📦 [Install Mingw-w64](http://mingw-w64.org/doku.php) Instalador del mingw-w64.<br>
 
 ```
@@ -283,13 +284,14 @@ code --version
 
 ## Instalacion en Visual Studio
 
+[F]
 ![c++](./images/visualstudiohome.png)
  
 📦 [Install Visual Studio](https://visualstudio.microsoft.com/es/) Instalador de Visual Studio IDE.<br>
 
 ## Instalacion en Visual Studio C++/CLR
 
-
+[G]
 📦 [Install CLR](https://marketplace.visualstudio.com/items?itemName=RichardKaiser.CppWinformsVS2019VSIX001) Instalador de C++/CLR Visual 
 Studio
 
@@ -324,12 +326,12 @@ Utilizando Interfas Grafica
 
 ##  Introduccion y Entrada Salida
 
-| Carpeta                    | Link        |    Code     | Version     | Estado      | Atras       |
-|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Introduccion y Entrada Salida  ](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/EntradaDatos)          |      ✔️     |   yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
-| [Hola Mundo Cplus plus  ](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/HolaMundoCplusplus)          |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
-| [Calculadora](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Calculadora)          |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
-| [Cajero Automatico](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Cajero%20Automatico)          |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
+|Number| File                    | Link        |    Code     | Version     | Estado      | Atras       |
+|:----:|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|001   | [Introduccion y Entrada Salida  ](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/EntradaDatos)          |      ✔️     |   yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
+|002   | [Hola Mundo Cplus plus  ](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/HolaMundoCplusplus)          |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
+|003   | [Calculadora](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Calculadora)          |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
+|004   | [Cajero Automatico](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Cajero%20Automatico)          |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
 
  ## Expresiones y Operadores
  
