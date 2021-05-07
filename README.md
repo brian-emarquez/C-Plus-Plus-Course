@@ -107,7 +107,7 @@ Es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La inte
 |  B1   | :heavy_check_mark: | [C Sharp](C-Sharp)         |<img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">     | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  B2   | :heavy_check_mark: | [Hola Mundo C Sharp]([Hola-Mundo-C-Sharp)         |<img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">     | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 
----
+
 
 | Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
@@ -116,7 +116,7 @@ Es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La inte
 |  C3   |:heavy_check_mark: | [Games](#games)   | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px">     | :hourglass:     | 💻 | 💾 |[ ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  C4   |:heavy_check_mark: | [Indice TIOBE](#Indice-TIOBE)   | <img src="https://media.giphy.com/media/WsXaV66sPkBLoPMYQZ/giphy.gif" width="25px">     | :hourglass:     | 💻 | 💾 |[ ⬅️ Atras](https://github.com/BrianMarquez3) |
 
----
+
  
  <table align="center">
   <tr>
@@ -128,9 +128,6 @@ Es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La inte
 </table>
    
 ## Bjarne Stroustrup
-
----
-
 
 <table align="center">
   <tr>
