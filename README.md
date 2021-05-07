@@ -522,8 +522,8 @@ _En este ejemplo_
 
 ## Estructuras
 
-|Numeration| File                    | Link |     Code       | Version      | Estado     | Atras |
-|:--------:|:------------------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|Numeration| File                     | Link        |     Code    | Version      | Estado     | Atras       |
+|:--------:|:------------------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | 024 | [Estructuras basicas](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Estructuras%20Basicas)          |      ✔️     |   yes | yes | ✔️ |[⬅️Atras](#Estructuras) |
 | 025 | [Estructuras anidadas](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Estructuras%20anidadas)          |      ✔️     |   yes | yes | ✔️ |[⬅️Atras](#Estructuras) |
 | 026 | [Estrutura Ejercicio - CategoriaCorredor ](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Estrutura%20Ejercicio%20-%20CategoriaCorredor)          |      ✔️     |  yes | yes | ✔️ |[⬅️Atras](#Estructuras) |
