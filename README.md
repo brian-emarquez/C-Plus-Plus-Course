@@ -514,9 +514,9 @@ _En este ejemplo_
 
 ### Busqueda Binaria 
 
-| File                    | Link |    Home   |  Code       | Version      | Estado     |
+| File                    | Link        |    Code     | Version      | Estado     | Atras       |      
 |-------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Busqueda Binaria](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Busqueda%20Binaia)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+| [Busqueda Binaria](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Busqueda%20Binaia)          |      ✔️     |   yes | yes | ✔️ |[⬅️Atras](#Tabla-de-contenidos) |
 
 ---
 
