@@ -46,18 +46,18 @@ Es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La inte
 
 | Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
-|  A   |:heavy_check_mark: | [Bjarne Stroustrup](#bjarne-stroustrup)   | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">   | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3)| 
-|  B   |:heavy_check_mark: | [Caracteristicas](#caracteristicas)   | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">     | 💻 | 💾 |[ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  C   |:heavy_check_mark: | [Ejemplo](#ejemplo)   | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">     | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  D   |:heavy_check_mark: | [Tipo de datos](#tipo-de-datos)   | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">     | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  E   |:heavy_check_mark: | [Instalacion en Visual Studio Code](#instalacion-en-Visual-Studio-Code)   | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">   | 💻 | 💾 |[ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  F   |:heavy_check_mark: | [Instalacion en Visual Studio](#Intalacion-en-Visual-Studio)   | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">    | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  G   |:heavy_check_mark: | [Instalacion en Visual Studio C++/CLR](#Instalacion-en-Visual-Studio-C++/CLR)  | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">    | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  001   |:heavy_check_mark: | [Introduccion y Entrada Salida](#Introduccion-y-Entrada-Salida)   | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">    | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  0   |:heavy_check_mark: | [Expresiones y Operadores](#Expresiones-y-Operadores)   | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">    | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |         
-|  011   |:heavy_check_mark: | [Condicionales](#Condicionales)   | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">     | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  012   |:heavy_check_mark: | [Bucles o Ciclos](#Bucles-o-Ciclos)   | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">    | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  013   |:heavy_check_mark: | [Arreglos](#Arreglos)   | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">     | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  A     |:heavy_check_mark: | [Bjarne Stroustrup](#bjarne-stroustrup)   | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">   | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3)| 
+|  B     |:heavy_check_mark: | [Caracteristicas](#caracteristicas)   | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">     | 💻 | 💾 |[ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  C     |:heavy_check_mark: | [Ejemplo](#ejemplo)   | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">     | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  D     |:heavy_check_mark: | [Tipo de datos](#tipo-de-datos)   | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">     | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  E     |:heavy_check_mark: | [Instalacion en Visual Studio Code](#instalacion-en-Visual-Studio-Code)   | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">   | 💻 | 💾 |[ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  F     |:heavy_check_mark: | [Instalacion en Visual Studio](#Intalacion-en-Visual-Studio)   | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">    | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  G     |:heavy_check_mark: | [Instalacion en Visual Studio C++/CLR](#Instalacion-en-Visual-Studio-C++/CLR)  | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">    | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|001-004 |:heavy_check_mark: | [Introduccion y Entrada Salida](#Introduccion-y-Entrada-Salida)   | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">    | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|005-009 |:heavy_check_mark: | [Expresiones y Operadores](#Expresiones-y-Operadores)   | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">    | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |         
+|010-011 |:heavy_check_mark: | [Condicionales](#Condicionales)   | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">     | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|012-014 |:heavy_check_mark: | [Bucles o Ciclos](#Bucles-o-Ciclos)   | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">    | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|015-019 |:heavy_check_mark: | [Arreglos](#Arreglos)   | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">     | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  014   |:heavy_check_mark: | [Matrices o Tablas](#Matrices-o-Tablas)   | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">    | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |       
 |  015   |:heavy_check_mark: | [Cadenas](#Cadenas)   | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">    | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |      
 |  016   |:heavy_check_mark: | [Funciones Predeterminadas](#Funciones-Predeterminadas)   | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">     | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |   
@@ -335,40 +335,40 @@ Utilizando Interfas Grafica
 
  ## Expresiones y Operadores
  
-| Carpeta                    | Link        |    Code     | Version     | Estado      | Atras       |
-|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Operaciones 1 ](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Operaciones%201)     |      ✔️     | yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
-| [Operaciones 2](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Operaciones%202)      |      ✔️     | yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
-| [Operaciones 3](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Operaciones%203)      |      ✔️     | yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
-| [Operaciones 4](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Operaciones%204)      |      ✔️     | yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
-| [Operaciones 5](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Operaciones%205)      |      ✔️     | yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
+|Number| File                  | Link        |    Code     | Version     | Estado      | Atras       |
+|:----:|-----------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|005   | [Operaciones 1 ](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Operaciones%201)     |      ✔️     | yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
+|006   | [Operaciones 2](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Operaciones%202)      |      ✔️     | yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
+|007   | [Operaciones 3](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Operaciones%203)      |      ✔️     | yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
+|008   | [Operaciones 4](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Operaciones%204)      |      ✔️     | yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
+|009   | [Operaciones 5](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Operaciones%205)      |      ✔️     | yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
 
 
 ##  Condicionales  
 
-| Carpeta                    | Link        |      Code   | Version     | Estado      | Atras       |
-|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [IF](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Condicional%20-%20IF)     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
-| [Switch](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Condicional%20-%20Switch)   |      ✔️     | yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
+|Number| Carpeta                    | Link        |      Code   | Version     | Estado      | Atras       |
+|:----:|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|010   | [Condicional IF](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Condicional%20-%20IF)     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
+|011   | [Switch](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Condicional%20-%20Switch)   |      ✔️     | yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
 
 
 ## Bucles o Ciclos
 
-| Carpeta                    | Link        |    Code     | Version     | Estado      | Atras       |
-|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [While](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Bucle%20-%20while)     |      ✔️     | yes | yes | ✔️ |  [⬅️Atras](#Tabla-de-contenidos) |
-| [Do-While](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Bucle%20-%20Do%20While)     |      ✔️     | yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
-| [For](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Bucle%20-%20For)     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
+|Number| Carpeta                    | Link        |    Code     | Version     | Estado      | Atras       |
+|:----:|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|  012| [While](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Bucle%20-%20while)     |      ✔️     | yes | yes | ✔️ |  [⬅️Atras](#Tabla-de-contenidos) |
+|  013| [Do-While](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Bucle%20-%20Do%20While)     |      ✔️     | yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
+|  014| [For](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Bucle%20-%20For)     |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
 
 ## Arreglos     
 
- | Carpeta                   | Link        |   Code      | Version     | Estado      | Atras       |
-|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Array](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Arrays)    |      ✔️     | yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
-| [Array 2 ](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Arrays)    |      ✔️     | yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
-| [Array Almacenado de Contenido](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Array%20%20Almacenado%20de%20Contenido)    |      ✔️     | yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
-| [Array Mayor elemento](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Array%20Mayor%20elemento)    |      ✔️     | yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
-| [Array con indices](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Arrays%20con%20Indices)    |      ✔️     |  yes | yes | ✔️ |[⬅️Atras](#Tabla-de-contenidos) |
+|Number| Carpeta                   | Link        |   Code      | Version     | Estado      | Atras       |
+|:----:|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|  015 | [Array](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Arrays)    |      ✔️     | yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
+|  016| [Array 2 ](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Arrays)    |      ✔️     | yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
+|  017| [Array Almacenado de Contenido](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Array%20%20Almacenado%20de%20Contenido)    |      ✔️     | yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
+|  018| [Array Mayor elemento](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Array%20Mayor%20elemento)    |      ✔️     | yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
+|  019| [Array con indices](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Arrays%20con%20Indices)    |      ✔️     |  yes | yes | ✔️ |[⬅️Atras](#Tabla-de-contenidos) |
 
 ## Matrices o Tablas        
 
