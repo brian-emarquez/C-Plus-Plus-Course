@@ -98,6 +98,8 @@ Es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La inte
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
 |  A1   | :heavy_check_mark: |[Licencias](#Licencias)    |<img src="https://media0.giphy.com/media/KySrurVQTjRSGCI0Pn/giphy.gif" width="25px">     | 💻 | 💾| [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  A2   | :heavy_check_mark: |[Paradigmas de Programacion](#Paradigmas-de-Programacion)    |<img src="https://media0.giphy.com/media/KySrurVQTjRSGCI0Pn/giphy.gif" width="25px">     | 💻 | 💾| [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  A3   | :heavy_check_mark: |[Cambio del Estandar C++ VS](#Cambio-del-Estandar-C++-VS)    |<img src="https://media0.giphy.com/media/KySrurVQTjRSGCI0Pn/giphy.gif" width="25px">     | 💻 | 💾| [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+
 
 ## Aditional
 
@@ -572,6 +574,12 @@ _En este ejemplo_
 |Numeration| File                 | Link |    Home   |  Code       | Version      | Estado     |
 |:--------:|:---------------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | A2 | [Paradigmas de Programacion](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Paradigmas%20de%20Programacion)          |      ✔️     |  [⬅️Atras](#Doc) | yes | yes | ✔️ |
+
+## Cambio del Estandar C++ VS
+
+|Numeration| File                  | Link        |    Home   |  Code         | Version     | Estado      |
+|:--------:|:---------------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| A3 | [Cambio del Estandar C++ VS](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/CambiarEstandar)          |      ✔️     |  [⬅️Atras](#Doc) | yes | yes | ✔️ |
 
 ---
 
