@@ -14,6 +14,8 @@
 
 _Cambiamso el Estandar_
 
+* Seleccionar Propiedades
+
 <table align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
@@ -22,6 +24,7 @@ _Cambiamso el Estandar_
   </tr>
 </table>
 
+* Idioma / Estandar C++
 <table align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
