@@ -14,7 +14,6 @@
 
 _Cambiamso el Estandar_
 
-
 <table align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
