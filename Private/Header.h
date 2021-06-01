@@ -17,12 +17,15 @@ public:
 
     /*Oteniendo acceso*/
     /*setter*/
-    //void setradius(double _radius) {
-    //    radius = _radius;
-    //}
 
-    //int getradius() {
-    //    return radius;
-    //}
+    int getradius() {
+        return radius;
+    }
+
+    void setradius(double _radius) {
+        radius = _radius;
+    }
+
+    
 
 };
