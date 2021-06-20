@@ -1,3 +1,6 @@
+/* Practica de Struc*/
+/* Programa simple para usar Struc*/
+
 #include<iostream>
 #include<conio.h>
 #include "Header.h"
@@ -20,7 +23,7 @@ int main() {
 		cout <<"\n";
 	}
 
-//imp
+//implemtacion
 
 	for (int i = 0; i < 2; i++) {
 		cout << "Nombre: " << empleados[i].nombre<<endl;

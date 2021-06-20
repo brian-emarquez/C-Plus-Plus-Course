@@ -1,0 +1,3 @@
+﻿  private.cpp
+C:\Users\brian\source\repos\BrianMarquez3\C-Plus-Plus-Course\Private\Header.h(22,16): warning C4244: 'return': conversión de 'double' a 'int'; posible pérdida de datos
+  Private.vcxproj -> C:\Users\brian\source\repos\BrianMarquez3\C-Plus-Plus-Course\Private\x64\Debug\Private.exe
