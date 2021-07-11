@@ -1,0 +1,3 @@
+﻿  Main.cpp
+D:\Proyectos\C++\BrianMarquez3\C-Plus-Plus-Course\Funciones2-EjercicioIII-EnviandoDatos\Funciones2-EjercicioIII-EnviandoDatos\Main.cpp(14,21): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  Funciones2-EjercicioIII-EnviandoDatos.vcxproj -> D:\Proyectos\C++\BrianMarquez3\C-Plus-Plus-Course\Funciones2-EjercicioIII-EnviandoDatos\Debug\Funciones2-EjercicioIII-EnviandoDatos.exe
