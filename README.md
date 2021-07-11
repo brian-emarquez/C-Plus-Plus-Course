@@ -90,7 +90,7 @@ Es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La inte
 
 | Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link   |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
-|  050-053   | :heavy_check_mark: |[Funciones](#Funciones)    |<img src="https://media0.giphy.com/media/KySrurVQTjRSGCI0Pn/giphy.gif" width="25px">     | 💻 | 💾| [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  050-054   | :heavy_check_mark: |[](#Funciones-c++)    |<img src="https://media0.giphy.com/media/KySrurVQTjRSGCI0Pn/giphy.gif" width="25px">     | 💻 | 💾| [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 
 ## Doc
 
@@ -533,7 +533,7 @@ _En este ejemplo_
 | 049 | [Estructuras Ejercicio Empleado Mayor Menor Salario ](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Estructuras%20EjercicioII-EmpleadoMayorMenorSalario)          |      ✔️     |  yes | yes | ✔️ |[⬅️Atras](#Estrucutras) |
 
 
-## Funciones 
+## Funciones c++ 
 
 <table align="center">
   <tr>
@@ -559,6 +559,12 @@ _En este ejemplo_
 | 051 | [Funciones PLantillas de fucion](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Estructuras%20anidadas)          |      ✔️     |   yes | yes | ✔️ | [⬅️Atras](#Funciones) |
 | 052 | [Funciones Ejercicio I Multiplicacion](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Funciones2-Ejercicio)          |      ✔️     |  yes | yes | ✔️ |[⬅️Atras](#Funciones) |
 | 053 | [Funciones Ejercicio II Potencia](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Funciones2-EjercicioII-ElevacionNumero)          |      ✔️     |   yes | yes | ✔️ |[⬅️Atras](#Funciones) |
+| 054 | [Funciones2 - Plantillas de Funcion](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Funciones2%20-%20Plantillas%20de%20Funcion)          |      ✔️     |   yes | yes | ✔️ |[⬅️Atras](#Funciones) |
+| 055 | [Funciones2 - Parametos por Referencia](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Funciones2%20-%20Plantillas%20de%20Funcion)          |      ✔️     |   yes | yes | ✔️ |[⬅️Atras](#Funciones) |
+
+
+
+
 
 ---
 
