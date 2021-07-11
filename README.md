@@ -532,7 +532,6 @@ _En este ejemplo_
 | 048 | [Estrutura Ejercicio - CategoriaCorredor ](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Estrutura%20Ejercicio%20-%20CategoriaCorredor)          |      ✔️     |  yes | yes | ✔️ |[⬅️Atras](#Estructuras) |
 | 049 | [Estructuras Ejercicio Empleado Mayor Menor Salario ](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Estructuras%20EjercicioII-EmpleadoMayorMenorSalario)          |      ✔️     |  yes | yes | ✔️ |[⬅️Atras](#Estrucutras) |
 
-
 ## Funciones C Plus Plus
 
 <table align="center">
