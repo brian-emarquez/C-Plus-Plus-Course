@@ -2,6 +2,7 @@
 
 # include <iostream>
 # include <conio.h>
+# include"Header.h"
 
 using namespace std;
 
@@ -16,10 +17,4 @@ int main() {
 
 	_getch();
 	return 0;
-}
-
-//Pso por referencia - Drireccion
-void valNuevo(int& xnum, int& ynum) {
-	cout << "El valor del primero numer es: " << xnum << endl;
-	cout << "El valor del segundo numer es: " << ynum << endl;
 }
