@@ -14,7 +14,6 @@ int main() {
 
 	valNuevo(num1, num2);
 
-
 	_getch();
 	return 0;
 }
