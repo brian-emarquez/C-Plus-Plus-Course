@@ -1,0 +1,42 @@
+﻿  Source.cpp
+C:\Users\brian\source\repos\BrianMarquez3\C-Plus-Plus-Course\Funciones2-EjercicioIII-EnviandodDatos\Funciones2-EjercicioIII-EnviandodDatos\Source.cpp(16,21): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\brian\source\repos\BrianMarquez3\C-Plus-Plus-Course\Funciones2-EjercicioIII-EnviandodDatos\Funciones2-EjercicioIII-EnviandodDatos\Source.cpp(31,1): error C2679: '<<' binario: no se encontró un operador que adopte un operando en la parte derecha de tipo 'overloaded-function' (o bien no existe una conversión aceptable)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30037\include\ostream(465,39): message : puede ser 'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_streambuf<char,std::char_traits<char>> *)'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30037\include\ostream(440,39): message : o       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(const void *)'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30037\include\ostream(422,39): message : o       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(long double)'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30037\include\ostream(404,39): message : o       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(double)'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30037\include\ostream(386,39): message : o       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(float)'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30037\include\ostream(368,39): message : o       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned __int64)'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30037\include\ostream(350,39): message : o       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(__int64)'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30037\include\ostream(332,39): message : o       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned long)'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30037\include\ostream(314,39): message : o       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(long)'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30037\include\ostream(295,39): message : o       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned int)'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30037\include\ostream(269,39): message : o       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(int)'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30037\include\ostream(250,39): message : o       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned short)'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30037\include\ostream(216,39): message : o       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(short)'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30037\include\ostream(198,39): message : o       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(bool)'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30037\include\ostream(193,39): message : o       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::ios_base &(__cdecl *)(std::ios_base &))'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30037\include\ostream(188,39): message : o       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_ios<char,std::char_traits<char>> &(__cdecl *)(std::basic_ios<char,std::char_traits<char>> &))'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30037\include\ostream(183,39): message : o       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_ostream<char,std::char_traits<char>> &(__cdecl *)(std::basic_ostream<char,std::char_traits<char>> &))'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30037\include\ostream(859,32): message : o       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<char,std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,_Elem)'
+          with
+          [
+              _Elem=char
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30037\include\ostream(816,32): message : o       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<char,std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const _Elem *)'
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\brian\source\repos\BrianMarquez3\C-Plus-Plus-Course\Funciones2-EjercicioIII-EnviandodDatos\Funciones2-EjercicioIII-EnviandodDatos\Source.cpp(31,1): message : al hacer coincidir la lista de argumentos '(std::basic_ostream<char,std::char_traits<char>>, overloaded-function)'
+C:\Users\brian\source\repos\BrianMarquez3\C-Plus-Plus-Course\Funciones2-EjercicioIII-EnviandodDatos\Funciones2-EjercicioIII-EnviandodDatos\Source.cpp(20): message : Vea la referencia a la creación de una instancia de la función plantilla "void despligue<int>(TIPOD)" que se está compilando
+          with
+          [
+              TIPOD=int
+          ]
+C:\Users\brian\source\repos\BrianMarquez3\C-Plus-Plus-Course\Funciones2-EjercicioIII-EnviandodDatos\Funciones2-EjercicioIII-EnviandodDatos\Source.cpp(31,1): error C2563: hay una falta de correspondencia en la lista de parámetros formales
+C:\Users\brian\source\repos\BrianMarquez3\C-Plus-Plus-Course\Funciones2-EjercicioIII-EnviandodDatos\Funciones2-EjercicioIII-EnviandodDatos\Source.cpp(31,1): error C2568: '<<': no se puede resolver la sobrecarga de funciones
+C:\Users\brian\source\repos\BrianMarquez3\C-Plus-Plus-Course\Funciones2-EjercicioIII-EnviandodDatos\Funciones2-EjercicioIII-EnviandodDatos\Source.cpp(31,1): message : puede ser '_Ty *std::end(_Ty (&)[_Size]) noexcept'
+C:\Users\brian\source\repos\BrianMarquez3\C-Plus-Plus-Course\Funciones2-EjercicioIII-EnviandodDatos\Funciones2-EjercicioIII-EnviandodDatos\Source.cpp(31,1): message : o       'unknown-type std::end(const _Container &)'
+C:\Users\brian\source\repos\BrianMarquez3\C-Plus-Plus-Course\Funciones2-EjercicioIII-EnviandodDatos\Funciones2-EjercicioIII-EnviandodDatos\Source.cpp(31,1): message : o       'unknown-type std::end(_Container &)'
+C:\Users\brian\source\repos\BrianMarquez3\C-Plus-Plus-Course\Funciones2-EjercicioIII-EnviandodDatos\Funciones2-EjercicioIII-EnviandodDatos\Source.cpp(31,1): message : o       'const _Elem *std::end(std::initializer_list<_Elem>) noexcept'
