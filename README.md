@@ -533,7 +533,7 @@ _En este ejemplo_
 | 049 | [Estructuras Ejercicio Empleado Mayor Menor Salario ](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Estructuras%20EjercicioII-EmpleadoMayorMenorSalario)          |      ✔️     |  yes | yes | ✔️ |[⬅️Atras](#Estrucutras) |
 
 
-## Funciones c++ 
+## Funciones C++
 
 <table align="center">
   <tr>
