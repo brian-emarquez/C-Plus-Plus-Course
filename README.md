@@ -90,7 +90,7 @@ Es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La inte
 
 | Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link   |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
-|  050-054   | :heavy_check_mark: |[](#Funciones-c++)    |<img src="https://media0.giphy.com/media/KySrurVQTjRSGCI0Pn/giphy.gif" width="25px">     | 💻 | 💾| [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  050-054   | :heavy_check_mark: |[Funciones C++](#Funciones-c++)    |<img src="https://media0.giphy.com/media/KySrurVQTjRSGCI0Pn/giphy.gif" width="25px">     | 💻 | 💾| [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 
 ## Doc
 
