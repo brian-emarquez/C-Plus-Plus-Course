@@ -560,7 +560,7 @@ _En este ejemplo_
 | 052 | [Funciones Ejercicio I Multiplicacion](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Funciones2-Ejercicio)          |      ✔️     |  yes | yes | ✔️ |[⬅️Atras](#Funciones) |
 | 053 | [Funciones Ejercicio II Potencia](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Funciones2-EjercicioII-ElevacionNumero)          |      ✔️     |   yes | yes | ✔️ |[⬅️Atras](#Funciones) |
 | 054 | [Funciones2 - Plantillas de Funcion](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Funciones2%20-%20Plantillas%20de%20Funcion)          |      ✔️     |   yes | yes | ✔️ |[⬅️Atras](#Funciones) |
-| 055 | [Funciones2 - Parametos por Referencia](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Funciones2%20-%20Plantillas%20de%20Funcion)          |      ✔️     |   yes | yes | ✔️ |[⬅️Atras](#Funciones) |
+| 055 | [Funciones2 - Parametos por Referencia](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Funciones2%20-%20ParametrosPorReferencia)          |      ✔️     |   yes | yes | ✔️ |[⬅️Atras](#Funciones) |
 
 
 
