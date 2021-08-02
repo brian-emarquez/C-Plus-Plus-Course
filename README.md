@@ -606,7 +606,6 @@ Dentro de los competidores más destacados de SQL Server están: Oracle, MariaDB
   <tr>
     <td align="center" style="padding=0;width=50%;">
       <img align="center" style="padding=0;" src="./images/CsharpLogo.png" />
-      <a href="https://github.com/BrianMarquez3/C-Sharp-Training">C# Repository Course Programming in Visual C# Programming Course with .NET Visual Studio</a>.
     </td>
   </tr>
 </table>
