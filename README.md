@@ -640,7 +640,7 @@ Dentro de los competidores más destacados de SQL Server están: Oracle, MariaDB
       <td>Paul Deitel, Harvel Deitel</td>
       <td>Novena Edicion</td>
       <td>978-607-32-2739-1</td>
-      <td><a href="https://dubox.com/s/1vJkFWmJbmcJlj7TRpg5tQQ">C++ Como Programar</a></td>
+      <td><a href="https://ucsmedu-my.sharepoint.com/:b:/g/personal/47092136_ucsm_edu_pe/EXKi9XKsMCZJjUeL-oii1B8BnIbMBs7_svVrp3BW695R9Q?e=lEHT6G">C++ Como Programar</a></td>
       <td>i4wn</td>
   </tr>
 
