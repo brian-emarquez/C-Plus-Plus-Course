@@ -1,8 +1,13 @@
 /*
 
+Realice un funcion recursiva que sume los primeros numeros n enteros
+positivos
 
+Para plantear la funcion recursiva tenga en cuenta que la suma puede expresarse
+mediante la siguiente recurrencia:
 
-
+suma(n) = 1		       ,si n = 1
+		n+suma(n-1)    ,si n > 1
 */
 
 #include <iostream>
