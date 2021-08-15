@@ -578,7 +578,7 @@ _En este ejemplo_
 |Numeration| File                    | Link |    Code       | Version      | Estado     | Atras |
 |:--------:|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | 060      |[Punteros](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Puntero)          |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Funciones) |
-
+| 061      |[Punteros - Numero Par e Impar]()          |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Funciones) |
 
 
 ---
