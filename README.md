@@ -562,7 +562,7 @@ _En este ejemplo_
 | 055 | [Funciones2 - Parametos por Referencia](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Funciones2%20-%20ParametrosPorReferencia)          |      ✔️     |   yes | yes | ✔️ |[⬅️Atras](#Funciones) |
 | 056 | [Funciones2 - DevolverValoresMultiples](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Funciones2%20-%20ParametrosPorReferencia)          |      ✔️     |   yes | yes | ✔️ |[⬅️Atras](#Funciones) |
 | 057 | [Funciones2 - Recursividad](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Funciones2%20-%20Recursividad)          |      ✔️     |   yes | yes | ✔️ |[⬅️Atras](#Funciones) |
-| 058 | [Funciones2 - Recursividad Suma](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Funciones2%20-%20Recursividad)          |      ✔️     |   yes | yes | ✔️ |[⬅️Atras](#Funciones) |
+| 058 | [Funciones2 - Recursividad Suma](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Funciones2%20RecursividadSuma)          |      ✔️     |   yes | yes | ✔️ |[⬅️Atras](#Funciones) |
 
 
 
