@@ -90,7 +90,14 @@ Es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La inte
 
 | Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link   |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
-|  050-054   | :heavy_check_mark: |[Funciones C Plus Plus](#Funciones-C-Plus-Plus)    |<img src="https://media0.giphy.com/media/KySrurVQTjRSGCI0Pn/giphy.gif" width="25px">     | 💻 | 💾| [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  050-059   | :heavy_check_mark: |[Funciones C Plus Plus](#Funciones-C-Plus-Plus)    |<img src="https://media0.giphy.com/media/KySrurVQTjRSGCI0Pn/giphy.gif" width="25px">     | 💻 | 💾| [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+
+## Punteros en C++
+
+| Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link   |
+| ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
+|  060   | :heavy_check_mark: |[Punteros](#Punteros)    |<img src="https://media0.giphy.com/media/KySrurVQTjRSGCI0Pn/giphy.gif" width="25px">     | 💻 | 💾| [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+
 
 ## Doc
 
@@ -566,7 +573,7 @@ _En este ejemplo_
 | 059 | [Funciones2 - Elevacion de un número con recursividad](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Funciones2%20%20-%20ElevacionNumeroRecursividad)          |      ✔️     |   yes | yes | ✔️ |[⬅️Atras](#Funciones) |
 
 
-
+## punteros
 
 ---
 
