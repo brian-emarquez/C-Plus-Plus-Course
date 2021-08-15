@@ -573,7 +573,13 @@ _En este ejemplo_
 | 059 | [Funciones2 - Elevacion de un número con recursividad](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Funciones2%20%20-%20ElevacionNumeroRecursividad)          |      ✔️     |   yes | yes | ✔️ |[⬅️Atras](#Funciones) |
 
 
-## punteros
+## Punteros
+
+|Numeration| File                    | Link |    Code       | Version      | Estado     | Atras |
+|:--------:|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| 060      |[Punteros](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Puntero)          |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Funciones) |
+
+
 
 ---
 
