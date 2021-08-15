@@ -18,18 +18,20 @@ int main() {
 	int base, exponente;
 
 	cout << "Digite la base : "; cin >> base;
-	cout << "Digite la base : "; cin >> exponente;
+	cout << "Digite la Exponente : "; cin >> exponente;
 
+	cout << "\nPotencia de " << base << " elevado a " << exponente << " es : " << potencia(base, exponente)<<endl;
+	
 	system("pause");
 	return 0;
 }
 
 
 //funcion recursiva
-int potencia(int x, int y) {
+int potencia(int x, int y){
 	int pot;
 
-	if (x == 1) {
+	if (y == 1) {
 		pot = x;
 	}else {
 		pot = x * potencia(x, y -1);
