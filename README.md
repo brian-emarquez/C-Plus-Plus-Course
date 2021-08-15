@@ -561,7 +561,7 @@ _En este ejemplo_
 | 054 | [Funciones2 - Plantillas de Funcion](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Funciones2%20-%20Plantillas%20de%20Funcion)          |      ✔️     |   yes | yes | ✔️ |[⬅️Atras](#Funciones) |
 | 055 | [Funciones2 - Parametos por Referencia](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Funciones2%20-%20ParametrosPorReferencia)          |      ✔️     |   yes | yes | ✔️ |[⬅️Atras](#Funciones) |
 | 056 | [Funciones2 - DevolverValoresMultiples](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Funciones2%20-%20ParametrosPorReferencia)          |      ✔️     |   yes | yes | ✔️ |[⬅️Atras](#Funciones) |
-| 057 | [Funciones2 - Recursividad]()          |      ✔️     |   yes | yes | ✔️ |[⬅️Atras](#Funciones) |
+| 057 | [Funciones2 - Recursividad](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Funciones2%20-%20Recursividad)          |      ✔️     |   yes | yes | ✔️ |[⬅️Atras](#Funciones) |
 
 
 
