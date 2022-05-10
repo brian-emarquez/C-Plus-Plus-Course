@@ -575,6 +575,27 @@ _En este ejemplo_
 
 ## Punteros
 
+* Example
+
+```c++int numero, *dir_numero;
+
+	cout << "Digite un Numero: "; cin >> numero;
+
+	dir_numero = &numero; // Guardando la posicion de memoria
+
+	if (*dir_numero % 2 == 0) {
+		cout << "El numero " << *dir_numero << " es par " << endl;
+		cout << "Posicion " << dir_numero << endl;
+	}
+	else {
+		cout << "El numero " << *dir_numero << " es impar " << endl;
+		cout << "Posicion " << dir_numero << endl;
+	}
+
+	_getch();
+	return 0;
+```
+
 |Numeration| File                    | Link |    Code       | Version      | Estado     | Atras |
 |:--------:|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | 060      |[Punteros](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Puntero)          |      ✔️     |  yes | yes | ✔️ | [⬅️Atras](#Funciones) |
