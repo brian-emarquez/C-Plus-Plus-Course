@@ -577,7 +577,8 @@ _En este ejemplo_
 
 * Example
 
-```c++int numero, *dir_numero;
+```c++
+int numero, *dir_numero;
 
 	cout << "Digite un Numero: "; cin >> numero;
 
