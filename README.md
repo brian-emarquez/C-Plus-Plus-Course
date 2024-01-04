@@ -694,10 +694,6 @@ _Link de Descarga_<!--📦 [Install .EXE ](https://raw.githubusercontent.com/C-P
 
 🩸 Hacer una donación [PAYPAL](https://www.paypal.com/donate?hosted_button_id=98U3T62494H9Y) 🍵
 
----
-### Games
-
-<img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/images/games.jpg>
 
 ---
 
